@@ -1,0 +1,44 @@
+<templateSet group="Kotlin">
+  <template name="tag" value="companion object {&#10;    private const val TAG = &quot;$CLASS$&quot;&#10;}" description="" toReformat="true" toShortenFQNames="true">
+    <variable name="CLASS" expression="kotlinClassName()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+  <template name="tlogd" value="TLog.d(TAG, &quot;$METHOD$()&quot;)" description="" toReformat="true" toShortenFQNames="true">
+    <variable name="METHOD" expression="kotlinFunctionName()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+  <template name="tlogdp" value="TLog.d(TAG, &quot;$METHOD$($PARAM_NAMES$)&quot;)" description="" toReformat="true" toShortenFQNames="true">
+    <variable name="METHOD" expression="kotlinFunctionName()" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAM_NAMES" expression="functionParameters()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+  <template name="tlogw" value="TLog.w(TAG, it)" description="" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+  <template name="cdnt" value="/* DO NOTHING */" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+  <template name="donot" value="/* DO NOTHING */" description="" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+  <template name="forceex" value="throw Exception(&quot;Forced exception for DEBUG and TEST.&quot;)" description="" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+</templateSet>

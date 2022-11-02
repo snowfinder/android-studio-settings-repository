@@ -1,0 +1,16 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="android.app.VoiceInteractor.PickOptionRequest.Option.Option(label,index)" />
+      </blacklist>
+      <blacklist language="Kotlin">
+        <added pattern="android.database.sqlite.SQLiteDatabase.query(table,columns,selection,selectionArgs,groupBy,having,orderBy,limit)" />
+      </blacklist>
+    </blacklists>
+    <option id="SHOW_PROPERTY_HINT" value="true" />
+    <option id="SHOW_LOCAL_VARIABLE_HINT" value="true" />
+    <option id="SHOW_FUNCTION_HINT" value="true" />
+    <option id="SHOW_PARAMETER_TYPE_HINT" value="true" />
+  </component>
+</application>

@@ -1,0 +1,13 @@
+<templateSet group="Android">
+  <template name="TAG" value="private static final String TAG = &quot;$class$&quot;;" description="private empty constructor to prohibit instance creation" toReformat="true" toShortenFQNames="true">
+    <variable name="class" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="DEBUG" value="private static final boolean DEBUG = false;" description="private empty constructor to prohibit instance creation" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+</templateSet>

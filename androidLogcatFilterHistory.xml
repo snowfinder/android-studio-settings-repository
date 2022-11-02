@@ -1,0 +1,36 @@
+<application>
+  <component name="AndroidLogcatFilterHistory">
+    <option name="favorites">
+      <list>
+        <option value="tag~:NuguClientManager|NuguAuthManager|ScreenOnOffBroadcastReceiver|NuguCredentialsManager|NuguCredentialsRefresher|NogDebugLogManager|LocalTtsPlayer|VoiceInteractionServiceImpl" />
+        <option value="level:error" />
+        <option value="level:error package:mine " />
+      </list>
+    </option>
+    <option name="mostRecentlyUsed" value="sms" />
+    <option name="nonFavorites">
+      <list>
+        <option value="sms" />
+        <option value="serviceapp" />
+        <option value="ServiceApp" />
+        <option value="StartLi" />
+        <option value="tag~:NuguClientManager|NuguAuthManager|ScreenOnOffBroadcastReceiver|NuguCredentialsManager|NuguCredentialsRefresher|NogDebugLogManager|LocalTtsPlayer|VoiceInteractionServiceImpl|NuguApiServiceManager" />
+        <option value="package:mine" />
+        <option value="tag~:NuguClientManager|NuguAuthManager|ScreenOnOffBroadcastReceiver|NuguCredentialsManager|NuguCredentialsRefresher|NogDebugLogManager|LocalTtsPlayer|VoiceInteractionServiceImplNuguApiServiceManager" />
+        <option value="tag~:NuguClientManager " />
+        <option value="tag~:NuguClientManager|NuguConfigurationManager" />
+        <option value="nuguauto" />
+        <option value="tag~:NuguClientManager|Confi" />
+        <option value="tag~:NuguClientManager|NuguAuthManager|ScreenOnOffBroadcastReceiver" />
+        <option value="tag~:NuguClientManager|NuguAuthManager|ScreenOnOffBroadcastReceiver|NuguCredentialsManager|NuguCredentialsRefresher|NogDebugLogManager|LocalTtsPlayer" />
+        <option value="tag~:NuguClientManager|NuguAuthManager|ScreenOnOffBroadcastReceiver|NuguCredentialsManager|NuguCredentialsRefresher|NogDebugLogManager" />
+        <option value="NogDebugLogManager" />
+        <option value="tag~:NuguClientManager|NuguAuthManager|ScreenOnOffBroadcastReceiver|NuguCredentialsManager|NuguCredentialsRefresher" />
+        <option value="tag~:NuguClientManager|NuguAuthManager|ScreenOnOffBroadcastReceiver|NuguCredentialsManager|NuguCredentialsRefresher message~:postSendNuguRequestFailedLogToNog" />
+        <option value="tag~:NuguClientManager|NuguAuthManager|ScreenOnOffBroadcastReceiver|NuguCredentialsManager|NuguCredentialsRefresher|postSendNuguRequestFailedLogToNog" />
+        <option value="tag~:NuguClientManager|NuguAuthManager|ScreenOnOffBroadcastReceiver|NuguCredentialsManager" />
+        <option value="tag~:NuguClientManager|NuguAuthManager" />
+      </list>
+    </option>
+  </component>
+</application>
