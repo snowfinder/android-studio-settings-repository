@@ -3,7 +3,7 @@
     <keyboard-shortcut first-keystroke="ctrl meta j" />
   </action>
   <action id="ActivateLogcatToolWindow">
-    <keyboard-shortcut first-keystroke="ctrl meta l" />
+    <keyboard-shortcut first-keystroke="shift ctrl meta l" />
   </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="meta t" />
