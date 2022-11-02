@@ -7,9 +7,10 @@
         <option value="level:error package:mine " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="onBufferWritten" />
+    <option name="mostRecentlyUsed" value="onPcmRead" />
     <option name="nonFavorites">
       <list>
+        <option value="onPcmRead" />
         <option value="onBufferWritten" />
         <option value="sms" />
         <option value="serviceapp" />
@@ -29,7 +30,6 @@
         <option value="tag~:NuguClientManager|NuguAuthManager|ScreenOnOffBroadcastReceiver|NuguCredentialsManager|NuguCredentialsRefresher" />
         <option value="tag~:NuguClientManager|NuguAuthManager|ScreenOnOffBroadcastReceiver|NuguCredentialsManager|NuguCredentialsRefresher message~:postSendNuguRequestFailedLogToNog" />
         <option value="tag~:NuguClientManager|NuguAuthManager|ScreenOnOffBroadcastReceiver|NuguCredentialsManager|NuguCredentialsRefresher|postSendNuguRequestFailedLogToNog" />
-        <option value="tag~:NuguClientManager|NuguAuthManager|ScreenOnOffBroadcastReceiver|NuguCredentialsManager" />
       </list>
     </option>
   </component>
