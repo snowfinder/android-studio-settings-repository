@@ -2,14 +2,15 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="favorites">
       <list>
-        <option value="tag~:NuguClientManager|NuguAuthManager|ScreenOnOffBroadcastReceiver|NuguCredentialsManager|NuguCredentialsRefresher|NogDebugLogManager|LocalTtsPlayer|VoiceInteractionServiceImpl" />
         <option value="level:error" />
+        <option value="tag~:NuguClientManager|NuguAuthManager|ScreenOnOffBroadcastReceiver|NuguCredentialsManager|NuguCredentialsRefresher|NogDebugLogManager|LocalTtsPlayer|VoiceInteractionServiceImpl" />
         <option value="level:error package:mine " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="onPcmRead" />
+    <option name="mostRecentlyUsed" value="level:error" />
     <option name="nonFavorites">
       <list>
+        <option value="level:err" />
         <option value="onPcmRead" />
         <option value="onBufferWritten" />
         <option value="sms" />
@@ -29,7 +30,6 @@
         <option value="NogDebugLogManager" />
         <option value="tag~:NuguClientManager|NuguAuthManager|ScreenOnOffBroadcastReceiver|NuguCredentialsManager|NuguCredentialsRefresher" />
         <option value="tag~:NuguClientManager|NuguAuthManager|ScreenOnOffBroadcastReceiver|NuguCredentialsManager|NuguCredentialsRefresher message~:postSendNuguRequestFailedLogToNog" />
-        <option value="tag~:NuguClientManager|NuguAuthManager|ScreenOnOffBroadcastReceiver|NuguCredentialsManager|NuguCredentialsRefresher|postSendNuguRequestFailedLogToNog" />
       </list>
     </option>
   </component>
