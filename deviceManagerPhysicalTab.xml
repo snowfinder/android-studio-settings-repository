@@ -1,0 +1,28 @@
+<application>
+  <component name="deviceManagerPhysicalTab">
+    <physicalDevices>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="9B141FFAZ00ACL" />
+          </Key>
+        </key>
+        <name value="Google Pixel 4" />
+        <target value="Android Tiramisu" />
+        <api value="androidversion:32:Tiramisu:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="R3CT60E8V2E" />
+          </Key>
+        </key>
+        <name value="samsung SM-S906N" />
+        <target value="Android 12.0" />
+        <api value="androidversion:31:null:null:true" />
+      </PhysicalDevice>
+    </physicalDevices>
+  </component>
+</application>
