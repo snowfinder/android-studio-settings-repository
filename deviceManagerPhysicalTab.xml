@@ -5,6 +5,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="c081e285" />
+          </Key>
+        </key>
+        <name value="BYD AUTO DiLink3.0 For BYD AUTO" />
+        <target value="Android 10.0" />
+        <api value="androidversion:29:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="9B141FFAZ00ACL" />
           </Key>
         </key>
