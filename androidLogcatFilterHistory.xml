@@ -7,9 +7,11 @@
         <option value="level:error package:mine " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag~:NuguAndroidAudioFocusInteractor" />
+    <option name="mostRecentlyUsed" value="tag~:AsrBeepPlayer|AndroidMediaPlayer" />
     <option name="nonFavorites">
       <list>
+        <option value="tag~:AsrBeepPlayer|AndroidMediaPlayer" />
+        <option value="beep" />
         <option value="tag~:NuguAndroidAudioFocusInteractor" />
         <option value="MediaFocusControl" />
         <option value="focus" />
@@ -28,8 +30,6 @@
         <option value="package:mine" />
         <option value="tag~:NuguClientManager|NuguAuthManager|ScreenOnOffBroadcastReceiver|NuguCredentialsManager|NuguCredentialsRefresher|NogDebugLogManager|LocalTtsPlayer|VoiceInteractionServiceImplNuguApiServiceManager" />
         <option value="tag~:NuguClientManager " />
-        <option value="tag~:NuguClientManager|NuguConfigurationManager" />
-        <option value="nuguauto" />
       </list>
     </option>
   </component>
