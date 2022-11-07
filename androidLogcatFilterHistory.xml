@@ -7,9 +7,14 @@
         <option value="level:error package:mine " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="PackageHelper" />
+    <option name="mostRecentlyUsed" value="tag~:NuguAndroidAudioFocusInteractor" />
     <option name="nonFavorites">
       <list>
+        <option value="tag~:NuguAndroidAudioFocusInteractor" />
+        <option value="MediaFocusControl" />
+        <option value="focus" />
+        <option value="tag~:" />
+        <option value="audio" />
         <option value="PackageHelper" />
         <option value="package:mine " />
         <option value="level:err" />
@@ -25,11 +30,6 @@
         <option value="tag~:NuguClientManager " />
         <option value="tag~:NuguClientManager|NuguConfigurationManager" />
         <option value="nuguauto" />
-        <option value="tag~:NuguClientManager|Confi" />
-        <option value="tag~:NuguClientManager|NuguAuthManager|ScreenOnOffBroadcastReceiver" />
-        <option value="tag~:NuguClientManager|NuguAuthManager|ScreenOnOffBroadcastReceiver|NuguCredentialsManager|NuguCredentialsRefresher|NogDebugLogManager|LocalTtsPlayer" />
-        <option value="tag~:NuguClientManager|NuguAuthManager|ScreenOnOffBroadcastReceiver|NuguCredentialsManager|NuguCredentialsRefresher|NogDebugLogManager" />
-        <option value="NogDebugLogManager" />
       </list>
     </option>
   </component>
