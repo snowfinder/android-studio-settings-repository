@@ -7,9 +7,11 @@
         <option value="level:error package:mine " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="LocalTts" />
+    <option name="mostRecentlyUsed" value="tag~:LocalTts|AudioController" />
     <option name="nonFavorites">
       <list>
+        <option value="tag~:LocalTts|AudioController" />
+        <option value="LocalTts|AudioController" />
         <option value="LocalTts" />
         <option value="tag~:AsrBeepPlayer|AndroidMediaPlayer|NuguAndroidAudioFocusInteractor|LocalTts" />
         <option value="NuguClientManager" />
@@ -28,8 +30,6 @@
         <option value="onPcmRead" />
         <option value="onBufferWritten" />
         <option value="sms" />
-        <option value="serviceapp" />
-        <option value="ServiceApp" />
       </list>
     </option>
   </component>
