@@ -2,12 +2,13 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="favorites">
       <list>
+        <option value="package:mine " />
+        <option value="level:error package:mine " />
         <option value="level:error" />
         <option value="tag~:NuguClientManager|NuguAuthManager|ScreenOnOffBroadcastReceiver|NuguCredentialsManager|NuguCredentialsRefresher|NogDebugLogManager|LocalTtsPlayer|VoiceInteractionServiceImpl" />
-        <option value="level:error package:mine " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag~:LocalTts|AudioController" />
+    <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
         <option value="tag~:LocalTts|AudioController" />
@@ -25,7 +26,6 @@
         <option value="tag~:" />
         <option value="audio" />
         <option value="PackageHelper" />
-        <option value="package:mine " />
         <option value="level:err" />
         <option value="onPcmRead" />
         <option value="onBufferWritten" />
