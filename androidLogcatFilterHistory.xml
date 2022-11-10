@@ -11,13 +11,13 @@
     <option name="mostRecentlyUsed" value="level:error package:mine " />
     <option name="nonFavorites">
       <list>
+        <option value="NuguClientManager" />
         <option value="PackageHelper" />
         <option value="package:mine" />
         <option value="tag~:LocalTts|AudioController" />
         <option value="LocalTts|AudioController" />
         <option value="LocalTts" />
         <option value="tag~:AsrBeepPlayer|AndroidMediaPlayer|NuguAndroidAudioFocusInteractor|LocalTts" />
-        <option value="NuguClientManager" />
         <option value="tag~:AsrBeepPlayer|AndroidMediaPlayer|NuguAndroidAudioFocusInteractor" />
         <option value="tag~:NuguAndroidAudioFocusInteractor" />
         <option value="buildAudioAttributes" />
