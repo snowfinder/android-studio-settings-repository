@@ -8,9 +8,15 @@
         <option value="tag~:NuguClientManager|NuguAuthManager|ScreenOnOffBroadcastReceiver|NuguCredentialsManager|NuguCredentialsRefresher|NogDebugLogManager|LocalTtsPlayer|VoiceInteractionServiceImpl" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="level:error package:mine " />
+    <option name="mostRecentlyUsed" value="tag~:NuguTIDApiManager|LoginWebviewInCarActivity|OIDCAppToAppBridgeActivity|LoginMainActivity" />
     <option name="nonFavorites">
       <list>
+        <option value="tag~:NuguTIDApiManager|LoginWebviewInCarActivity|OIDCAppToAppBridgeActivity|LoginMainActivity" />
+        <option value="tag~:NuguTIDApiManager|LoginWebviewInCarActivity|OIDCAppToAppBridgeActivity" />
+        <option value="tag~:NuguTIDApiManager|LoginWebviewInCarActivity" />
+        <option value="level:error package:mine tag~:RecommendAnimator" />
+        <option value="tag~:NuguTIDApiManager" />
+        <option value="package:mine | tag~:NuguTIDApiManager" />
         <option value="NuguClientManager" />
         <option value="PackageHelper" />
         <option value="package:mine" />
@@ -25,12 +31,6 @@
         <option value="beep" />
         <option value="MediaFocusControl" />
         <option value="focus" />
-        <option value="tag~:" />
-        <option value="audio" />
-        <option value="level:err" />
-        <option value="onPcmRead" />
-        <option value="onBufferWritten" />
-        <option value="sms" />
       </list>
     </option>
   </component>
