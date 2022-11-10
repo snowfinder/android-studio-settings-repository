@@ -7,9 +7,11 @@
         <option value="tag~:NuguClientManager|NuguAuthManager|ScreenOnOffBroadcastReceiver|NuguCredentialsManager|NuguCredentialsRefresher|NogDebugLogManager|LocalTtsPlayer|VoiceInteractionServiceImpl" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="level:error package:mine " />
+    <option name="mostRecentlyUsed" value="charCode" />
     <option name="nonFavorites">
       <list>
+        <option value="charCode" />
+        <option value="showPasswordCheckDialog" />
         <option value="package:mine " />
         <option value="tag~:NuguTIDApiManager|LoginWebviewInCarActivity|OIDCAppToAppBridgeActivity|LoginMainActivity" />
         <option value="tag~:NuguTIDApiManager|LoginWebviewInCarActivity|OIDCAppToAppBridgeActivity" />
@@ -28,8 +30,6 @@
         <option value="tag~:NuguAndroidAudioFocusInteractor" />
         <option value="buildAudioAttributes" />
         <option value="tag~:AsrBeepPlayer|AndroidMediaPlayer" />
-        <option value="beep" />
-        <option value="MediaFocusControl" />
       </list>
     </option>
   </component>
