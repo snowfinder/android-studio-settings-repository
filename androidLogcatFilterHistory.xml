@@ -2,15 +2,15 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="favorites">
       <list>
-        <option value="level:error package:mine " />
         <option value="level:error" />
-        <option value="package:mine " />
+        <option value="level:error package:mine " />
         <option value="tag~:NuguClientManager|NuguAuthManager|ScreenOnOffBroadcastReceiver|NuguCredentialsManager|NuguCredentialsRefresher|NogDebugLogManager|LocalTtsPlayer|VoiceInteractionServiceImpl" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag~:NuguTIDApiManager|LoginWebviewInCarActivity|OIDCAppToAppBridgeActivity|LoginMainActivity" />
+    <option name="mostRecentlyUsed" value="level:error package:mine " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="tag~:NuguTIDApiManager|LoginWebviewInCarActivity|OIDCAppToAppBridgeActivity|LoginMainActivity" />
         <option value="tag~:NuguTIDApiManager|LoginWebviewInCarActivity|OIDCAppToAppBridgeActivity" />
         <option value="tag~:NuguTIDApiManager|LoginWebviewInCarActivity" />
@@ -30,7 +30,6 @@
         <option value="tag~:AsrBeepPlayer|AndroidMediaPlayer" />
         <option value="beep" />
         <option value="MediaFocusControl" />
-        <option value="focus" />
       </list>
     </option>
   </component>
