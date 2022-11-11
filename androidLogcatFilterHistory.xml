@@ -7,9 +7,12 @@
         <option value="tag~:NuguClientManager|NuguAuthManager|ScreenOnOffBroadcastReceiver|NuguCredentialsManager|NuguCredentialsRefresher|NogDebugLogManager|LocalTtsPlayer|VoiceInteractionServiceImpl" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="focus" />
+    <option name="mostRecentlyUsed" value="NuguClientManager" />
     <option name="nonFavorites">
       <list>
+        <option value="NuguClientManager" />
+        <option value="MediaPlayer" />
+        <option value="NuguAndroidAudioFocusInteractor" />
         <option value="focus" />
         <option value=" " />
         <option value="package:mine tag~:focus " />
@@ -22,14 +25,11 @@
         <option value="level:error package:mine tag~:RecommendAnimator" />
         <option value="tag~:NuguTIDApiManager" />
         <option value="package:mine | tag~:NuguTIDApiManager" />
-        <option value="NuguClientManager" />
         <option value="PackageHelper" />
         <option value="package:mine" />
         <option value="tag~:LocalTts|AudioController" />
         <option value="LocalTts|AudioController" />
         <option value="LocalTts" />
-        <option value="tag~:AsrBeepPlayer|AndroidMediaPlayer|NuguAndroidAudioFocusInteractor|LocalTts" />
-        <option value="tag~:AsrBeepPlayer|AndroidMediaPlayer|NuguAndroidAudioFocusInteractor" />
       </list>
     </option>
   </component>
