@@ -11,6 +11,8 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine tag~:DebugActivityProtector" />
+        <option value="package:mine tag~:DebugActivityProtector|PackageHelper" />
+        <option value="package:mine tag~:DebugActivityProtector|" />
         <option value="package:mine tag~:PackageHelper|DebugActivityProtector" />
         <option value="package:mine tag~:AutoAssistantApplication|PackageHelper" />
         <option value="package:mine tag~:AutoAssistantApplication" />
@@ -28,8 +30,6 @@
         <option value="showPasswordCheckDialog" />
         <option value="tag~:NuguTIDApiManager|LoginWebviewInCarActivity|OIDCAppToAppBridgeActivity|LoginMainActivity" />
         <option value="tag~:NuguTIDApiManager|LoginWebviewInCarActivity|OIDCAppToAppBridgeActivity" />
-        <option value="tag~:NuguTIDApiManager|LoginWebviewInCarActivity" />
-        <option value="level:error package:mine tag~:RecommendAnimator" />
       </list>
     </option>
   </component>
