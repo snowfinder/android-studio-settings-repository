@@ -7,9 +7,10 @@
         <option value="tag~:NuguClientManager|NuguAuthManager|ScreenOnOffBroadcastReceiver|NuguCredentialsManager|NuguCredentialsRefresher|NogDebugLogManager|LocalTtsPlayer|VoiceInteractionServiceImpl" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag~:AutoAssistantApplication|PackageHelper" />
+    <option name="mostRecentlyUsed" value="package:mine tag~:PackageHelper|DebugActivityProtector" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag~:PackageHelper|DebugActivityProtector" />
         <option value="package:mine tag~:AutoAssistantApplication|PackageHelper" />
         <option value="package:mine tag~:AutoAssistantApplication" />
         <option value="package:mine " />
@@ -29,7 +30,6 @@
         <option value="tag~:NuguTIDApiManager|LoginWebviewInCarActivity" />
         <option value="level:error package:mine tag~:RecommendAnimator" />
         <option value="tag~:NuguTIDApiManager" />
-        <option value="package:mine | tag~:NuguTIDApiManager" />
       </list>
     </option>
   </component>
