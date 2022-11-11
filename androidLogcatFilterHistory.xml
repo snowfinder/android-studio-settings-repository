@@ -7,9 +7,12 @@
         <option value="tag~:NuguClientManager|NuguAuthManager|ScreenOnOffBroadcastReceiver|NuguCredentialsManager|NuguCredentialsRefresher|NogDebugLogManager|LocalTtsPlayer|VoiceInteractionServiceImpl" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="charCode" />
+    <option name="mostRecentlyUsed" value="focus" />
     <option name="nonFavorites">
       <list>
+        <option value="focus" />
+        <option value=" " />
+        <option value="package:mine tag~:focus " />
         <option value="charCode" />
         <option value="showPasswordCheckDialog" />
         <option value="package:mine " />
@@ -27,9 +30,6 @@
         <option value="LocalTts" />
         <option value="tag~:AsrBeepPlayer|AndroidMediaPlayer|NuguAndroidAudioFocusInteractor|LocalTts" />
         <option value="tag~:AsrBeepPlayer|AndroidMediaPlayer|NuguAndroidAudioFocusInteractor" />
-        <option value="tag~:NuguAndroidAudioFocusInteractor" />
-        <option value="buildAudioAttributes" />
-        <option value="tag~:AsrBeepPlayer|AndroidMediaPlayer" />
       </list>
     </option>
   </component>
