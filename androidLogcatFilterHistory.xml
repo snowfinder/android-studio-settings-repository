@@ -2,34 +2,34 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="favorites">
       <list>
-        <option value="level:error" />
         <option value="level:error package:mine " />
+        <option value="level:error" />
         <option value="tag~:NuguClientManager|NuguAuthManager|ScreenOnOffBroadcastReceiver|NuguCredentialsManager|NuguCredentialsRefresher|NogDebugLogManager|LocalTtsPlayer|VoiceInteractionServiceImpl" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="NuguClientManager" />
+    <option name="mostRecentlyUsed" value="package:mine tag~:AutoAssistantApplication|PackageHelper" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag~:AutoAssistantApplication|PackageHelper" />
+        <option value="package:mine tag~:AutoAssistantApplication" />
+        <option value="package:mine " />
+        <option value="AutoAssistantApplication" />
+        <option value="NuguAutoAssis" />
+        <option value="DevelopmentSettingsActivity" />
+        <option value="focus" />
         <option value="NuguClientManager" />
         <option value="MediaPlayer" />
         <option value="NuguAndroidAudioFocusInteractor" />
-        <option value="focus" />
         <option value=" " />
         <option value="package:mine tag~:focus " />
         <option value="charCode" />
         <option value="showPasswordCheckDialog" />
-        <option value="package:mine " />
         <option value="tag~:NuguTIDApiManager|LoginWebviewInCarActivity|OIDCAppToAppBridgeActivity|LoginMainActivity" />
         <option value="tag~:NuguTIDApiManager|LoginWebviewInCarActivity|OIDCAppToAppBridgeActivity" />
         <option value="tag~:NuguTIDApiManager|LoginWebviewInCarActivity" />
         <option value="level:error package:mine tag~:RecommendAnimator" />
         <option value="tag~:NuguTIDApiManager" />
         <option value="package:mine | tag~:NuguTIDApiManager" />
-        <option value="PackageHelper" />
-        <option value="package:mine" />
-        <option value="tag~:LocalTts|AudioController" />
-        <option value="LocalTts|AudioController" />
-        <option value="LocalTts" />
       </list>
     </option>
   </component>
