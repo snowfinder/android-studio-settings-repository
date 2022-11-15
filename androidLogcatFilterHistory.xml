@@ -7,9 +7,10 @@
         <option value="tag~:NuguClientManager|NuguAuthManager|ScreenOnOffBroadcastReceiver|NuguCredentialsManager|NuguCredentialsRefresher|NogDebugLogManager|LocalTtsPlayer|VoiceInteractionServiceImpl" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine message~:Assistant state" />
+    <option name="mostRecentlyUsed" value="package:mine message~:Assistant.state" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine message~:Assistant.state" />
         <option value="package:mine message~:Assistant state" />
         <option value="package:mine tag~:Assistant state" />
         <option value="package:mine tag~:Assistant" />
@@ -29,7 +30,6 @@
         <option value="NuguAutoAssis" />
         <option value="DevelopmentSettingsActivity" />
         <option value="focus" />
-        <option value="NuguClientManager" />
       </list>
     </option>
   </component>
