@@ -10,6 +10,7 @@
     <option name="mostRecentlyUsed" value="Volume" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine message~:volume" />
         <option value="Volume" />
         <option value="focus" />
         <option value="tag~:LocalTtsPlayer|AudioController" />
@@ -29,7 +30,6 @@
         <option value="package:mine tag~:DebugActivityProtector|DevelopmentSettingsActivity|Packag" />
         <option value="package:mine tag~:DebugActivityProtector|DevelopmentSettingsActivity" />
         <option value="package:mine tag~:DebugActivityProtector|PackageHelper" />
-        <option value="package:mine tag~:DebugActivityProtector|Pack" />
       </list>
     </option>
   </component>
