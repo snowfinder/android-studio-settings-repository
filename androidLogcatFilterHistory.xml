@@ -7,9 +7,10 @@
         <option value="tag~:NuguClientManager|NuguAuthManager|ScreenOnOffBroadcastReceiver|NuguCredentialsManager|NuguCredentialsRefresher|NogDebugLogManager|LocalTtsPlayer|VoiceInteractionServiceImpl" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag~:LocalTtsPlayer" />
+    <option name="mostRecentlyUsed" value="tag~:LocalTtsPlayer|AudioController" />
     <option name="nonFavorites">
       <list>
+        <option value="tag~:LocalTtsPlayer|AudioController" />
         <option value="tag~:LocalTtsPlayer" />
         <option value="tag~:" />
         <option value="package:mine tag~:DebugActivityProtector" />
@@ -29,7 +30,6 @@
         <option value="package:mine tag~:DebugActivityProtector|Pack" />
         <option value="package:mine tag~:DebugActivityProtector|" />
         <option value="package:mine tag~:PackageHelper|DebugActivityProtector" />
-        <option value="package:mine tag~:AutoAssistantApplication|PackageHelper" />
       </list>
     </option>
   </component>
