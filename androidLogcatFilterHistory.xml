@@ -7,9 +7,12 @@
         <option value="tag~:NuguClientManager|NuguAuthManager|ScreenOnOffBroadcastReceiver|NuguCredentialsManager|NuguCredentialsRefresher|NogDebugLogManager|LocalTtsPlayer|VoiceInteractionServiceImpl" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="Volume" />
+    <option name="mostRecentlyUsed" value="vol" />
     <option name="nonFavorites">
       <list>
+        <option value="vol" />
+        <option value="package:mine tag~:AbsVolumeControl" />
+        <option value="AbsVolumeControl" />
         <option value="package:mine message~:volume" />
         <option value="Volume" />
         <option value="focus" />
@@ -27,9 +30,6 @@
         <option value="package:mine tag~:Assistant.state" />
         <option value="package:mine tag~:AutoAssistantApplication " />
         <option value="package:mine " />
-        <option value="package:mine tag~:DebugActivityProtector|DevelopmentSettingsActivity|Packag" />
-        <option value="package:mine tag~:DebugActivityProtector|DevelopmentSettingsActivity" />
-        <option value="package:mine tag~:DebugActivityProtector|PackageHelper" />
       </list>
     </option>
   </component>
