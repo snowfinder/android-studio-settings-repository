@@ -7,12 +7,12 @@
         <option value="tag~:NuguClientManager|NuguAuthManager|ScreenOnOffBroadcastReceiver|NuguCredentialsManager|NuguCredentialsRefresher|NogDebugLogManager|LocalTtsPlayer|VoiceInteractionServiceImpl" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="vol" />
+    <option name="mostRecentlyUsed" value="AbsVolumeControl" />
     <option name="nonFavorites">
       <list>
+        <option value="AbsVolumeControl" />
         <option value="vol" />
         <option value="package:mine tag~:AbsVolumeControl" />
-        <option value="AbsVolumeControl" />
         <option value="package:mine message~:volume" />
         <option value="Volume" />
         <option value="focus" />
