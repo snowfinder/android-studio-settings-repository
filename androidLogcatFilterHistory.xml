@@ -8,9 +8,10 @@
         <option value="tag~:NuguClientManager|NuguAuthManager|ScreenOnOffBroadcastReceiver|NuguCredentialsManager|NuguCredentialsRefresher|NogDebugLogManager|LocalTtsPlayer|VoiceInteractionServiceImpl" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="level:error" />
+    <option name="mostRecentlyUsed" value="tag~:DataCheckLayout" />
     <option name="nonFavorites">
       <list>
+        <option value="tag~:DataCheckLayout" />
         <option value="package:mine" />
         <option value="package:mine tag~:DevelopmentSettingsActivity|DebugFeatureActivity|DebugActivityProtector" />
         <option value="package:mine tag~:DevelopmentSettingsActivity|DebugFeatureActivity" />
