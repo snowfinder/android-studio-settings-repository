@@ -7,14 +7,16 @@
         <option value="tag~:NuguClientManager|NuguAuthManager|ScreenOnOffBroadcastReceiver|NuguCredentialsManager|NuguCredentialsRefresher|NogDebugLogManager|LocalTtsPlayer|VoiceInteractionServiceImpl" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine message~:Assistant" />
+    <option name="mostRecentlyUsed" value="package:mine tag~:DevelopmentSettingsActivity" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag~:DevelopmentSettingsActivity" />
+        <option value="package:mine" />
+        <option value="package:mine tag~:DebugActivityProtector|DevelopmentSettingsActivity|PackageHelper" />
         <option value="package:mine message~:Assistant" />
         <option value="package:mine tag~:Assistant" />
         <option value="package:mine " />
         <option value=" VoiceInteraction" />
-        <option value="package:mine tag~:DebugActivityProtector|DevelopmentSettingsActivity|PackageHelper" />
         <option value="package:mine tag~:DebugActivityProtector|DevelopmentSettingsActivity|enableComponent" />
         <option value="package:mine tag~:DebugActivityProtector|DevelopmentSettingsActivity" />
         <option value="package:mine tag~:DebugActivityProtector" />
@@ -28,8 +30,6 @@
         <option value="tag~:LocalTtsPlayer" />
         <option value="tag~:" />
         <option value="message~:Assistant.state" />
-        <option value="AutoAssistantApplication" />
-        <option value="AutoAssi" />
       </list>
     </option>
   </component>
