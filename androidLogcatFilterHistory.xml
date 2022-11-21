@@ -7,7 +7,7 @@
         <option value="tag~:NuguClientManager|NuguAuthManager|ScreenOnOffBroadcastReceiver|NuguCredentialsManager|NuguCredentialsRefresher|NogDebugLogManager|LocalTtsPlayer|VoiceInteractionServiceImpl" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag~:DevelopmentSettingsActivity|DebugFeatureActivity|DebugActivityProtector" />
+    <option name="mostRecentlyUsed" value="tag~:NuguClientManager|NuguAuthManager|ScreenOnOffBroadcastReceiver|NuguCredentialsManager|NuguCredentialsRefresher|NogDebugLogManager|LocalTtsPlayer|VoiceInteractionServiceImpl" />
     <option name="nonFavorites">
       <list>
         <option value="package:mine tag~:DevelopmentSettingsActivity|DebugFeatureActivity|DebugActivityProtector" />
