@@ -2,15 +2,16 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="favorites">
       <list>
-        <option value="level:error" />
         <option value="package:mine " />
+        <option value="level:error" />
         <option value="level:error package:mine " />
         <option value="tag~:NuguClientManager|NuguAuthManager|ScreenOnOffBroadcastReceiver|NuguCredentialsManager|NuguCredentialsRefresher|NogDebugLogManager|LocalTtsPlayer|VoiceInteractionServiceImpl" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag~:TestCarControlLayout" />
+    <option name="mostRecentlyUsed" value="NuguClientManager" />
     <option name="nonFavorites">
       <list>
+        <option value="NuguClientManager" />
         <option value="package:mine tag~:TestCarControlLayout" />
         <option value="package:mine tag~:DataCheckLayout" />
         <option value="tag~:DataCheckLayout" />
@@ -30,7 +31,6 @@
         <option value="package:mine tag~:AbsVolumeControl" />
         <option value="package:mine message~:volume" />
         <option value="Volume" />
-        <option value="focus" />
       </list>
     </option>
   </component>
