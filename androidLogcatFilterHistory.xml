@@ -8,9 +8,10 @@
         <option value="tag~:NuguClientManager|NuguAuthManager|ScreenOnOffBroadcastReceiver|NuguCredentialsManager|NuguCredentialsRefresher|NogDebugLogManager|LocalTtsPlayer|VoiceInteractionServiceImpl" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="level:error" />
+    <option name="mostRecentlyUsed" value="package:mine tag~:DataCheckLayout" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag~:DataCheckLayout" />
         <option value="tag~:DataCheckLayout" />
         <option value="package:mine" />
         <option value="package:mine tag~:DevelopmentSettingsActivity|DebugFeatureActivity|DebugActivityProtector" />
@@ -30,7 +31,6 @@
         <option value="Volume" />
         <option value="focus" />
         <option value="tag~:LocalTtsPlayer|AudioController" />
-        <option value="tag~:LocalTtsPlayer" />
       </list>
     </option>
   </component>
