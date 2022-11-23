@@ -8,9 +8,10 @@
         <option value="tag~:NuguClientManager|NuguAuthManager|ScreenOnOffBroadcastReceiver|NuguCredentialsManager|NuguCredentialsRefresher|NogDebugLogManager|LocalTtsPlayer|VoiceInteractionServiceImpl" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="WindowLeaked" />
+    <option name="mostRecentlyUsed" value="configresour" />
     <option name="nonFavorites">
       <list>
+        <option value="configresour" />
         <option value="WindowLeaked" />
         <option value="DevelopmentSettingsActivity" />
         <option value="NuguClientManager" />
@@ -30,7 +31,6 @@
         <option value="package:mine tag~:DebugActivityProtector" />
         <option value="AbsVolumeControl" />
         <option value="vol" />
-        <option value="package:mine tag~:AbsVolumeControl" />
       </list>
     </option>
   </component>
