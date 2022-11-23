@@ -2,15 +2,20 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="favorites">
       <list>
-        <option value="level:error package:mine " />
         <option value="level:error" />
+        <option value="level:error package:mine " />
         <option value="package:mine " />
         <option value="tag~:NuguClientManager|NuguAuthManager|ScreenOnOffBroadcastReceiver|NuguCredentialsManager|NuguCredentialsRefresher|NogDebugLogManager|LocalTtsPlayer|VoiceInteractionServiceImpl" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="configResource" />
+    <option name="mostRecentlyUsed" value="tag~:NuguConfigResourceLoader " />
     <option name="nonFavorites">
       <list>
+        <option value="tag~:NuguConfigResourceLoader " />
+        <option value="tag~:NuguConfigResourceLoader | message~:deviceUniqueId " />
+        <option value="tag~:configResourceloader | message~:deviceuniqueid" />
+        <option value="tag~:configResourceloader message~:deviceuniqueid" />
+        <option value="configResourceloader" />
         <option value="configResource" />
         <option value="NUGUAu" />
         <option value="configREsource" />
@@ -26,11 +31,6 @@
         <option value="package:mine tag~:DevelopmentSettingsActivity|DebugFeatureActivity|DebugActivityProtector" />
         <option value="package:mine tag~:DevelopmentSettingsActivity|DebugFeatureActivity" />
         <option value="package:mine tag~:DevelopmentSettingsActivity" />
-        <option value="package:mine tag~:DebugActivityProtector|DevelopmentSettingsActivity|PackageHelper" />
-        <option value="package:mine message~:Assistant" />
-        <option value="package:mine tag~:Assistant" />
-        <option value=" VoiceInteraction" />
-        <option value="package:mine tag~:DebugActivityProtector|DevelopmentSettingsActivity|enableComponent" />
       </list>
     </option>
   </component>
