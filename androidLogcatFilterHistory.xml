@@ -8,9 +8,10 @@
         <option value="tag~:NuguClientManager|NuguAuthManager|ScreenOnOffBroadcastReceiver|NuguCredentialsManager|NuguCredentialsRefresher|NogDebugLogManager|LocalTtsPlayer|VoiceInteractionServiceImpl" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag~:NuguConfigResourceLoader " />
+    <option name="mostRecentlyUsed" value="message~:registerVISContentObserver" />
     <option name="nonFavorites">
       <list>
+        <option value="message~:registerVISContentObserver" />
         <option value="tag~:NuguConfigResourceLoader " />
         <option value="tag~:NuguConfigResourceLoader | message~:deviceUniqueId " />
         <option value="tag~:configResourceloader | message~:deviceuniqueid" />
@@ -30,7 +31,6 @@
         <option value="tag~:DataCheckLayout" />
         <option value="package:mine tag~:DevelopmentSettingsActivity|DebugFeatureActivity|DebugActivityProtector" />
         <option value="package:mine tag~:DevelopmentSettingsActivity|DebugFeatureActivity" />
-        <option value="package:mine tag~:DevelopmentSettingsActivity" />
       </list>
     </option>
   </component>
