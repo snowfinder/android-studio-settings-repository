@@ -8,9 +8,12 @@
         <option value="tag~:NuguClientManager|NuguAuthManager|ScreenOnOffBroadcastReceiver|NuguCredentialsManager|NuguCredentialsRefresher|NogDebugLogManager|LocalTtsPlayer|VoiceInteractionServiceImpl" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag~:VoiceInteractionServiceImpl|AutoAssistantApplication|AutoCrashReporter" />
+    <option name="mostRecentlyUsed" value="tag~:NogDebugLog|VoiceInteractionServiceReadyLogger" />
     <option name="nonFavorites">
       <list>
+        <option value="tag~:NogDebugLog|VoiceInteractionServiceReadyLogger" />
+        <option value="tag~:NogDebugLog|NuguRequestFailLogger" />
+        <option value="NogDebugLog" />
         <option value="tag~:VoiceInteractionServiceImpl|AutoAssistantApplication|AutoCrashReporter" />
         <option value="com.skt.eaa" />
         <option value="activity" />
@@ -28,9 +31,6 @@
         <option value="NUGUAu" />
         <option value="configREsource" />
         <option value="resource" />
-        <option value="package:mine" />
-        <option value="configresour" />
-        <option value="WindowLeaked" />
       </list>
     </option>
   </component>
