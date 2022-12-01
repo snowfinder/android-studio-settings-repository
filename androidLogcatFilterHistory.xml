@@ -8,9 +8,11 @@
         <option value="tag~:NuguClientManager|NuguAuthManager|ScreenOnOffBroadcastReceiver|NuguCredentialsManager|NuguCredentialsRefresher|NogDebugLogManager|LocalTtsPlayer|VoiceInteractionServiceImpl" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag~:NogDebugLog|VoiceInteractionServiceReadyLogger|VoiceInteractionService|AutoAssistantApplication" />
+    <option name="mostRecentlyUsed" value="tag~:NogDebugLog|VoiceInteractionServiceReadyLogger|VoiceInteractionService|AutoAssistantApplication|NuguClientManager" />
     <option name="nonFavorites">
       <list>
+        <option value="tag~:NogDebugLog|VoiceInteractionServiceReadyLogger|VoiceInteractionService|AutoAssistantApplication|NuguClientManager" />
+        <option value="package:minetag~:NogDebugLog|VoiceInteractionServiceReadyLogger|VoiceInteractionService|AutoAssistantApplication|NuguClientManager" />
         <option value="tag~:NogDebugLog|VoiceInteractionServiceReadyLogger|VoiceInteractionService|AutoAssistantApplication" />
         <option value="tag~:NogDebugLog|VoiceInteractionServiceReadyLogger|VoiceInteractionService|AutoAssistantAppli" />
         <option value="tag~:NogDebugLog|VoiceInteractionServiceReadyLogger|VoiceInteractionService" />
@@ -29,8 +31,6 @@
         <option value="tag~:NuguConfigResourceLoader " />
         <option value="tag~:NuguConfigResourceLoader | message~:deviceUniqueId " />
         <option value="tag~:configResourceloader | message~:deviceuniqueid" />
-        <option value="tag~:configResourceloader message~:deviceuniqueid" />
-        <option value="configResourceloader" />
       </list>
     </option>
   </component>
