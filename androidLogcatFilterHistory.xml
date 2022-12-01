@@ -8,9 +8,12 @@
         <option value="tag~:NuguClientManager|NuguAuthManager|ScreenOnOffBroadcastReceiver|NuguCredentialsManager|NuguCredentialsRefresher|NogDebugLogManager|LocalTtsPlayer|VoiceInteractionServiceImpl" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag~:AutoAssistantApplication" />
+    <option name="mostRecentlyUsed" value="tag~:AutoAssistantApplication|VoiceInteractionServiceReadyLogger|VoiceInteraction" />
     <option name="nonFavorites">
       <list>
+        <option value="tag~:AutoAssistantApplication|VoiceInteractionServiceReadyLogger|VoiceInteraction" />
+        <option value="tag~:AutoAssistantApplication|VoiceInteractionServiceReadyLogger" />
+        <option value="tag~:AutoAssistantApplication|" />
         <option value="tag~:AutoAssistantApplication" />
         <option value="tag~:AutoAssistantApplication|NuguClientManager" />
         <option value="tag~:NogDebugLog|VoiceInteractionServiceReadyLogger|VoiceInteractionService|AutoAssistantApplication|NuguClientManager" />
@@ -28,9 +31,6 @@
         <option value="tag~:VoiceInteractionServiceImpl|AutoAssistantApplication" />
         <option value="tag~:VoiceInteractionServiceImpl|" />
         <option value="message~:registerVISContentObserver" />
-        <option value="package:mine message~:&quot;In-Vehicle\ automotive&quot;" />
-        <option value="package:mine message~:In-Vehicle automotive" />
-        <option value="tag~:NuguConfigResourceLoader " />
       </list>
     </option>
   </component>
