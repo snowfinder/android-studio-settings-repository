@@ -8,9 +8,10 @@
         <option value="tag~:NuguClientManager|NuguAuthManager|ScreenOnOffBroadcastReceiver|NuguCredentialsManager|NuguCredentialsRefresher|NogDebugLogManager|LocalTtsPlayer|VoiceInteractionServiceImpl" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine (message~:userId | tag~:VoiceInteractionServiceReadyLogger)" />
+    <option name="mostRecentlyUsed" value="package:mine message~:userAgentString" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine message~:userAgentString" />
         <option value="package:mine (message~:userId | tag~:VoiceInteractionServiceReadyLogger)" />
         <option value="package:mine message~:userId | tag~:VoiceInteractionServiceReadyLogger" />
         <option value="package:mine message~:userId tag~:VoiceInteractionServiceReadyLogger" />
@@ -30,7 +31,6 @@
         <option value="tag~:NogDebugLog|VoiceInteractionServiceReadyLogger" />
         <option value="tag~:NogDebugLog|NuguRequestFailLogger" />
         <option value="NogDebugLog" />
-        <option value="tag~:VoiceInteractionServiceImpl|AutoAssistantApplication|AutoCrashReporter" />
       </list>
     </option>
   </component>
