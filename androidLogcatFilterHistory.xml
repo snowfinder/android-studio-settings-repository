@@ -8,10 +8,11 @@
         <option value="tag~:NuguClientManager|NuguAuthManager|ScreenOnOffBroadcastReceiver|NuguCredentialsManager|NuguCredentialsRefresher|NogDebugLogManager|LocalTtsPlayer|VoiceInteractionServiceImpl" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag~:AutoAssistantApplic" />
+    <option name="mostRecentlyUsed" value="package:mine tag~:AutoAssistantApplic|ReflectionHelper" />
     <option name="nonFavorites">
       <list>
         <option value="package:mine tag~:AutoAssistantApplic" />
+        <option value="package:mine tag~:AutoAssistantApplic|ReflectionHelper" />
         <option value="package:mine" />
         <option value="package:mine tag~:VoiceInteractionServiceReadyLogger" />
         <option value="package:mine tag~:NuguRequestFailLogger" />
@@ -30,7 +31,6 @@
         <option value="tag~:NogDebugLog|VoiceInteractionServiceReadyLogger|VoiceInteractionService|AutoAssistantApplication|NuguClientManager" />
         <option value="package:minetag~:NogDebugLog|VoiceInteractionServiceReadyLogger|VoiceInteractionService|AutoAssistantApplication|NuguClientManager" />
         <option value="tag~:NogDebugLog|VoiceInteractionServiceReadyLogger|VoiceInteractionService|AutoAssistantApplication" />
-        <option value="tag~:NogDebugLog|VoiceInteractionServiceReadyLogger|VoiceInteractionService|AutoAssistantAppli" />
       </list>
     </option>
   </component>
