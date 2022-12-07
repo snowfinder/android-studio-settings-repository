@@ -8,9 +8,10 @@
         <option value="tag~:NuguClientManager|NuguAuthManager|ScreenOnOffBroadcastReceiver|NuguCredentialsManager|NuguCredentialsRefresher|NogDebugLogManager|LocalTtsPlayer|VoiceInteractionServiceImpl" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag~:BaseActivity " />
+    <option name="mostRecentlyUsed" value="package:mine message~:traverseViewHierarchy" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine message~:traverseViewHierarchy" />
         <option value="package:mine tag~:BaseActivity " />
         <option value="package:mine tag~:BaseActivity" />
         <option value="package:mine tag~:AutoAssistantApplic|ReflectionHelper" />
@@ -30,7 +31,6 @@
         <option value="tag~:AutoAssistantApplication|" />
         <option value="tag~:AutoAssistantApplication" />
         <option value="tag~:AutoAssistantApplication|NuguClientManager" />
-        <option value="tag~:NogDebugLog|VoiceInteractionServiceReadyLogger|VoiceInteractionService|AutoAssistantApplication|NuguClientManager" />
       </list>
     </option>
   </component>
