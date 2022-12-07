@@ -2,15 +2,17 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="favorites">
       <list>
-        <option value="level:error" />
         <option value="level:error package:mine " />
         <option value="package:mine " />
+        <option value="level:error" />
         <option value="tag~:NuguClientManager|NuguAuthManager|ScreenOnOffBroadcastReceiver|NuguCredentialsManager|NuguCredentialsRefresher|NogDebugLogManager|LocalTtsPlayer|VoiceInteractionServiceImpl" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag~:VoiceInteractionServiceReadyLogger" />
+    <option name="mostRecentlyUsed" value="package:mine tag~:BaseActivity " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag~:BaseActivity " />
+        <option value="package:mine tag~:BaseActivity" />
         <option value="package:mine tag~:AutoAssistantApplic|ReflectionHelper" />
         <option value="package:mine tag~:AutoAssistantApplic" />
         <option value="package:mine" />
@@ -29,8 +31,6 @@
         <option value="tag~:AutoAssistantApplication" />
         <option value="tag~:AutoAssistantApplication|NuguClientManager" />
         <option value="tag~:NogDebugLog|VoiceInteractionServiceReadyLogger|VoiceInteractionService|AutoAssistantApplication|NuguClientManager" />
-        <option value="package:minetag~:NogDebugLog|VoiceInteractionServiceReadyLogger|VoiceInteractionService|AutoAssistantApplication|NuguClientManager" />
-        <option value="tag~:NogDebugLog|VoiceInteractionServiceReadyLogger|VoiceInteractionService|AutoAssistantApplication" />
       </list>
     </option>
   </component>
