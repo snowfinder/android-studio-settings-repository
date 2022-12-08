@@ -8,11 +8,15 @@
         <option value="tag~:NuguClientManager|NuguAuthManager|ScreenOnOffBroadcastReceiver|NuguCredentialsManager|NuguCredentialsRefresher|NogDebugLogManager|LocalTtsPlayer|VoiceInteractionServiceImpl" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag~:VoiceInteractionServiceReadyLogger" />
+    <option name="mostRecentlyUsed" value="tag~:NuguRequestFailLogger|NogDebugLogManager" />
     <option name="nonFavorites">
       <list>
-        <option value="tag~:VoiceInteractionServiceReadyLogger" />
+        <option value="tag~:NuguRequestFailLogger|NogDebugLogManager" />
+        <option value="tag~:sendNuguRequestFailedLogToNog|NogDebugLogManager" />
+        <option value="message~:sendNuguRequestFailedLogToNog|NogDebugLogManager" />
         <option value="package:mine tag~:VoiceInteractionServiceReadyLogger" />
+        <option value="package:mine tag~:LoginWebviewInCarActivity" />
+        <option value="tag~:VoiceInteractionServiceReadyLogger" />
         <option value="message~:sendNuguRequestFailedLogToNog" />
         <option value="nog" />
         <option value="package:mine message~:traverseViewHierarchy" />
@@ -22,15 +26,11 @@
         <option value="package:mine tag~:AutoAssistantApplic" />
         <option value="package:mine" />
         <option value="package:mine tag~:NuguRequestFailLogger" />
-        <option value="package:mine tag~:LoginWebviewInCarActivity" />
         <option value="package:mine message~:userAgentString" />
         <option value="package:mine (message~:userId | tag~:VoiceInteractionServiceReadyLogger)" />
         <option value="package:mine message~:userId | tag~:VoiceInteractionServiceReadyLogger" />
         <option value="package:mine message~:userId tag~:VoiceInteractionServiceReadyLogger" />
         <option value="package:mine message~:userId tag~:" />
-        <option value="package:mine message~:userId" />
-        <option value="tag~:AutoAssistantApplication|VoiceInteractionServiceReadyLogger|VoiceInteraction" />
-        <option value="tag~:AutoAssistantApplication|VoiceInteractionServiceReadyLogger" />
       </list>
     </option>
   </component>
