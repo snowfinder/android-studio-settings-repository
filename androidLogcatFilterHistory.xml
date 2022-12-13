@@ -3,14 +3,17 @@
     <option name="favorites">
       <list>
         <option value="level:error package:mine " />
-        <option value="package:mine " />
         <option value="level:error" />
         <option value="tag~:NuguClientManager|NuguAuthManager|ScreenOnOffBroadcastReceiver|NuguCredentialsManager|NuguCredentialsRefresher|NogDebugLogManager|LocalTtsPlayer|VoiceInteractionServiceImpl" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag~:PermissionManager|DeviceHelper|DeviceVinGetter" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="vin" />
+        <option value="package:mine " />
+        <option value="BYDAutoBodyworkDevice" />
+        <option value="package:mine message~:getVin" />
         <option value="package:mine tag~:PermissionManager|DeviceHelper|DeviceVinGetter" />
         <option value="package:mine tag~:PermissionManager|DeviceHelper" />
         <option value="package:mine tag~:PermissionManager|deviceunique" />
@@ -27,10 +30,6 @@
         <option value="tag~:VoiceInteractionServiceReadyLogger" />
         <option value="message~:sendNuguRequestFailedLogToNog" />
         <option value="nog" />
-        <option value="package:mine message~:traverseViewHierarchy" />
-        <option value="package:mine tag~:BaseActivity " />
-        <option value="package:mine tag~:BaseActivity" />
-        <option value="package:mine tag~:AutoAssistantApplic|ReflectionHelper" />
       </list>
     </option>
   </component>
