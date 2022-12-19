@@ -8,9 +8,11 @@
         <option value="tag~:NuguClientManager|NuguAuthManager|ScreenOnOffBroadcastReceiver|NuguCredentialsManager|NuguCredentialsRefresher|NogDebugLogManager|LocalTtsPlayer|VoiceInteractionServiceImpl" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag~:NuguAuthManager|NuguClientManager|DeviceUniqueIdGenerator" />
+    <option name="mostRecentlyUsed" value="package:mine tag~:NuguAuthManager|NuguClientManager|DeviceUniqueIdGenerator|VoiceInteractionServiceImpl" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag~:NuguAuthManager|NuguClientManager|DeviceUniqueIdGenerator|VoiceInteractionServiceImpl" />
+        <option value="package:mine tag~:NuguAuthManager|NuguClientManager|DeviceUniqueIdGenerator|VoiceInteractionService" />
         <option value="package:mine tag~:NuguAuthManager|NuguClientManager|DeviceUniqueIdGenerator" />
         <option value="package:mine tag~:NuguAuthManager|NuguClientManager" />
         <option value="package:mine tag~:NuguAuthManager" />
@@ -29,8 +31,6 @@
         <option value="package:mine tag~:PermissionManager|deviceunique" />
         <option value="package:mine tag~:PermissionManager" />
         <option value="package:mine message~:supportsMultiUsers|getDeviceUniqueId" />
-        <option value="package:mine message~:supportsMultiUsers" />
-        <option value="package:mine message~:getBydVinNumber" />
       </list>
     </option>
   </component>
