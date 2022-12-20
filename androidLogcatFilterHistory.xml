@@ -8,9 +8,10 @@
         <option value="tag~:NuguClientManager|NuguAuthManager|ScreenOnOffBroadcastReceiver|NuguCredentialsManager|NuguCredentialsRefresher|NogDebugLogManager|LocalTtsPlayer|VoiceInteractionServiceImpl" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag~:NuguAuthManager|NuguClientManager|DeviceUniqueIdGenerator|VoiceInteractionServiceImpl|OtaUpdateManager|RequestPermissionCheckActivity" />
+    <option name="mostRecentlyUsed" value="userAgentString" />
     <option name="nonFavorites">
       <list>
+        <option value="userAgentString" />
         <option value="package:mine tag~:NuguAuthManager|NuguClientManager|DeviceUniqueIdGenerator|VoiceInteractionServiceImpl|OtaUpdateManager|RequestPermissionCheckActivity" />
         <option value="package:mine tag~:NuguAuthManager|NuguClientManager|DeviceUniqueIdGenerator|VoiceInteractionServiceImpl|OtaUpdateManager" />
         <option value="package:mine tag~:NuguAuthManager|NuguClientManager|DeviceUniqueIdGenerator|VoiceInteractionServiceImpl|OtaUpdateManager | message~:handleBydWorkPermissionsGranted" />
@@ -30,7 +31,6 @@
         <option value="BYDAutoBodyworkDevice" />
         <option value="package:mine message~:getVin" />
         <option value="package:mine tag~:PermissionManager|DeviceHelper|DeviceVinGetter" />
-        <option value="package:mine tag~:PermissionManager|DeviceHelper" />
       </list>
     </option>
   </component>
