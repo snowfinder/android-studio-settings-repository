@@ -2,6 +2,7 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="favorites">
       <list>
+        <option value="package:mine tag~:NuguAuthManager|NuguClientManager|DeviceUniqueIdGenerator|VoiceInteractionServiceImpl|OtaUpdateManager|RequestPermissionCheckActivity" />
         <option value="package:mine " />
         <option value="level:error package:mine " />
         <option value="level:error" />
@@ -12,6 +13,7 @@
     <option name="nonFavorites">
       <list>
         <option value="tag~:NuguClientManager|NuguRequestFailLogger|NuguAuthManager" />
+        <option value="package:mine tag~:" />
         <option value="tag~:NuguClientManager|NuguRequestFailLogger" />
         <option value="NuguClientManager" />
         <option value="message~:requestMe|introspect | tag~:NuguAuthMAnager" />
@@ -24,7 +26,6 @@
         <option value="activity" />
         <option value="nugustb" />
         <option value="ServiceApp" />
-        <option value="package:mine tag~:NuguAuthManager|NuguClientManager|DeviceUniqueIdGenerator|VoiceInteractionServiceImpl|OtaUpdateManager|RequestPermissionCheckActivity" />
         <option value="package:mine tag~:OtaUpdateManager" />
         <option value="package:mine message~:OtaUpdateManager" />
         <option value="package:mine message~:callVersionInfoApiIfNeed" />
