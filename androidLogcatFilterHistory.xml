@@ -8,9 +8,10 @@
         <option value="tag~:NuguClientManager|NuguAuthManager|ScreenOnOffBroadcastReceiver|NuguCredentialsManager|NuguCredentialsRefresher|NogDebugLogManager|LocalTtsPlayer|VoiceInteractionServiceImpl" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag~:NuguClientManager|NuguRequestFailLogger" />
+    <option name="mostRecentlyUsed" value="tag~:NuguClientManager|NuguRequestFailLogger|NuguAuthManager" />
     <option name="nonFavorites">
       <list>
+        <option value="tag~:NuguClientManager|NuguRequestFailLogger|NuguAuthManager" />
         <option value="tag~:NuguClientManager|NuguRequestFailLogger" />
         <option value="NuguClientManager" />
         <option value="message~:requestMe|introspect | tag~:NuguAuthMAnager" />
@@ -30,7 +31,6 @@
         <option value="userAgentString" />
         <option value="package:mine tag~:NuguAuthManager|NuguClientManager|DeviceUniqueIdGenerator|VoiceInteractionServiceImpl|OtaUpdateManager" />
         <option value="package:mine tag~:NuguAuthManager|NuguClientManager|DeviceUniqueIdGenerator|VoiceInteractionServiceImpl|OtaUpdateManager | message~:handleBydWorkPermissionsGranted" />
-        <option value="package:mine tag~:NuguAuthManager|NuguClientManager|DeviceUniqueIdGenerator|VoiceInteractionServiceImpl" />
       </list>
     </option>
   </component>
