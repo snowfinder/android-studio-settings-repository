@@ -9,9 +9,15 @@
         <option value="tag~:NuguClientManager|NuguAuthManager|ScreenOnOffBroadcastReceiver|NuguCredentialsManager|NuguCredentialsRefresher|NogDebugLogManager|LocalTtsPlayer|VoiceInteractionServiceImpl" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="AladdinServiceMonitor" />
+    <option name="mostRecentlyUsed" value="tag~:AladdinServiceMonitor | tag~:ServiceApp" />
     <option name="nonFavorites">
       <list>
+        <option value="tag~:AladdinServiceMonitor | tag~:ServiceApp" />
+        <option value="tag~:AladdinServiceMonitor | tag~:ServiceApp message~:Trigger" />
+        <option value="tag~:AladdinServiceMonitor | message~:Trigger" />
+        <option value="package:mine tag~:AladdinServiceMonitor | message~:Trigger" />
+        <option value="tag~:AladdinServiceMonitor|ServiceApp" />
+        <option value="tag~:AladdinServiceMonitor|Trigger" />
         <option value="AladdinServiceMonitor" />
         <option value="Aladdin" />
         <option value="tag~:NuguClientManager|NuguRequestFailLogger|NuguAuthManager" />
@@ -26,12 +32,6 @@
         <option value="message~:" />
         <option value="NuguAuthManag" />
         <option value="activity" />
-        <option value="nugustb" />
-        <option value="ServiceApp" />
-        <option value="package:mine tag~:OtaUpdateManager" />
-        <option value="package:mine message~:OtaUpdateManager" />
-        <option value="package:mine message~:callVersionInfoApiIfNeed" />
-        <option value="userAgentString" />
       </list>
     </option>
   </component>
