@@ -9,7 +9,7 @@
         <option value="tag~:NuguClientManager|NuguAuthManager|ScreenOnOffBroadcastReceiver|NuguCredentialsManager|NuguCredentialsRefresher|NogDebugLogManager|LocalTtsPlayer|VoiceInteractionServiceImpl" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine " />
+    <option name="mostRecentlyUsed" value="tag~:VoiceChromeView" />
     <option name="nonFavorites">
       <list>
         <option value="tag~:VoiceChromeView" />
