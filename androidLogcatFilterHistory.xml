@@ -9,14 +9,14 @@
         <option value="tag~:NuguClientManager|NuguAuthManager|ScreenOnOffBroadcastReceiver|NuguCredentialsManager|NuguCredentialsRefresher|NogDebugLogManager|LocalTtsPlayer|VoiceInteractionServiceImpl" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="NUGUauto" />
     <option name="nonFavorites">
       <list>
+        <option value="NUGUauto" />
         <option value="vin" />
         <option value="contacts" />
         <option value="tag~:Contacts" />
         <option value="tag~:NuguClientManager" />
-        <option value="NUGUauto" />
         <option value="tag~:NUGUauto" />
         <option value="tag~:VoiceChromeView" />
         <option value="tag~:AladdinServiceMonitor | tag~:ServiceApp" />
