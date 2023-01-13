@@ -41,4 +41,9 @@
       <option name="KOTLIN" value="true" />
     </context>
   </template>
+  <template name="funtest" value="@Test&#10;fun test_() {&#10;    &#10;}" description="" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
 </templateSet>
