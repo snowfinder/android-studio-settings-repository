@@ -9,11 +9,12 @@
         <option value="tag~:NuguClientManager|NuguAuthManager|ScreenOnOffBroadcastReceiver|NuguCredentialsManager|NuguCredentialsRefresher|NogDebugLogManager|LocalTtsPlayer|VoiceInteractionServiceImpl" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="NUGUauto" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
-        <option value="NUGUauto" />
+        <option value="bydauto" />
         <option value="vin" />
+        <option value="NUGUauto" />
         <option value="contacts" />
         <option value="tag~:Contacts" />
         <option value="tag~:NuguClientManager" />
@@ -31,7 +32,6 @@
         <option value="package:mine tag~:" />
         <option value="tag~:NuguClientManager|NuguRequestFailLogger" />
         <option value="NuguClientManager" />
-        <option value="message~:requestMe|introspect | tag~:NuguAuthMAnager" />
       </list>
     </option>
   </component>
