@@ -9,13 +9,13 @@
         <option value="tag~:NuguClientManager|NuguAuthManager|ScreenOnOffBroadcastReceiver|NuguCredentialsManager|NuguCredentialsRefresher|NogDebugLogManager|LocalTtsPlayer|VoiceInteractionServiceImpl" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="activity" />
+    <option name="mostRecentlyUsed" value="nugu" />
     <option name="nonFavorites">
       <list>
+        <option value="nugu" />
         <option value="activity" />
         <option value="Settings" />
         <option value="com.skt." />
-        <option value="nugu" />
         <option value="NUGU" />
         <option value="audio" />
         <option value="bydauto" />
