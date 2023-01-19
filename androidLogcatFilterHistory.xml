@@ -9,9 +9,10 @@
         <option value="tag~:NuguClientManager|NuguAuthManager|ScreenOnOffBroadcastReceiver|NuguCredentialsManager|NuguCredentialsRefresher|NogDebugLogManager|LocalTtsPlayer|VoiceInteractionServiceImpl" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="nugu" />
+    <option name="mostRecentlyUsed" value="tag~:NuguDeviceApp" />
     <option name="nonFavorites">
       <list>
+        <option value="tag~:NuguDeviceApp" />
         <option value="nugu" />
         <option value="activity" />
         <option value="Settings" />
@@ -31,7 +32,6 @@
         <option value="tag~:AladdinServiceMonitor | message~:Trigger" />
         <option value="package:mine tag~:AladdinServiceMonitor | message~:Trigger" />
         <option value="tag~:AladdinServiceMonitor|ServiceApp" />
-        <option value="tag~:AladdinServiceMonitor|Trigger" />
       </list>
     </option>
   </component>
