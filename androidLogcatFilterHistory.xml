@@ -8,9 +8,10 @@
         <option value="level:error" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag~:NogVisLogParser" />
+    <option name="mostRecentlyUsed" value="tag~:NogVisLogAnalyzer" />
     <option name="nonFavorites">
       <list>
+        <option value="tag~:NogVisLogAnalyzer" />
         <option value="tag~:NogVisLogParser" />
         <option value="package:mine " />
         <option value="tag~:NuguDeviceApp | message~:tryStopListening" />
@@ -30,7 +31,6 @@
         <option value="tag~:NuguClientManager" />
         <option value="tag~:NUGUauto" />
         <option value="tag~:VoiceChromeView" />
-        <option value="tag~:AladdinServiceMonitor | tag~:ServiceApp" />
       </list>
     </option>
   </component>
