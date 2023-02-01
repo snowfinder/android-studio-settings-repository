@@ -8,11 +8,11 @@
         <option value="level:error" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine " />
+    <option name="mostRecentlyUsed" value="tag~:NogVisLogAnalyzer" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine " />
         <option value="tag~:NogVisLogAnalyzer" />
+        <option value="package:mine " />
         <option value="tag~:NogVisLogParser" />
         <option value="tag~:NuguDeviceApp | message~:tryStopListening" />
         <option value="tryStopListening" />
