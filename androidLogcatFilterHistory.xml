@@ -9,9 +9,10 @@
         <option value="level:error" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate)" />
+    <option name="mostRecentlyUsed" value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate) | message~:getApplicationExitInfoList" />
     <option name="nonFavorites">
       <list>
+        <option value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate) | message~:getApplicationExitInfoList" />
         <option value="tag~:VoiceInteractionServiceReadyLogger | message~:onCreate" />
         <option value="tag~:VoiceInteractionServiceReadyLogger | message~:onCreate\(\)" />
         <option value="tag~:VoiceInteractionServiceReadyLogger | message~:&quot;onCreate&quot;" />
