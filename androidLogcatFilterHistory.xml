@@ -9,9 +9,13 @@
         <option value="level:error" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate) | message~:getApplicationExitInfoList" />
+    <option name="mostRecentlyUsed" value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate) | message~:getApplicationExitInfoList | (tag~:NUGUAuto::NuguClientManager &amp; message~:WAKEUP) | (tag~:VoiceInteractionServiceImpl)" />
     <option name="nonFavorites">
       <list>
+        <option value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate) | message~:getApplicationExitInfoList | (tag~:NUGUAuto::NuguClientManager &amp; message~:WAKEUP) | (tag~:VoiceInteractionServiceImpl)" />
+        <option value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate) | message~:getApplicationExitInfoList | (tag~:NUGUAuto::NuguClientManager &amp; message~:WAKEUP)" />
+        <option value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate) | message~:getApplicationExitInfoList | (tag~:NUGUAuto::NuguClientManager &amp; message~:wakeup)" />
+        <option value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate) | message~:getApplicationExitInfoList | (tag~:NUGUAuto::NuguClientManager &amp; message~:initialize)" />
         <option value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate) | message~:getApplicationExitInfoList" />
         <option value="tag~:VoiceInteractionServiceReadyLogger | message~:onCreate" />
         <option value="tag~:VoiceInteractionServiceReadyLogger | message~:onCreate\(\)" />
@@ -28,10 +32,6 @@
         <option value="tag~:NuguDeviceApp" />
         <option value="nugu" />
         <option value="activity" />
-        <option value="Settings" />
-        <option value="com.skt." />
-        <option value="NUGU" />
-        <option value="audio" />
       </list>
     </option>
   </component>
