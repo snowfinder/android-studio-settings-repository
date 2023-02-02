@@ -2,15 +2,23 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="favorites">
       <list>
+        <option value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate)" />
         <option value="level:error package:mine " />
         <option value="tag~:NuguClientManager|NuguAuthManager|ScreenOnOffBroadcastReceiver|NuguCredentialsManager|NuguCredentialsRefresher|NogDebugLogManager|LocalTtsPlayer|VoiceInteractionServiceImpl" />
         <option value="package:mine tag~:NuguAuthManager|NuguClientManager|DeviceUniqueIdGenerator|VoiceInteractionServiceImpl|OtaUpdateManager|RequestPermissionCheckActivity" />
         <option value="level:error" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag~:NogVisLogAnalyzer" />
+    <option name="mostRecentlyUsed" value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate)" />
     <option name="nonFavorites">
       <list>
+        <option value="tag~:VoiceInteractionServiceReadyLogger | message~:onCreate" />
+        <option value="tag~:VoiceInteractionServiceReadyLogger | message~:onCreate\(\)" />
+        <option value="tag~:VoiceInteractionServiceReadyLogger | message~:&quot;onCreate&quot;" />
+        <option value="tag~:VoiceInteractionServiceReadyLogger | message~:&quot;onCreate\(\): START&quot;" />
+        <option value="tag~:VoiceInteractionServiceReadyLogger|AutoAssistantApplication" />
+        <option value="tag~:VoiceInteractionServiceReadyLogger|AutoAssisat" />
+        <option value="tag~:VoiceInteractionServiceReadyLogger" />
         <option value="tag~:NogVisLogAnalyzer" />
         <option value="package:mine " />
         <option value="tag~:NogVisLogParser" />
@@ -23,14 +31,6 @@
         <option value="com.skt." />
         <option value="NUGU" />
         <option value="audio" />
-        <option value="bydauto" />
-        <option value="vin" />
-        <option value="NUGUauto" />
-        <option value="contacts" />
-        <option value="tag~:Contacts" />
-        <option value="tag~:NuguClientManager" />
-        <option value="tag~:NUGUauto" />
-        <option value="tag~:VoiceChromeView" />
       </list>
     </option>
   </component>
