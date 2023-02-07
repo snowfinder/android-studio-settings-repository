@@ -2,9 +2,10 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="favorites">
       <list>
+        <option value="package:mine " />
         <option value="level:error package:mine " />
-        <option value="tag~:NuguClientManager|NuguAuthManager|ScreenOnOffBroadcastReceiver|NuguCredentialsManager|NuguCredentialsRefresher|NogDebugLogManager|LocalTtsPlayer|VoiceInteractionServiceImpl" />
         <option value="level:error" />
+        <option value="tag~:NuguClientManager|NuguAuthManager|ScreenOnOffBroadcastReceiver|NuguCredentialsManager|NuguCredentialsRefresher|NogDebugLogManager|LocalTtsPlayer|VoiceInteractionServiceImpl" />
         <option value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate)" />
         <option value="package:mine tag~:NuguAuthManager|NuguClientManager|DeviceUniqueIdGenerator|VoiceInteractionServiceImpl|OtaUpdateManager|RequestPermissionCheckActivity" />
       </list>
@@ -12,11 +13,11 @@
     <option name="mostRecentlyUsed" value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate) | message~:getApplicationExitInfoList | (tag~:NUGUAuto::NuguClientManager &amp; message~:WAKEUP) | (tag~:VoiceInteractionServiceImp &amp; message~:onReady|onCreate|onBind) | message~:exitReasons | message~:BOOT_COMPLETE" />
     <option name="nonFavorites">
       <list>
+        <option value="NUGUauto" />
         <option value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate) | message~:getApplicationExitInfoList | (tag~:NUGUAuto::NuguClientManager &amp; message~:WAKEUP) | (tag~:VoiceInteractionServiceImp &amp; message~:onReady|onCreate|onBind) | message~:exitReasons | message~:BOOT_COMPLETE" />
         <option value="package:mine message~:BOOT_COMPLETED" />
         <option value="NuguClient" />
         <option value="BOOT_COMPLETED" />
-        <option value="package:mine " />
         <option value="NUGUau" />
         <option value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate) | message~:getApplicationExitInfoList | (tag~:NUGUAuto::NuguClientManager &amp; message~:WAKEUP) | (tag~:VoiceInteractionServiceImp &amp; message~:onReady|onCreate|onBind) | message~:exitReasons" />
         <option value="deviceUniqueId" />
@@ -31,7 +32,6 @@
         <option value="tag~:VoiceInteractionServiceReadyLogger | message~:&quot;onCreate&quot;" />
         <option value="tag~:VoiceInteractionServiceReadyLogger | message~:&quot;onCreate\(\): START&quot;" />
         <option value="tag~:VoiceInteractionServiceReadyLogger|AutoAssistantApplication" />
-        <option value="tag~:VoiceInteractionServiceReadyLogger|AutoAssisat" />
       </list>
     </option>
   </component>
