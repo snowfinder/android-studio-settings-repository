@@ -9,9 +9,11 @@
         <option value="package:mine tag~:NuguAuthManager|NuguClientManager|DeviceUniqueIdGenerator|VoiceInteractionServiceImpl|OtaUpdateManager|RequestPermissionCheckActivity" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="package:mine message~:setupDisplayAgent" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine message~:setupDisplayAgent" />
+        <option value="package:mine tag~:setupDisplayAgent" />
         <option value="notifyUserInteraction" />
         <option value="inter" />
         <option value="tag~:NogNuguRequestFailLogAnalyzer" />
@@ -30,8 +32,6 @@
         <option value="voiceinteractionserviceimpl" />
         <option value="NUGUauto" />
         <option value="package:mine message~:BOOT_COMPLETED" />
-        <option value="NuguClient" />
-        <option value="BOOT_COMPLETED" />
       </list>
     </option>
   </component>
