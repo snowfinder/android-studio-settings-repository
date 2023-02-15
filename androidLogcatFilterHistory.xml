@@ -12,8 +12,8 @@
     <option name="mostRecentlyUsed" value="message~:setupDisplayAgent|DisplayTimer | tag~:DisplayTimer|DisplayTemplateAgent" />
     <option name="nonFavorites">
       <list>
-        <option value="nosuch" />
         <option value="message~:setupDisplayAgent|DisplayTimer | tag~:DisplayTimer|DisplayTemplateAgent" />
+        <option value="nosuch" />
         <option value="message~:setupDisplayAgent|DisplayTimer | tag~:DisplayTimer|DisplayAgent" />
         <option value="message~:setupDisplayAgent|DisplayTimer | tag~:DisplayTimer" />
         <option value="message~:setupDisplayAgent|DisplayTimer | tag~:NuguDisplayTimer" />
