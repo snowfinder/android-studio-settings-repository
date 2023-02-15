@@ -9,7 +9,7 @@
         <option value="package:mine tag~:NuguAuthManager|NuguClientManager|DeviceUniqueIdGenerator|VoiceInteractionServiceImpl|OtaUpdateManager|RequestPermissionCheckActivity" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="nosuch" />
+    <option name="mostRecentlyUsed" value="message~:setupDisplayAgent|DisplayTimer | tag~:DisplayTimer|DisplayTemplateAgent" />
     <option name="nonFavorites">
       <list>
         <option value="nosuch" />
