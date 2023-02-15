@@ -9,9 +9,10 @@
         <option value="package:mine tag~:NuguAuthManager|NuguClientManager|DeviceUniqueIdGenerator|VoiceInteractionServiceImpl|OtaUpdateManager|RequestPermissionCheckActivity" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag~:NuguDisplayTimer" />
+    <option name="mostRecentlyUsed" value="package:mine tag~:NuguTemplateRenderer" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag~:NuguTemplateRenderer" />
         <option value="package:mine tag~:NuguDisplayTimer" />
         <option value="message~:setupDisplayAgent | tag~:NuguDisplayTimer|DisplayTimer|DisplayTemplateAgent" />
         <option value="message~:setupDisplayAgent|DisplayTimer | tag~:NuguDisplayTimer|DisplayTimer|DisplayTemplateAgent" />
@@ -31,7 +32,6 @@
         <option value="tag~:DisplayTimer | message~:DISPLAYTIMER" />
         <option value="hook" />
         <option value="package:mine tag~:DisplayTimer" />
-        <option value="package:mine tag~:DisplayTimer | message~:setupDisplayAgent" />
       </list>
     </option>
   </component>
