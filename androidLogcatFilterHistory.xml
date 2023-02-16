@@ -9,9 +9,11 @@
         <option value="package:mine tag~:NuguAuthManager|NuguClientManager|DeviceUniqueIdGenerator|VoiceInteractionServiceImpl|OtaUpdateManager|RequestPermissionCheckActivity" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="onDisplayTimerStarted" />
+    <option name="mostRecentlyUsed" value="VoiceChromeController" />
     <option name="nonFavorites">
       <list>
+        <option value="VoiceChromeController" />
+        <option value="onDialogUxState" />
         <option value="onDisplayTimerStarted" />
         <option value="NuguTemplateREn" />
         <option value="DisplayTimer" />
@@ -30,8 +32,6 @@
         <option value="nosuch" />
         <option value="message~:setupDisplayAgent|DisplayTimer | tag~:DisplayTimer|DisplayAgent" />
         <option value="message~:setupDisplayAgent|DisplayTimer | tag~:DisplayTimer" />
-        <option value="message~:setupDisplayAgent|DisplayTimer | tag~:NuguDisplayTimer" />
-        <option value="message~:setupDisplayAgent|DisplayTimer" />
       </list>
     </option>
   </component>
