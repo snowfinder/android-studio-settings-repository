@@ -11,9 +11,9 @@
         <option value="package:mine tag~:NuguAuthManager|NuguClientManager|DeviceUniqueIdGenerator|VoiceInteractionServiceImpl|OtaUpdateManager|RequestPermissionCheckActivity" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag~:StbDisplayRenderer|ClientManagerImpl" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
         <option value="package:mine tag~:StbDisplayRenderer|ClientManagerImpl" />
         <option value="package:mine tag~:StbDisplayRenderer" />
         <option value="package:mine tag~:" />
@@ -33,7 +33,6 @@
         <option value="package:mine (tag~:DisplayTimer | message~:onDisplayTimerStarted)" />
         <option value="package:mine (tag~:NuguTemplateRenderer|DisplayTimer | message~:onDisplayTimerStarted)" />
         <option value="package:mine (tag~:NuguTemplateRenderer | message~:onDisplayTimerStarted)" />
-        <option value="package:mine tag~:NuguTemplateRenderer" />
       </list>
     </option>
   </component>
