@@ -13,9 +13,11 @@
         <option value="package:mine tag~:NuguAuthManager|NuguClientManager|DeviceUniqueIdGenerator|VoiceInteractionServiceImpl|OtaUpdateManager|RequestPermissionCheckActivity" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="OtaUpdateManager" />
+    <option name="mostRecentlyUsed" value="NUGUauto::OtaUpdateBottomFloatActivity" />
     <option name="nonFavorites">
       <list>
+        <option value="NUGUauto::OtaUpdateBottomFloatActivity" />
+        <option value="OtaUpdateBottomFloatActivity" />
         <option value="OtaUpdateManager" />
         <option value="ota" />
         <option value="(tag~:NUGUauto::OtaUpdateBottomFloatActivity)" />
@@ -34,8 +36,6 @@
         <option value="tag~:CountDownTimer" />
         <option value="tag~:DisplayTimer|CountDownTimer | (tag~:NuguClientManager &amp; message~:onDialogUXStateChanged)" />
         <option value="tag~:DisplayTimer|CounterButton | (tag~:NuguClientManager &amp; message~:onDialogUXStateChanged)" />
-        <option value="tag~:NuguDisplayTimer" />
-        <option value="tag~:DisplayTimer | (tag~:NuguClientManager &amp; message~:onCreate)" />
       </list>
     </option>
   </component>
