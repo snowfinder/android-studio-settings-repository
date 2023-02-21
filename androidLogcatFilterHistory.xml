@@ -2,9 +2,9 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="favorites">
       <list>
+        <option value="level:error package:mine " />
         <option value="tag~:DisplayTimer | (tag~:NuguClientManager &amp; message~:onDialogUXStateChanged)" />
         <option value="tag~:AbstractDisplayView message~:onDisplayTimerStarted" />
-        <option value="level:error package:mine " />
         <option value="level:error" />
         <option value="package:mine " />
         <option value="tag~:NuguClientManager|NuguAuthManager|ScreenOnOffBroadcastReceiver|NuguCredentialsManager|NuguCredentialsRefresher|NogDebugLogManager|LocalTtsPlayer|VoiceInteractionServiceImpl" />
@@ -12,9 +12,12 @@
         <option value="package:mine tag~:NuguAuthManager|NuguClientManager|DeviceUniqueIdGenerator|VoiceInteractionServiceImpl|OtaUpdateManager|RequestPermissionCheckActivity" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag~:NuguDisplayTimer" />
+    <option name="mostRecentlyUsed" value="tag~:DisplayTimer|CountDownTimer|AbstractDisplayView | (tag~:NuguClientManager &amp; message~:onDialogUXStateChanged)" />
     <option name="nonFavorites">
       <list>
+        <option value="tag~:DisplayTimer|CountDownTimer|AbstractDisplayView | (tag~:NuguClientManager &amp; message~:onDialogUXStateChanged)" />
+        <option value="tag~:DisplayTimer|CountDownTimer | (tag~:NuguClientManager &amp; message~:onDialogUXStateChanged)" />
+        <option value="tag~:DisplayTimer|CounterButton | (tag~:NuguClientManager &amp; message~:onDialogUXStateChanged)" />
         <option value="tag~:NuguDisplayTimer" />
         <option value="tag~:DisplayTimer | (tag~:NuguClientManager &amp; message~:onCreate)" />
         <option value="tag~:DisplayTimer | (tag~:NuguClientManaz message~:onDialogUXStateChanged)" />
@@ -32,9 +35,6 @@
         <option value="onDisplayTimerStarted" />
         <option value="VoiceChromeController" />
         <option value="onDialogUxState" />
-        <option value="NuguTemplateREn" />
-        <option value="DisplayTimer" />
-        <option value="NUGU_SDK" />
       </list>
     </option>
   </component>
