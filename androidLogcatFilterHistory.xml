@@ -11,9 +11,12 @@
         <option value="package:mine tag~:NuguAuthManager|NuguClientManager|DeviceUniqueIdGenerator|VoiceInteractionServiceImpl|OtaUpdateManager|RequestPermissionCheckActivity" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag~:DisplayTimer" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="tag~:DisplayTimer | (tag~:NuguClientManaz message~:onDialogUXStateChanged)" />
+        <option value="tag~:DisplayTimer | tag~:NuguClientManaz" />
+        <option value="tag~:DisplayTimer|onDialogUx" />
         <option value="tag~:DisplayTimer" />
         <option value="package:mine" />
         <option value="package:mine tag~:StbDisplayRenderer|ClientManagerImpl" />
@@ -31,9 +34,6 @@
         <option value="NUGU_SDK" />
         <option value="message~:setupDisplayAgent | tag~:DisplayTimer" />
         <option value="message~:setupDisplayAgent | tag~:" />
-        <option value="setupDisplayAgent" />
-        <option value="package:mine (tag~:DisplayTimer | message~:onDisplayTimerStarted)" />
-        <option value="package:mine (tag~:NuguTemplateRenderer|DisplayTimer | message~:onDisplayTimerStarted)" />
       </list>
     </option>
   </component>
