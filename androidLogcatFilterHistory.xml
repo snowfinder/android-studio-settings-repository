@@ -2,6 +2,7 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="favorites">
       <list>
+        <option value="tag~:DisplayTimer|CountDownTimer|AbstractDisplayView | (tag~:NuguClientManager &amp; message~:onDialogUXStateChanged)" />
         <option value="level:error package:mine " />
         <option value="tag~:DisplayTimer | (tag~:NuguClientManager &amp; message~:onDialogUXStateChanged)" />
         <option value="tag~:AbstractDisplayView message~:onDisplayTimerStarted" />
@@ -12,10 +13,11 @@
         <option value="package:mine tag~:NuguAuthManager|NuguClientManager|DeviceUniqueIdGenerator|VoiceInteractionServiceImpl|OtaUpdateManager|RequestPermissionCheckActivity" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag~:DisplayTimer|CountDownTimer|AbstractDisplayView | (tag~:NuguClientManager &amp; message~:onDialogUXStateChanged)" />
+    <option name="mostRecentlyUsed" value="tag~:CountDownTimer|AbstractDisplayView" />
     <option name="nonFavorites">
       <list>
-        <option value="tag~:DisplayTimer|CountDownTimer|AbstractDisplayView | (tag~:NuguClientManager &amp; message~:onDialogUXStateChanged)" />
+        <option value="tag~:CountDownTimer|AbstractDisplayView" />
+        <option value="tag~:CountDownTimer" />
         <option value="tag~:DisplayTimer|CountDownTimer | (tag~:NuguClientManager &amp; message~:onDialogUXStateChanged)" />
         <option value="tag~:DisplayTimer|CounterButton | (tag~:NuguClientManager &amp; message~:onDialogUXStateChanged)" />
         <option value="tag~:NuguDisplayTimer" />
@@ -34,7 +36,6 @@
         <option value="tag~:NuguTemplateRenderer message~:onDisplayTimerStarted" />
         <option value="onDisplayTimerStarted" />
         <option value="VoiceChromeController" />
-        <option value="onDialogUxState" />
       </list>
     </option>
   </component>
