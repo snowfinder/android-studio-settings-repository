@@ -13,9 +13,11 @@
         <option value="package:mine tag~:NuguAuthManager|NuguClientManager|DeviceUniqueIdGenerator|VoiceInteractionServiceImpl|OtaUpdateManager|RequestPermissionCheckActivity" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag~:Ota" />
+    <option name="mostRecentlyUsed" value="package:mine tag~:NuguOtaManager|OtaUpdateManager" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag~:NuguOtaManager|OtaUpdateManager" />
+        <option value="package:mine tag~:NuguOtaManager" />
         <option value="package:mine tag~:Ota" />
         <option value="ㅐㅅㅁ" />
         <option value="tag~:CountDownTimer|AbstractDisplayView | message~:onCleared" />
@@ -34,8 +36,6 @@
         <option value="package:mine tag~:StbDisplayRenderer" />
         <option value="package:mine tag~:" />
         <option value="Activity" />
-        <option value="activity" />
-        <option value="tag~:NogNuguRequestFailLogAnalyzer" />
       </list>
     </option>
   </component>
