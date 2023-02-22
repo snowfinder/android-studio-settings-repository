@@ -2,10 +2,10 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="favorites">
       <list>
-        <option value="level:error" />
         <option value="package:mine " />
-        <option value="tag~:DisplayTimer|CountDownTimer|AbstractDisplayView | (tag~:NuguClientManager &amp; message~:onDialogUXStateChanged)" />
         <option value="level:error package:mine " />
+        <option value="level:error" />
+        <option value="tag~:DisplayTimer|CountDownTimer|AbstractDisplayView | (tag~:NuguClientManager &amp; message~:onDialogUXStateChanged)" />
         <option value="tag~:DisplayTimer | (tag~:NuguClientManager &amp; message~:onDialogUXStateChanged)" />
         <option value="tag~:AbstractDisplayView message~:onDisplayTimerStarted" />
         <option value="tag~:NuguClientManager|NuguAuthManager|ScreenOnOffBroadcastReceiver|NuguCredentialsManager|NuguCredentialsRefresher|NogDebugLogManager|LocalTtsPlayer|VoiceInteractionServiceImpl" />
@@ -13,9 +13,12 @@
         <option value="package:mine tag~:NuguAuthManager|NuguClientManager|DeviceUniqueIdGenerator|VoiceInteractionServiceImpl|OtaUpdateManager|RequestPermissionCheckActivity" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="level:error package:mine " />
+    <option name="mostRecentlyUsed" value="message~:CallState" />
     <option name="nonFavorites">
       <list>
+        <option value="message~:CallState" />
+        <option value="message~:callstate" />
+        <option value="getCallState" />
         <option value="tag~:NUGUauto::OtaUpdateBottomFloatActivity" />
         <option value="tag~:NuguClientManager|NuguTemplateRenderer" />
         <option value="tag~:NuguClientManager|Nugu" />
@@ -33,9 +36,6 @@
         <option value="(tag~:NUGUauto::OtaUpdateBottomFloatActivity)" />
         <option value="(tag~:OtaUpdateBottomFloatActivity)" />
         <option value="(tag~:OtaUpdateBottomFloatActivity &amp; message~:setupLayout)" />
-        <option value="(tag~:OtaUpdateBottomFloatActivity | message~:setupLayout)" />
-        <option value="package:mine (tag~:OtaUpdateBottomFloatActivity | message~:setupLayout)" />
-        <option value="package:mine tag~:OtaUpdateBottomFloatActivity" />
       </list>
     </option>
   </component>
