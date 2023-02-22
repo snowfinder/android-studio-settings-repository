@@ -13,11 +13,13 @@
         <option value="package:mine tag~:NuguAuthManager|NuguClientManager|DeviceUniqueIdGenerator|VoiceInteractionServiceImpl|OtaUpdateManager|RequestPermissionCheckActivity" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag~:NUGUauto::OtaUpdateBottomFloatActivity|OtaUpdateMana" />
+    <option name="mostRecentlyUsed" value="tag~:OtaUpdateBottomFloatActivity|OtaUpdateManager" />
     <option name="nonFavorites">
       <list>
-        <option value="tag~:NUGUauto::OtaUpdateBottomFloatActivity|OtaUpdateMana" />
+        <option value="tag~:OtaUpdateBottomFloatActivity|OtaUpdateManager" />
+        <option value="tag~:OtaUpdateAlertDialogActivity|OtaUpdateManager" />
         <option value="tag~:NUGUauto::OtaUpdateBottomFloatActivity|OtaUpdateManager" />
+        <option value="tag~:NUGUauto::OtaUpdateBottomFloatActivity|OtaUpdateMana" />
         <option value="NUGUauto::OtaUpdateBottomFloatActivity|OtaUpdateManager" />
         <option value="NUGUauto::OtaUpdateBottomFloatActivity|Ota" />
         <option value="NUGUauto::OtaUpdateBottomFloatActivity" />
@@ -34,8 +36,6 @@
         <option value="setupDisplayAgent" />
         <option value="package:mine tag~:NuguOtaManager|OtaUpdateManager" />
         <option value="package:mine tag~:NuguOtaManager" />
-        <option value="ㅐㅅㅁ" />
-        <option value="tag~:CountDownTimer|AbstractDisplayView | message~:onCleared" />
       </list>
     </option>
   </component>
