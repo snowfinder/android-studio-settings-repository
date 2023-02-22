@@ -2,24 +2,24 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="favorites">
       <list>
+        <option value="level:error" />
         <option value="package:mine " />
         <option value="tag~:DisplayTimer|CountDownTimer|AbstractDisplayView | (tag~:NuguClientManager &amp; message~:onDialogUXStateChanged)" />
         <option value="level:error package:mine " />
         <option value="tag~:DisplayTimer | (tag~:NuguClientManager &amp; message~:onDialogUXStateChanged)" />
         <option value="tag~:AbstractDisplayView message~:onDisplayTimerStarted" />
-        <option value="level:error" />
         <option value="tag~:NuguClientManager|NuguAuthManager|ScreenOnOffBroadcastReceiver|NuguCredentialsManager|NuguCredentialsRefresher|NogDebugLogManager|LocalTtsPlayer|VoiceInteractionServiceImpl" />
         <option value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate)" />
         <option value="package:mine tag~:NuguAuthManager|NuguClientManager|DeviceUniqueIdGenerator|VoiceInteractionServiceImpl|OtaUpdateManager|RequestPermissionCheckActivity" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="level:error" />
+    <option name="mostRecentlyUsed" value="level:error package:mine " />
     <option name="nonFavorites">
       <list>
+        <option value="tag~:NUGUauto::OtaUpdateBottomFloatActivity" />
         <option value="tag~:NuguClientManager|NuguTemplateRenderer" />
         <option value="tag~:NuguClientManager|Nugu" />
         <option value="otaupdate" />
-        <option value="tag~:NUGUauto::OtaUpdateBottomFloatActivity" />
         <option value="tag~:OtaUpdateBottomFloatActivity|OtaUpdateManager" />
         <option value="tag~:OtaUpdateAlertDialogActivity|OtaUpdateManager" />
         <option value="tag~:NUGUauto::OtaUpdateBottomFloatActivity|OtaUpdateManager" />
