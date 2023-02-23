@@ -13,15 +13,20 @@
         <option value="package:mine tag~:NuguAuthManager|NuguClientManager|DeviceUniqueIdGenerator|VoiceInteractionServiceImpl|OtaUpdateManager|RequestPermissionCheckActivity" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag~:RequestPermissionCheckActivity" />
+    <option name="mostRecentlyUsed" value="tag~:CallStateReceiver|NUGUauto::RequestPermissionCheckActivity | message~:getCallState|reinitialize" />
     <option name="nonFavorites">
       <list>
+        <option value="tag~:CallStateReceiver|NUGUauto::RequestPermissionCheckActivity | message~:getCallState|reinitialize" />
+        <option value="tag~:CallStateReceiver|NUGUauto::RequestPermissionCheckActivity|PermissionManager | message~:getCallState|reinitialize" />
+        <option value="tag~:CallStateReceiver|RequestPermissionCheckActivity | message~:getCallState|reinitialize" />
+        <option value="tag~:CallStateReceiver|RequestPermissionCheckActivity | message~:getCallState" />
+        <option value="tag~:CallStateReceiver | message~:getCallState" />
+        <option value="getCallState" />
         <option value="tag~:RequestPermissionCheckActivity" />
         <option value="message~:checkPermissionGranted" />
         <option value="message~:CallState | tag~:CallStateReceiver" />
         <option value="message~:CallState" />
         <option value="message~:callstate" />
-        <option value="getCallState" />
         <option value="tag~:NUGUauto::OtaUpdateBottomFloatActivity" />
         <option value="tag~:NuguClientManager|NuguTemplateRenderer" />
         <option value="tag~:NuguClientManager|Nugu" />
@@ -31,11 +36,6 @@
         <option value="tag~:NUGUauto::OtaUpdateBottomFloatActivity|OtaUpdateManager" />
         <option value="tag~:NUGUauto::OtaUpdateBottomFloatActivity|OtaUpdateMana" />
         <option value="NUGUauto::OtaUpdateBottomFloatActivity|OtaUpdateManager" />
-        <option value="NUGUauto::OtaUpdateBottomFloatActivity|Ota" />
-        <option value="NUGUauto::OtaUpdateBottomFloatActivity" />
-        <option value="OtaUpdateBottomFloatActivity" />
-        <option value="OtaUpdateManager" />
-        <option value="ota" />
       </list>
     </option>
   </component>
