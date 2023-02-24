@@ -13,9 +13,12 @@
         <option value="package:mine tag~:NuguAuthManager|NuguClientManager|DeviceUniqueIdGenerator|VoiceInteractionServiceImpl|OtaUpdateManager|RequestPermissionCheckActivity" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="st" />
+    <option name="mostRecentlyUsed" value="tag~:Nugu" />
     <option name="nonFavorites">
       <list>
+        <option value="tag~:Nugu" />
+        <option value="tts" />
+        <option value="key" />
         <option value="st" />
         <option value="startlistening" />
         <option value="지ㅁ" />
@@ -33,9 +36,6 @@
         <option value="message~:checkPermissionGranted" />
         <option value="message~:CallState | tag~:CallStateReceiver" />
         <option value="message~:CallState" />
-        <option value="message~:callstate" />
-        <option value="tag~:NUGUauto::OtaUpdateBottomFloatActivity" />
-        <option value="tag~:NuguClientManager|NuguTemplateRenderer" />
       </list>
     </option>
   </component>
