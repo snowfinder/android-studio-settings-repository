@@ -13,9 +13,13 @@
         <option value="package:mine tag~:NuguAuthManager|NuguClientManager|DeviceUniqueIdGenerator|VoiceInteractionServiceImpl|OtaUpdateManager|RequestPermissionCheckActivity" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag~:AbstractDisplayView message~:onDisplayTimerStarted" />
+    <option name="mostRecentlyUsed" value="st" />
     <option name="nonFavorites">
       <list>
+        <option value="st" />
+        <option value="startlistening" />
+        <option value="지ㅁ" />
+        <option value="nugu" />
         <option value="tag~:NUGUauto" />
         <option value="tag~:CallManager|NUGUauto::RequestPermissionCheckActivity | message~:getCallState|reinitialize" />
         <option value="tag~:CallStateReceiver|NUGUauto::RequestPermissionCheckActivity | message~:getCallState|reinitialize" />
@@ -32,10 +36,6 @@
         <option value="message~:callstate" />
         <option value="tag~:NUGUauto::OtaUpdateBottomFloatActivity" />
         <option value="tag~:NuguClientManager|NuguTemplateRenderer" />
-        <option value="tag~:NuguClientManager|Nugu" />
-        <option value="otaupdate" />
-        <option value="tag~:OtaUpdateBottomFloatActivity|OtaUpdateManager" />
-        <option value="tag~:OtaUpdateAlertDialogActivity|OtaUpdateManager" />
       </list>
     </option>
   </component>
