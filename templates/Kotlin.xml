@@ -46,7 +46,7 @@
       <option name="KOTLIN" value="true" />
     </context>
   </template>
-  <template name="errcatch" value="runCatching { &#10;                        &#10;}.onFailure {&#10;    TLog.e(TAG, &quot;xxx(): $it&quot;)&#10;}" toReformat="false" toShortenFQNames="true">
+  <template name="errcatch" value="runCatching { &#10;                        &#10;}.onFailure {&#10;    TLog.e(TAG, &quot;xxx(): $it&quot;)&#10;}" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="KOTLIN" value="true" />
     </context>
