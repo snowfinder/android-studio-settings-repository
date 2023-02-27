@@ -13,9 +13,10 @@
         <option value="package:mine tag~:NuguAuthManager|NuguClientManager|DeviceUniqueIdGenerator|VoiceInteractionServiceImpl|OtaUpdateManager|RequestPermissionCheckActivity" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag~:BtvFrameworkHelper|PropertyManager|SystemManager" />
+    <option name="mostRecentlyUsed" value="home" />
     <option name="nonFavorites">
       <list>
+        <option value="home" />
         <option value="package:mine tag~:BtvFrameworkHelper|PropertyManager|SystemManager" />
         <option value="nugu" />
         <option value="listening" />
@@ -35,7 +36,6 @@
         <option value="tag~:CallStateReceiver|NUGUauto::RequestPermissionCheckActivity | message~:getCallState|reinitialize" />
         <option value="NUGUauto" />
         <option value="tag~:CallStateReceiver|NUGUauto::RequestPermissionCheckActivity|PermissionManager | message~:getCallState|reinitialize" />
-        <option value="tag~:CallStateReceiver|RequestPermissionCheckActivity | message~:getCallState|reinitialize" />
       </list>
     </option>
   </component>
