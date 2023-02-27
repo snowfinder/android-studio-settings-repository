@@ -13,11 +13,14 @@
         <option value="package:mine tag~:NuguAuthManager|NuguClientManager|DeviceUniqueIdGenerator|VoiceInteractionServiceImpl|OtaUpdateManager|RequestPermissionCheckActivity" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="package:mine tag~:BtvFrameworkHelper|PropertyManager|SystemManager" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine" />
         <option value="package:mine tag~:BtvFrameworkHelper|PropertyManager|SystemManager" />
+        <option value="nugu" />
+        <option value="listening" />
+        <option value="btv" />
+        <option value="package:mine" />
         <option value="tag~:NogNuguRequestFailLogAnalyzer" />
         <option value="package:mine tag~:BtvFrameworkHelper|PropertyManager" />
         <option value="package:mine tag~:BtvFrameworkHelper" />
@@ -27,15 +30,12 @@
         <option value="st" />
         <option value="startlistening" />
         <option value="지ㅁ" />
-        <option value="nugu" />
         <option value="tag~:NUGUauto" />
         <option value="tag~:CallManager|NUGUauto::RequestPermissionCheckActivity | message~:getCallState|reinitialize" />
         <option value="tag~:CallStateReceiver|NUGUauto::RequestPermissionCheckActivity | message~:getCallState|reinitialize" />
         <option value="NUGUauto" />
         <option value="tag~:CallStateReceiver|NUGUauto::RequestPermissionCheckActivity|PermissionManager | message~:getCallState|reinitialize" />
         <option value="tag~:CallStateReceiver|RequestPermissionCheckActivity | message~:getCallState|reinitialize" />
-        <option value="tag~:CallStateReceiver|RequestPermissionCheckActivity | message~:getCallState" />
-        <option value="tag~:CallStateReceiver | message~:getCallState" />
       </list>
     </option>
   </component>
