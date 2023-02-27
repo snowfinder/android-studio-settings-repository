@@ -13,14 +13,13 @@
         <option value="package:mine tag~:NuguAuthManager|NuguClientManager|DeviceUniqueIdGenerator|VoiceInteractionServiceImpl|OtaUpdateManager|RequestPermissionCheckActivity" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
-        <option value="tag~:NogNuguRequestFailLogAnalyzer" />
+        <option value="package:mine" />
         <option value="package:mine tag~:BtvFrameworkHelper|PropertyManager|SystemManager" />
+        <option value="tag~:NogNuguRequestFailLogAnalyzer" />
         <option value="package:mine tag~:BtvFrameworkHelper|PropertyManager" />
         <option value="package:mine tag~:BtvFrameworkHelper" />
-        <option value="package:mine" />
         <option value="tag~:Nugu" />
         <option value="tts" />
         <option value="key" />
