@@ -12,9 +12,13 @@
         <option value="package:mine tag~:NuguAuthManager|NuguClientManager|DeviceUniqueIdGenerator|VoiceInteractionServiceImpl|OtaUpdateManager|RequestPermissionCheckActivity" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:com.skt.aidev.nugustb tag~:BtvFrameworkHelper" />
+    <option name="mostRecentlyUsed" value="tag~:FileHelper" />
     <option name="nonFavorites">
       <list>
+        <option value="tag~:FileHelper" />
+        <option value="NUGUauto" />
+        <option value="message~:traverseDir" />
+        <option value="traverseDir" />
         <option value="package:com.skt.aidev.nugustb tag~:BtvFrameworkHelper" />
         <option value="btv" />
         <option value="nugustb" />
@@ -31,10 +35,6 @@
         <option value="package:com.skt.aidev.nugustb message~:poc_id" />
         <option value="package:com.skt.aidev.nugustb message~:poc" />
         <option value="package:com.skt.aidev.nugustb message~:credential" />
-        <option value="package:com.skt.aidev.nugustb message~:STG|PRD" />
-        <option value="package:com.skt.aidev.nugustb message~:STG" />
-        <option value="package:mine " />
-        <option value="level:error package:mine " />
       </list>
     </option>
   </component>
