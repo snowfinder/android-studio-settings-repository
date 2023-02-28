@@ -12,14 +12,14 @@
         <option value="package:mine tag~:NuguAuthManager|NuguClientManager|DeviceUniqueIdGenerator|VoiceInteractionServiceImpl|OtaUpdateManager|RequestPermissionCheckActivity" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag~:FileHelper" />
+    <option name="mostRecentlyUsed" value="package:com.skt.aidev.nugustb tag~:BtvFrameworkHelper" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.skt.aidev.nugustb tag~:BtvFrameworkHelper" />
         <option value="tag~:FileHelper" />
         <option value="NUGUauto" />
         <option value="message~:traverseDir" />
         <option value="traverseDir" />
-        <option value="package:com.skt.aidev.nugustb tag~:BtvFrameworkHelper" />
         <option value="btv" />
         <option value="nugustb" />
         <option value="package:com.skt.aidev.nugustb" />
