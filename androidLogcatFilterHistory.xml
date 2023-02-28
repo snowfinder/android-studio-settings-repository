@@ -2,9 +2,8 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="favorites">
       <list>
+        <option value="package:com.skt.aidev.nugustb " />
         <option value="level:error" />
-        <option value="package:mine " />
-        <option value="level:error package:mine " />
         <option value="tag~:DisplayTimer|CountDownTimer|AbstractDisplayView | (tag~:NuguClientManager &amp; message~:onDialogUXStateChanged)" />
         <option value="tag~:DisplayTimer | (tag~:NuguClientManager &amp; message~:onDialogUXStateChanged)" />
         <option value="tag~:AbstractDisplayView message~:onDisplayTimerStarted" />
@@ -13,14 +12,18 @@
         <option value="package:mine tag~:NuguAuthManager|NuguClientManager|DeviceUniqueIdGenerator|VoiceInteractionServiceImpl|OtaUpdateManager|RequestPermissionCheckActivity" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="package:com.skt.aidev.nugustb" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.skt.aidev.nugustb" />
+        <option value="package:com.skt.aidev.nugustb message~:STG|PRD" />
+        <option value="package:com.skt.aidev.nugustb message~:STG" />
+        <option value="package:mine " />
+        <option value="level:error package:mine " />
         <option value="stg" />
         <option value="prd|stg" />
         <option value="prd" />
         <option value="nugu" />
-        <option value="package:com.skt.aidev.nugustb " />
         <option value="home" />
         <option value="package:mine tag~:BtvFrameworkHelper|PropertyManager|SystemManager" />
         <option value="listening" />
@@ -32,10 +35,6 @@
         <option value="tag~:Nugu" />
         <option value="tts" />
         <option value="key" />
-        <option value="st" />
-        <option value="startlistening" />
-        <option value="지ㅁ" />
-        <option value="tag~:NUGUauto" />
       </list>
     </option>
   </component>
