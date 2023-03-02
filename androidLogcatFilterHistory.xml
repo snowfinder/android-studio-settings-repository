@@ -2,6 +2,7 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="favorites">
       <list>
+        <option value="package:com.skt.aidev.nugustb tag~:BtvFrameworkHelper|NuguApplication" />
         <option value="package:com.skt.aidev.nugustb " />
         <option value="level:error" />
         <option value="tag~:DisplayTimer|CountDownTimer|AbstractDisplayView | (tag~:NuguClientManager &amp; message~:onDialogUXStateChanged)" />
@@ -12,10 +13,11 @@
         <option value="package:mine tag~:NuguAuthManager|NuguClientManager|DeviceUniqueIdGenerator|VoiceInteractionServiceImpl|OtaUpdateManager|RequestPermissionCheckActivity" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:com.skt.aidev.nugustb tag~:BtvFrameworkHelper|NuguApplication" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
-        <option value="package:com.skt.aidev.nugustb tag~:BtvFrameworkHelper|NuguApplication" />
+        <option value="clientid" />
+        <option value="package:com.skt.aidev.nugustb tag~:BtvFrameworkHelper|NuguApplication|credential" />
         <option value="package:com.skt.aidev.nugustb tag~:BtvFrameworkHelper" />
         <option value="tag~:FileHelper" />
         <option value="NUGUauto" />
@@ -34,7 +36,6 @@
         <option value="package:com.skt.aidev.nugustb message~:" />
         <option value="package:com.skt.aidev.nugustb message~:btv.atv.intek" />
         <option value="package:com.skt.aidev.nugustb message~:poc_id" />
-        <option value="package:com.skt.aidev.nugustb message~:poc" />
       </list>
     </option>
   </component>
