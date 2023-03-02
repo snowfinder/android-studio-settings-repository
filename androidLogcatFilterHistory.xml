@@ -11,9 +11,10 @@
         <option value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate)" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag~:BtvFrameworkHelper|NuguApplication|NuguSDKEnvironments|DeviceType" />
+    <option name="mostRecentlyUsed" value="tag~:BtvFrameworkHelper|NuguApplication|NuguSDKEnvironments|DeviceType|PreferenceManagerImpl" />
     <option name="nonFavorites">
       <list>
+        <option value="tag~:BtvFrameworkHelper|NuguApplication|NuguSDKEnvironments|DeviceType|PreferenceManagerImpl" />
         <option value="tag~:BtvFrameworkHelper|NuguApplication|NuguSDKEnvironments|DeviceType" />
         <option value="package:com.skt.aidev.nugustb " />
         <option value="package:com.skt.aidev.nugustb tag~:BtvFrameworkHelper|NuguApplication|NuguSDKEnvironments|DeviceType" />
@@ -33,7 +34,6 @@
         <option value="package:com.skt.aidev.nugustb" />
         <option value="Nugu" />
         <option value="package:com.skt.aidev.nugustb message~:RELEASE_TARGET" />
-        <option value="package:com.skt.aidev.nugustb message~:Release" />
       </list>
     </option>
   </component>
