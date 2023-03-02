@@ -3,7 +3,6 @@
     <option name="favorites">
       <list>
         <option value="package:com.skt.aidev.nugustb tag~:BtvFrameworkHelper|NuguApplication" />
-        <option value="package:com.skt.aidev.nugustb " />
         <option value="level:error" />
         <option value="tag~:DisplayTimer|CountDownTimer|AbstractDisplayView | (tag~:NuguClientManager &amp; message~:onDialogUXStateChanged)" />
         <option value="tag~:DisplayTimer | (tag~:NuguClientManager &amp; message~:onDialogUXStateChanged)" />
@@ -12,9 +11,11 @@
         <option value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate)" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:com.skt.aidev.nugustb tag~:BtvFrameworkHelper|NuguApplication|NuguSDKEnvironments|DeviceType" />
+    <option name="mostRecentlyUsed" value="tag~:BtvFrameworkHelper|NuguApplication|NuguSDKEnvironments|DeviceType" />
     <option name="nonFavorites">
       <list>
+        <option value="tag~:BtvFrameworkHelper|NuguApplication|NuguSDKEnvironments|DeviceType" />
+        <option value="package:com.skt.aidev.nugustb " />
         <option value="package:com.skt.aidev.nugustb tag~:BtvFrameworkHelper|NuguApplication|NuguSDKEnvironments|DeviceType" />
         <option value="package:mine tag~:NuguAuthManager|NuguClientManager|DeviceUniqueIdGenerator|VoiceInteractionServiceImpl|OtaUpdateManager|RequestPermissionCheckActivity" />
         <option value="tag~:NuguSDKEnvironments" />
@@ -33,8 +34,6 @@
         <option value="Nugu" />
         <option value="package:com.skt.aidev.nugustb message~:RELEASE_TARGET" />
         <option value="package:com.skt.aidev.nugustb message~:Release" />
-        <option value="package:com.skt.aidev.nugustb tag~:NuguSDKEnvironments" />
-        <option value="package:com.skt.aidev.nugustb message~:NuguApplication" />
       </list>
     </option>
   </component>
