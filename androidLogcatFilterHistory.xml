@@ -15,8 +15,8 @@
     <option name="nonFavorites">
       <list>
         <option value="tag~:BtvFrameworkHelper|NuguApplication|NuguSDKEnvironments|DeviceType" />
-        <option value="nog" />
         <option value="tag~:BtvFrameworkHelper|NuguApplication|NuguSDKEnvironments|DeviceType|PreferenceHelper" />
+        <option value="nog" />
         <option value="tag~:PreferenceHelper" />
         <option value="tag~:ClientManagerImpl|LocalTTS" />
         <option value="ClientManagerImpl" />
