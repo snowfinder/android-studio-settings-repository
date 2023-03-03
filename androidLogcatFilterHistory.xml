@@ -15,25 +15,25 @@
     <option name="nonFavorites">
       <list>
         <option value="package:com.skt.aidev.nugustb" />
+        <option value="package:com.skt.aidev.nugustb tag~:NuguDeviceApp" />
+        <option value="package:com.skt.aidev.nugustb message~:com" />
+        <option value="package:com.skt.aidev.nugustb message~:" />
+        <option value="package:com.skt.aidev.nugustb message~:getClientId|handlePropertyManagerOnReady|handleIpCatvChangedIfNeed" />
+        <option value="package:com.skt.aidev.nugustb message~:getClientId|handlePropertyManagerOnReady" />
+        <option value="package:com.skt.aidev.nugustb message~:getClientId" />
+        <option value="package:com.skt.aidev.nugustb tag~:NuguSdk" />
+        <option value="package:com.skt.aidev.nugustb tag~:Device" />
+        <option value="tag~:BtvFrameworkHelper|NuguApplication|NuguSDKEnvironments|DeviceType" />
         <option value="package:com.skt.aidev.nugustb tag~:StbDisplayRenderer" />
         <option value="package:com.skt.aidev.nugustb | " />
         <option value="package:com.skt.aidev.nugustb | message~:PRD" />
         <option value="package:com.skt.aidev.nugustb message" />
         <option value="package:com.skt.aidev.nugustb message~" />
         <option value="package:com.skt.aidev.nugustb message~:prd" />
-        <option value="tag~:BtvFrameworkHelper|NuguApplication|NuguSDKEnvironments|DeviceType" />
         <option value="level:error package:com.skt.aidev.nugustb" />
         <option value="tag~:FileHelper" />
         <option value="tag~:BtvFrameworkHelper|NuguApplication|NuguSDKEnvironments|DeviceType|UtterancesManagerImpl" />
         <option value="tag~:UtterancesManagerImpl" />
-        <option value="tag~:BtvFrameworkHelper|NuguApplication|NuguSDKEnvironments|DeviceType|PreferenceHelper" />
-        <option value="nog" />
-        <option value="tag~:PreferenceHelper" />
-        <option value="tag~:ClientManagerImpl|LocalTTS" />
-        <option value="ClientManagerImpl" />
-        <option value="stg" />
-        <option value="tag~:BtvFrameworkHelper|NuguApplication|NuguSDKEnvironments|DeviceType|PreferenceManagerImpl" />
-        <option value="package:com.skt.aidev.nugustb " />
       </list>
     </option>
   </component>
