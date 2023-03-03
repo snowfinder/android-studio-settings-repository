@@ -11,12 +11,12 @@
         <option value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate)" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:com.skt.aidev.nugustb tag~:StbDisplayRenderer" />
+    <option name="mostRecentlyUsed" value="package:com.skt.aidev.nugustb" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.skt.aidev.nugustb" />
         <option value="package:com.skt.aidev.nugustb tag~:StbDisplayRenderer" />
         <option value="package:com.skt.aidev.nugustb | " />
-        <option value="package:com.skt.aidev.nugustb" />
         <option value="package:com.skt.aidev.nugustb | message~:PRD" />
         <option value="package:com.skt.aidev.nugustb message" />
         <option value="package:com.skt.aidev.nugustb message~" />
