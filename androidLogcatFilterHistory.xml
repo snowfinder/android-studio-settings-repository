@@ -11,9 +11,10 @@
         <option value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate)" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="level:error package:com.skt.aidev.nugustb" />
+    <option name="mostRecentlyUsed" value="tag~:BtvFrameworkHelper|NuguApplication|NuguSDKEnvironments|DeviceType" />
     <option name="nonFavorites">
       <list>
+        <option value="tag~:FileHelper" />
         <option value="level:error package:com.skt.aidev.nugustb" />
         <option value="tag~:BtvFrameworkHelper|NuguApplication|NuguSDKEnvironments|DeviceType" />
         <option value="tag~:BtvFrameworkHelper|NuguApplication|NuguSDKEnvironments|DeviceType|UtterancesManagerImpl" />
@@ -33,7 +34,6 @@
         <option value="message~:&quot;client secret&quot;" />
         <option value="clientid" />
         <option value="package:com.skt.aidev.nugustb tag~:BtvFrameworkHelper|NuguApplication|credential" />
-        <option value="package:com.skt.aidev.nugustb tag~:BtvFrameworkHelper" />
       </list>
     </option>
   </component>
