@@ -11,12 +11,12 @@
         <option value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate)" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag~:UtterancesManagerImpl" />
+    <option name="mostRecentlyUsed" value="tag~:BtvFrameworkHelper|NuguApplication|NuguSDKEnvironments|DeviceType" />
     <option name="nonFavorites">
       <list>
-        <option value="tag~:UtterancesManagerImpl" />
-        <option value="tag~:BtvFrameworkHelper|NuguApplication|NuguSDKEnvironments|DeviceType|UtterancesManagerImpl" />
         <option value="tag~:BtvFrameworkHelper|NuguApplication|NuguSDKEnvironments|DeviceType" />
+        <option value="tag~:BtvFrameworkHelper|NuguApplication|NuguSDKEnvironments|DeviceType|UtterancesManagerImpl" />
+        <option value="tag~:UtterancesManagerImpl" />
         <option value="tag~:BtvFrameworkHelper|NuguApplication|NuguSDKEnvironments|DeviceType|PreferenceHelper" />
         <option value="nog" />
         <option value="tag~:PreferenceHelper" />
