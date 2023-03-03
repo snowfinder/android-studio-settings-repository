@@ -11,9 +11,11 @@
         <option value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate)" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag~:BtvFrameworkHelper|NuguApplication|NuguSDKEnvironments|DeviceType" />
+    <option name="mostRecentlyUsed" value="tag~:BtvFrameworkHelper|NuguApplication|NuguSDKEnvironments|DeviceType|PreferenceHelper" />
     <option name="nonFavorites">
       <list>
+        <option value="tag~:BtvFrameworkHelper|NuguApplication|NuguSDKEnvironments|DeviceType|PreferenceHelper" />
+        <option value="tag~:PreferenceHelper" />
         <option value="tag~:ClientManagerImpl|LocalTTS" />
         <option value="ClientManagerImpl" />
         <option value="tag~:BtvFrameworkHelper|NuguApplication|NuguSDKEnvironments|DeviceType" />
@@ -32,8 +34,6 @@
         <option value="NUGUauto" />
         <option value="message~:traverseDir" />
         <option value="traverseDir" />
-        <option value="btv" />
-        <option value="nugustb" />
       </list>
     </option>
   </component>
