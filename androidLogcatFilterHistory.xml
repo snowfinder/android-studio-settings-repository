@@ -11,12 +11,19 @@
         <option value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate)" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag~:BtvFrameworkHelper|NuguApplication|NuguSDKEnvironments|DeviceType" />
+    <option name="mostRecentlyUsed" value="package:com.skt.aidev.nugustb tag~:StbDisplayRenderer" />
     <option name="nonFavorites">
       <list>
-        <option value="tag~:FileHelper" />
-        <option value="level:error package:com.skt.aidev.nugustb" />
+        <option value="package:com.skt.aidev.nugustb tag~:StbDisplayRenderer" />
+        <option value="package:com.skt.aidev.nugustb | " />
+        <option value="package:com.skt.aidev.nugustb" />
+        <option value="package:com.skt.aidev.nugustb | message~:PRD" />
+        <option value="package:com.skt.aidev.nugustb message" />
+        <option value="package:com.skt.aidev.nugustb message~" />
+        <option value="package:com.skt.aidev.nugustb message~:prd" />
         <option value="tag~:BtvFrameworkHelper|NuguApplication|NuguSDKEnvironments|DeviceType" />
+        <option value="level:error package:com.skt.aidev.nugustb" />
+        <option value="tag~:FileHelper" />
         <option value="tag~:BtvFrameworkHelper|NuguApplication|NuguSDKEnvironments|DeviceType|UtterancesManagerImpl" />
         <option value="tag~:UtterancesManagerImpl" />
         <option value="tag~:BtvFrameworkHelper|NuguApplication|NuguSDKEnvironments|DeviceType|PreferenceHelper" />
@@ -27,13 +34,6 @@
         <option value="stg" />
         <option value="tag~:BtvFrameworkHelper|NuguApplication|NuguSDKEnvironments|DeviceType|PreferenceManagerImpl" />
         <option value="package:com.skt.aidev.nugustb " />
-        <option value="package:com.skt.aidev.nugustb tag~:BtvFrameworkHelper|NuguApplication|NuguSDKEnvironments|DeviceType" />
-        <option value="package:mine tag~:NuguAuthManager|NuguClientManager|DeviceUniqueIdGenerator|VoiceInteractionServiceImpl|OtaUpdateManager|RequestPermissionCheckActivity" />
-        <option value="tag~:NuguSDKEnvironments" />
-        <option value="message~:&quot;client secret&quot;|&quot;client id&quot;" />
-        <option value="message~:&quot;client secret&quot;" />
-        <option value="clientid" />
-        <option value="package:com.skt.aidev.nugustb tag~:BtvFrameworkHelper|NuguApplication|credential" />
       </list>
     </option>
   </component>
