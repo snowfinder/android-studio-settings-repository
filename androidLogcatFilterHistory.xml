@@ -14,6 +14,8 @@
     <option name="mostRecentlyUsed" value="tag~:BtvFrameworkHelper|NuguApplication|NuguSDKEnvironments|DeviceType" />
     <option name="nonFavorites">
       <list>
+        <option value="tag~:ClientManagerImpl|LocalTTS" />
+        <option value="ClientManagerImpl" />
         <option value="tag~:BtvFrameworkHelper|NuguApplication|NuguSDKEnvironments|DeviceType" />
         <option value="stg" />
         <option value="tag~:BtvFrameworkHelper|NuguApplication|NuguSDKEnvironments|DeviceType|PreferenceManagerImpl" />
@@ -32,8 +34,6 @@
         <option value="traverseDir" />
         <option value="btv" />
         <option value="nugustb" />
-        <option value="package:com.skt.aidev.nugustb" />
-        <option value="Nugu" />
       </list>
     </option>
   </component>
