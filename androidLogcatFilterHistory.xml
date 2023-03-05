@@ -11,9 +11,10 @@
         <option value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate)" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:com.skt.aidev.nugustb" />
+    <option name="mostRecentlyUsed" value="package~:com.skt.eaa.assistant message~:setGravity" />
     <option name="nonFavorites">
       <list>
+        <option value="package~:com.skt.eaa.assistant message~:setGravity" />
         <option value="package:com.skt.aidev.nugustb" />
         <option value="package:com.skt.aidev.nugustb tag~:NuguDeviceApp" />
         <option value="package:com.skt.aidev.nugustb message~:com" />
@@ -33,7 +34,6 @@
         <option value="level:error package:com.skt.aidev.nugustb" />
         <option value="tag~:FileHelper" />
         <option value="tag~:BtvFrameworkHelper|NuguApplication|NuguSDKEnvironments|DeviceType|UtterancesManagerImpl" />
-        <option value="tag~:UtterancesManagerImpl" />
       </list>
     </option>
   </component>
