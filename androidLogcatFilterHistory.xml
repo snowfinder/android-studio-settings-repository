@@ -11,9 +11,10 @@
         <option value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate)" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="level:error" />
+    <option name="mostRecentlyUsed" value="toast" />
     <option name="nonFavorites">
       <list>
+        <option value="toast" />
         <option value="package:com.skt.aidev.nugustb" />
         <option value="package~:com.skt.eaa.assistant message~:toast" />
         <option value="package~:com.skt.eaa.assistant message~:setGravity" />
@@ -33,7 +34,6 @@
         <option value="package:com.skt.aidev.nugustb message~" />
         <option value="package:com.skt.aidev.nugustb message~:prd" />
         <option value="level:error package:com.skt.aidev.nugustb" />
-        <option value="tag~:FileHelper" />
       </list>
     </option>
   </component>
