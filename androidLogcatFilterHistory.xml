@@ -10,12 +10,14 @@
         <option value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate)" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="AudioService" />
+    <option name="mostRecentlyUsed" value="tag~:BtvAudioFocusInteractor " />
     <option name="nonFavorites">
       <list>
+        <option value="tag~:BtvAudioFocusInteractor " />
+        <option value="tag~:BtvAudioFocusInteractor" />
+        <option value="focus" />
         <option value="AudioService" />
         <option value="MediaFocusControl" />
-        <option value="focus" />
         <option value="stream" />
         <option value="level:error" />
         <option value="toast" />
@@ -31,8 +33,6 @@
         <option value="package:com.skt.aidev.nugustb tag~:NuguSdk" />
         <option value="package:com.skt.aidev.nugustb tag~:Device" />
         <option value="tag~:BtvFrameworkHelper|NuguApplication|NuguSDKEnvironments|DeviceType" />
-        <option value="package:com.skt.aidev.nugustb tag~:StbDisplayRenderer" />
-        <option value="package:com.skt.aidev.nugustb | " />
       </list>
     </option>
   </component>
