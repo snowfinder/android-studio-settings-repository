@@ -11,9 +11,11 @@
         <option value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate)" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="com.skb.zemkids" />
+    <option name="mostRecentlyUsed" value="stbid" />
     <option name="nonFavorites">
       <list>
+        <option value="stbid" />
+        <option value="s" />
         <option value="btvContextInfo" />
         <option value="tag~:BtvContextStateProvider" />
         <option value="com.skb.zemkids" />
@@ -32,8 +34,6 @@
         <option value="whitelist" />
         <option value="tag~:ForegroundPackageChecker" />
         <option value="tag~:Contextual|ForegroundPackageChecker|NuguReceiver" />
-        <option value="tag~:Contextual|ForegroundPackageChecker" />
-        <option value="tag~:Contextual " />
       </list>
     </option>
   </component>
