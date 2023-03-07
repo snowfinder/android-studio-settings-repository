@@ -2,8 +2,8 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="favorites">
       <list>
-        <option value="package:com.skt.aidev.nugustb level:error " />
         <option value="package:com.skt.aidev.nugustb tag~:BtvFrameworkHelper|NuguApplication" />
+        <option value="package:com.skt.aidev.nugustb level:error " />
         <option value="tag~:DisplayTimer|CountDownTimer|AbstractDisplayView | (tag~:NuguClientManager &amp; message~:onDialogUXStateChanged)" />
         <option value="tag~:DisplayTimer | (tag~:NuguClientManager &amp; message~:onDialogUXStateChanged)" />
         <option value="tag~:AbstractDisplayView message~:onDisplayTimerStarted" />
@@ -11,7 +11,7 @@
         <option value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate)" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="btvContextInfo" />
+    <option name="mostRecentlyUsed" value="com.skb.zemkids" />
     <option name="nonFavorites">
       <list>
         <option value="btvContextInfo" />
