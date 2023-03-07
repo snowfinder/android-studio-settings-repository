@@ -11,9 +11,13 @@
         <option value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate)" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="screenId changed" />
+    <option name="mostRecentlyUsed" value="btvContextInfo" />
     <option name="nonFavorites">
       <list>
+        <option value="btvContextInfo" />
+        <option value="tag~:BtvContextStateProvider" />
+        <option value="com.skb.zemkids" />
+        <option value="live_tv" />
         <option value="screenId changed" />
         <option value="screenid" />
         <option value="package:com.skt.aidev.nugustb " />
@@ -30,10 +34,6 @@
         <option value="tag~:Contextual|ForegroundPackageChecker|NuguReceiver" />
         <option value="tag~:Contextual|ForegroundPackageChecker" />
         <option value="tag~:Contextual " />
-        <option value="tag~:DebugCommandService " />
-        <option value="tag~:BtvAudioFocusInteractor " />
-        <option value="tag~:BtvAudioFocusInteractor" />
-        <option value="focus" />
       </list>
     </option>
   </component>
