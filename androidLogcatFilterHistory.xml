@@ -11,9 +11,13 @@
         <option value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate)" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:com.skt.aidev.nugustb" />
+    <option name="mostRecentlyUsed" value="screenId changed" />
     <option name="nonFavorites">
       <list>
+        <option value="screenId changed" />
+        <option value="screenid" />
+        <option value="package:com.skt.aidev.nugustb " />
+        <option value="package:com.skt.aidev.nugustb prd" />
         <option value="package:com.skt.aidev.nugustb" />
         <option value="package:com.skt.aidev.nugustb tag~:ForegroundPackageChecker" />
         <option value="`level:error " />
@@ -30,10 +34,6 @@
         <option value="tag~:BtvAudioFocusInteractor " />
         <option value="tag~:BtvAudioFocusInteractor" />
         <option value="focus" />
-        <option value="AudioService" />
-        <option value="MediaFocusControl" />
-        <option value="stream" />
-        <option value="level:error" />
       </list>
     </option>
   </component>
