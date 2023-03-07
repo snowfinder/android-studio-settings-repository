@@ -10,9 +10,11 @@
         <option value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate)" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="makeuri" />
     <option name="nonFavorites">
       <list>
+        <option value="makeuri" />
+        <option value="whitelist" />
         <option value="tag~:ForegroundPackageChecker" />
         <option value="tag~:Contextual|ForegroundPackageChecker|NuguReceiver" />
         <option value="tag~:Contextual|ForegroundPackageChecker" />
@@ -31,8 +33,6 @@
         <option value="package~:com.skt.eaa.assistant message~:setGravity" />
         <option value="package:com.skt.aidev.nugustb tag~:NuguDeviceApp" />
         <option value="package:com.skt.aidev.nugustb message~:com" />
-        <option value="package:com.skt.aidev.nugustb message~:" />
-        <option value="package:com.skt.aidev.nugustb message~:getClientId|handlePropertyManagerOnReady|handleIpCatvChangedIfNeed" />
       </list>
     </option>
   </component>
