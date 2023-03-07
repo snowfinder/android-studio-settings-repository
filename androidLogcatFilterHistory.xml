@@ -2,6 +2,8 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="favorites">
       <list>
+        <option value="package:com.skt.aidev.nugustb" />
+        <option value="package:com.skt.aidev.nugustb level:error " />
         <option value="package:com.skt.aidev.nugustb tag~:BtvFrameworkHelper|NuguApplication" />
         <option value="tag~:DisplayTimer|CountDownTimer|AbstractDisplayView | (tag~:NuguClientManager &amp; message~:onDialogUXStateChanged)" />
         <option value="tag~:DisplayTimer | (tag~:NuguClientManager &amp; message~:onDialogUXStateChanged)" />
@@ -10,9 +12,14 @@
         <option value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate)" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="makeuri" />
+    <option name="mostRecentlyUsed" value="package:com.skt.aidev.nugustb tag~:ForegroundPackageChecker" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.skt.aidev.nugustb tag~:ForegroundPackageChecker" />
+        <option value="`level:error " />
+        <option value="pa" />
+        <option value="message~:NUGU_AI_BROADCAST_FROM_APP|NUGU_AI_BROADCAST_FROM_SYSTEM" />
+        <option value="message~:NUGU_AI_BROADCAST_FROM_APP" />
         <option value="makeuri" />
         <option value="whitelist" />
         <option value="tag~:ForegroundPackageChecker" />
@@ -28,11 +35,6 @@
         <option value="stream" />
         <option value="level:error" />
         <option value="toast" />
-        <option value="package:com.skt.aidev.nugustb" />
-        <option value="package~:com.skt.eaa.assistant message~:toast" />
-        <option value="package~:com.skt.eaa.assistant message~:setGravity" />
-        <option value="package:com.skt.aidev.nugustb tag~:NuguDeviceApp" />
-        <option value="package:com.skt.aidev.nugustb message~:com" />
       </list>
     </option>
   </component>
