@@ -12,9 +12,10 @@
         <option value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate)" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="level:error " />
+    <option name="mostRecentlyUsed" value="package~:com.skt.eaa.assistant " />
     <option name="nonFavorites">
       <list>
+        <option value="package~:com.skt.eaa.assistant " />
         <option value="level:error " />
         <option value="BLUETOOTH_CONNECT" />
         <option value="gatt" />
@@ -34,7 +35,6 @@
         <option value="pa" />
         <option value="message~:NUGU_AI_BROADCAST_FROM_APP|NUGU_AI_BROADCAST_FROM_SYSTEM" />
         <option value="message~:NUGU_AI_BROADCAST_FROM_APP" />
-        <option value="makeuri" />
       </list>
     </option>
   </component>
