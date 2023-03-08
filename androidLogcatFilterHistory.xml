@@ -13,11 +13,11 @@
         <option value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate)" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:com.skt.aidev.nugustb " />
+    <option name="mostRecentlyUsed" value="package:com.skt.aidev.nugustb" />
     <option name="nonFavorites">
       <list>
-        <option value="Nugu" />
         <option value="package:com.skt.aidev.nugustb" />
+        <option value="Nugu" />
         <option value="prd" />
         <option value="fatal" />
         <option value="bonde" />
