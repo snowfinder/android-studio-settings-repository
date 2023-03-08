@@ -11,9 +11,10 @@
         <option value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate)" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="stbid" />
+    <option name="mostRecentlyUsed" value="nugu" />
     <option name="nonFavorites">
       <list>
+        <option value="nugu" />
         <option value="stbid" />
         <option value="s" />
         <option value="btvContextInfo" />
@@ -33,7 +34,6 @@
         <option value="makeuri" />
         <option value="whitelist" />
         <option value="tag~:ForegroundPackageChecker" />
-        <option value="tag~:Contextual|ForegroundPackageChecker|NuguReceiver" />
       </list>
     </option>
   </component>
