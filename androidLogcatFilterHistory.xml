@@ -2,8 +2,8 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="favorites">
       <list>
+        <option value="(package:com.skt.aidev.nugustb &amp; message~:bondedDevices) | message~:BLUETOOTH_CONNECT" />
         <option value="package:com.skt.aidev.nugustb level:error " />
-        <option value="package:com.skt.aidev.nugustb" />
         <option value="package:com.skt.aidev.nugustb tag~:BtvFrameworkHelper|NuguApplication" />
         <option value="tag~:DisplayTimer|CountDownTimer|AbstractDisplayView | (tag~:NuguClientManager &amp; message~:onDialogUXStateChanged)" />
         <option value="tag~:DisplayTimer | (tag~:NuguClientManager &amp; message~:onDialogUXStateChanged)" />
@@ -12,14 +12,17 @@
         <option value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate)" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:com.skt.aidev.nugustb" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="(package:com.skt.aidev.nugustb &amp;tag~:MainActivity)" />
+        <option value="package:com.skt.aidev.nugustb " />
+        <option value="nugu" />
+        <option value="package:com.skt.aidev.nugustb" />
         <option value="level:error " />
         <option value="package~:com.skt.eaa.assistant " />
         <option value="BLUETOOTH_CONNECT" />
         <option value="gatt" />
-        <option value="nugu" />
         <option value="stbid" />
         <option value="s" />
         <option value="btvContextInfo" />
@@ -28,13 +31,10 @@
         <option value="live_tv" />
         <option value="screenId changed" />
         <option value="screenid" />
-        <option value="package:com.skt.aidev.nugustb " />
         <option value="package:com.skt.aidev.nugustb prd" />
         <option value="package:com.skt.aidev.nugustb tag~:ForegroundPackageChecker" />
         <option value="`level:error " />
         <option value="pa" />
-        <option value="message~:NUGU_AI_BROADCAST_FROM_APP|NUGU_AI_BROADCAST_FROM_SYSTEM" />
-        <option value="message~:NUGU_AI_BROADCAST_FROM_APP" />
       </list>
     </option>
   </component>
