@@ -2,8 +2,9 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="favorites">
       <list>
-        <option value="package:com.skt.aidev.nugustb tag~:BtvFrameworkHelper|NuguApplication" />
         <option value="package:com.skt.aidev.nugustb level:error " />
+        <option value="package:com.skt.aidev.nugustb" />
+        <option value="package:com.skt.aidev.nugustb tag~:BtvFrameworkHelper|NuguApplication" />
         <option value="tag~:DisplayTimer|CountDownTimer|AbstractDisplayView | (tag~:NuguClientManager &amp; message~:onDialogUXStateChanged)" />
         <option value="tag~:DisplayTimer | (tag~:NuguClientManager &amp; message~:onDialogUXStateChanged)" />
         <option value="tag~:AbstractDisplayView message~:onDisplayTimerStarted" />
@@ -11,9 +12,12 @@
         <option value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate)" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="nugu" />
+    <option name="mostRecentlyUsed" value="level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="level:error " />
+        <option value="BLUETOOTH_CONNECT" />
+        <option value="gatt" />
         <option value="nugu" />
         <option value="stbid" />
         <option value="s" />
@@ -25,15 +29,12 @@
         <option value="screenid" />
         <option value="package:com.skt.aidev.nugustb " />
         <option value="package:com.skt.aidev.nugustb prd" />
-        <option value="package:com.skt.aidev.nugustb" />
         <option value="package:com.skt.aidev.nugustb tag~:ForegroundPackageChecker" />
         <option value="`level:error " />
         <option value="pa" />
         <option value="message~:NUGU_AI_BROADCAST_FROM_APP|NUGU_AI_BROADCAST_FROM_SYSTEM" />
         <option value="message~:NUGU_AI_BROADCAST_FROM_APP" />
         <option value="makeuri" />
-        <option value="whitelist" />
-        <option value="tag~:ForegroundPackageChecker" />
       </list>
     </option>
   </component>
