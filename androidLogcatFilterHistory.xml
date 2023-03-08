@@ -2,6 +2,7 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="favorites">
       <list>
+        <option value="package:com.skt.aidev.nugustb " />
         <option value="(package:com.skt.aidev.nugustb &amp; message~:bondedDevices) | message~:BLUETOOTH_CONNECT" />
         <option value="package:com.skt.aidev.nugustb level:error " />
         <option value="package:com.skt.aidev.nugustb tag~:BtvFrameworkHelper|NuguApplication" />
@@ -12,16 +13,16 @@
         <option value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate)" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="package:com.skt.aidev.nugustb " />
     <option name="nonFavorites">
       <list>
+        <option value="Nugu" />
+        <option value="package:com.skt.aidev.nugustb" />
         <option value="prd" />
         <option value="fatal" />
         <option value="bonde" />
         <option value="(package:com.skt.aidev.nugustb &amp;tag~:MainActivity)" />
-        <option value="package:com.skt.aidev.nugustb " />
         <option value="nugu" />
-        <option value="package:com.skt.aidev.nugustb" />
         <option value="level:error " />
         <option value="package~:com.skt.eaa.assistant " />
         <option value="BLUETOOTH_CONNECT" />
