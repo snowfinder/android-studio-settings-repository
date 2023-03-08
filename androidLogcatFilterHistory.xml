@@ -12,9 +12,11 @@
         <option value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate)" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="(package:com.skt.aidev.nugustb &amp; message~:bondedDevices) | message~:BLUETOOTH_CONNECT" />
     <option name="nonFavorites">
       <list>
+        <option value="fatal" />
+        <option value="bonde" />
         <option value="(package:com.skt.aidev.nugustb &amp;tag~:MainActivity)" />
         <option value="package:com.skt.aidev.nugustb " />
         <option value="nugu" />
@@ -33,8 +35,6 @@
         <option value="screenid" />
         <option value="package:com.skt.aidev.nugustb prd" />
         <option value="package:com.skt.aidev.nugustb tag~:ForegroundPackageChecker" />
-        <option value="`level:error " />
-        <option value="pa" />
       </list>
     </option>
   </component>
