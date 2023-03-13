@@ -2,6 +2,7 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="favorites">
       <list>
+        <option value="package~:com.skt.eaa.assistant " />
         <option value="package:com.skt.aidev.nugustb " />
         <option value="(package:com.skt.aidev.nugustb &amp; message~:bondedDevices) | message~:BLUETOOTH_CONNECT" />
         <option value="package:com.skt.aidev.nugustb level:error " />
@@ -24,7 +25,6 @@
         <option value="(package:com.skt.aidev.nugustb &amp;tag~:MainActivity)" />
         <option value="nugu" />
         <option value="level:error " />
-        <option value="package~:com.skt.eaa.assistant " />
         <option value="BLUETOOTH_CONNECT" />
         <option value="gatt" />
         <option value="stbid" />
