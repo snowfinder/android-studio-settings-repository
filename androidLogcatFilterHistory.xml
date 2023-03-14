@@ -14,9 +14,10 @@
         <option value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate)" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package~:com.skt.eaa.assistant (tag~:NuguDisplayTimer | message~:dialogUxListener.onDialogUXStateChanged)" />
+    <option name="mostRecentlyUsed" value="package~:com.skt.eaa.assistant tag~:NuguDisplayTimer" />
     <option name="nonFavorites">
       <list>
+        <option value="package~:com.skt.eaa.assistant tag~:NuguDisplayTimer" />
         <option value="package~:com.skt.eaa.assistant (tag~:NuguDisplayTimer | message~:dialogUxListener.onDialogUXStateChanged)" />
         <option value="package~:com.skt.eaa.assistant (tag~:DisplayTimer | message~:dialogUxListener.onDialogUXStateChanged)" />
         <option value="package~:com.skt.eaa.assistant tag~:DisplayTimer" />
@@ -36,7 +37,6 @@
         <option value="s" />
         <option value="btvContextInfo" />
         <option value="tag~:BtvContextStateProvider" />
-        <option value="com.skb.zemkids" />
       </list>
     </option>
   </component>
