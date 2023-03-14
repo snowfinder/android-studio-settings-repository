@@ -14,9 +14,11 @@
         <option value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate)" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package~:com.skt.eaa.assistant tag~:DisplayTimer" />
+    <option name="mostRecentlyUsed" value="com.android.settings" />
     <option name="nonFavorites">
       <list>
+        <option value="com.android.settings" />
+        <option value="u0 " />
         <option value="package~:com.skt.eaa.assistant tag~:DisplayTimer" />
         <option value="package:com.skt.aidev.nugustb" />
         <option value="Nugu" />
@@ -35,8 +37,6 @@
         <option value="com.skb.zemkids" />
         <option value="live_tv" />
         <option value="screenId changed" />
-        <option value="screenid" />
-        <option value="package:com.skt.aidev.nugustb prd" />
       </list>
     </option>
   </component>
