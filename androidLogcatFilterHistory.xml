@@ -14,7 +14,7 @@
         <option value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate)" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="package~:com.skt.eaa.assistant " />
     <option name="nonFavorites">
       <list>
         <option value="com.android.settings" />
