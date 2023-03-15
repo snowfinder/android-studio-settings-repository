@@ -19,6 +19,8 @@
     <option name="nonFavorites">
       <list>
         <option value="package~:com.skt.eaa.assistant tag~:NuguDisplayTime" />
+        <option value="package~:com.skt.eaa.assistant tag~:NuguDisplayTime | (tag~:NuguClientManager &amp; message~:asrListener.onStateChanged)" />
+        <option value="package~:com.skt.eaa.assistant tag~:NuguDisplayTime | (tag~:NuguClientManager message~:asrListener.onStateChanged)" />
         <option value="package~:com.skt.eaa.assistant tag~:NuguDisplayTimer" />
         <option value="package~:com.skt.eaa.assistant (tag~:NuguDisplayTimer | message~:dialogUxListener.onDialogUXStateChanged)" />
         <option value="package~:com.skt.eaa.assistant (tag~:DisplayTimer | message~:dialogUxListener.onDialogUXStateChanged)" />
@@ -36,8 +38,6 @@
         <option value="BLUETOOTH_CONNECT" />
         <option value="gatt" />
         <option value="stbid" />
-        <option value="s" />
-        <option value="btvContextInfo" />
       </list>
     </option>
   </component>
