@@ -2,6 +2,7 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="favorites">
       <list>
+        <option value="level:error " />
         <option value="package~:com.skt.eaa.assistant level:error " />
         <option value="package~:com.skt.eaa.assistant tag~:NuguDisplayTime | message~:handleTimeoutProgressCircle" />
         <option value="package~:com.skt.eaa.assistant " />
@@ -16,9 +17,11 @@
         <option value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate)" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="vbPhonebookList" />
+        <option value="NuguTemplateREnderer" />
         <option value="CircularProgressIndicator" />
         <option value="package~:com.skt.eaa.assistant tag~:DisplayTime" />
         <option value="package~:com.skt.eaa.assistant tag~:NuguDisplayTime" />
@@ -37,8 +40,6 @@
         <option value="bonde" />
         <option value="(package:com.skt.aidev.nugustb &amp;tag~:MainActivity)" />
         <option value="nugu" />
-        <option value="level:error " />
-        <option value="BLUETOOTH_CONNECT" />
       </list>
     </option>
   </component>
