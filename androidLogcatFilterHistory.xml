@@ -16,9 +16,10 @@
         <option value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate)" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:com.skt.aidev.nugustb " />
+    <option name="mostRecentlyUsed" value="package:com.skt.aidev.nugustb tag~:OverlayToast" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.skt.aidev.nugustb tag~:OverlayToast" />
         <option value="level:error " />
         <option value="package:com.skt.aidev.nugustb" />
         <option value="vbPhonebookList" />
@@ -38,7 +39,6 @@
         <option value="prd" />
         <option value="fatal" />
         <option value="bonde" />
-        <option value="(package:com.skt.aidev.nugustb &amp;tag~:MainActivity)" />
       </list>
     </option>
   </component>
