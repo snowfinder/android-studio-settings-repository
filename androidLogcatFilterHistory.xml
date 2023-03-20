@@ -16,9 +16,10 @@
         <option value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate)" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="tag~:ServiceApp" />
     <option name="nonFavorites">
       <list>
+        <option value="tag~:ServiceApp" />
         <option value="package:com.skt.aidev.nugustb tag~:OverlayToast " />
         <option value="package:com.skt.aidev.nugustb" />
         <option value="package:com.skt.aidev.nugustb tag~:OverlayToast" />
@@ -38,7 +39,6 @@
         <option value="com.android.settings" />
         <option value="u0 " />
         <option value="Nugu" />
-        <option value="prd" />
       </list>
     </option>
   </component>
