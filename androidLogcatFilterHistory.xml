@@ -20,6 +20,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:com.skt.aidev.nugustb tag~:OverlayToast" />
+        <option value="package:com.skt.aidev.nugustb tag~:OverlayToast|ToastHandler" />
         <option value="package:com.skt.aidev.nugustb" />
         <option value="level:error " />
         <option value="vbPhonebookList" />
@@ -38,7 +39,6 @@
         <option value="Nugu" />
         <option value="prd" />
         <option value="fatal" />
-        <option value="bonde" />
       </list>
     </option>
   </component>
