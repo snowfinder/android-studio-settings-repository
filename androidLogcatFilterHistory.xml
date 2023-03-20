@@ -20,8 +20,8 @@
     <option name="nonFavorites">
       <list>
         <option value="package:com.skt.aidev.nugustb tag~:OverlayToast" />
-        <option value="level:error " />
         <option value="package:com.skt.aidev.nugustb" />
+        <option value="level:error " />
         <option value="vbPhonebookList" />
         <option value="NuguTemplateREnderer" />
         <option value="CircularProgressIndicator" />
