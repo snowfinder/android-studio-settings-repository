@@ -20,6 +20,7 @@
     <option name="nonFavorites">
       <list>
         <option value="tag~:ServiceApp" />
+        <option value="tag" />
         <option value="package:com.skt.aidev.nugustb tag~:OverlayToast " />
         <option value="package:com.skt.aidev.nugustb" />
         <option value="package:com.skt.aidev.nugustb tag~:OverlayToast" />
@@ -38,7 +39,6 @@
         <option value="package~:com.skt.eaa.assistant tag~:DisplayTimer" />
         <option value="com.android.settings" />
         <option value="u0 " />
-        <option value="Nugu" />
       </list>
     </option>
   </component>
