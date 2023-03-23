@@ -16,9 +16,14 @@
         <option value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate)" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag~:ServiceApp" />
+    <option name="mostRecentlyUsed" value="tag~:NuguDispatchService | message~:onDisplayTimerState|notifyDisplayTimerStateToSecondPartyIfNeed" />
     <option name="nonFavorites">
       <list>
+        <option value="tag~:NuguDispatchService | message~:onDisplayTimerState|notifyDisplayTimerStateToSecondPartyIfNeed" />
+        <option value="tag~:NuguDispatchService | message~:onDisplayTimerState" />
+        <option value="tag~:NuguDispatchService " />
+        <option value="package~:com.skt.eaa.assistant tag~:NuguDispatchService " />
+        <option value="package~:com.skt.eaa.assistant tag~:Bind " />
         <option value="tag~:ServiceApp" />
         <option value="tag" />
         <option value="package:com.skt.aidev.nugustb tag~:OverlayToast " />
@@ -34,11 +39,6 @@
         <option value="package~:com.skt.eaa.assistant tag~:NuguDisplayTime | (tag~:NuguClientManager &amp; message~:asrListener.onStateChanged)" />
         <option value="package~:com.skt.eaa.assistant tag~:NuguDisplayTime | (tag~:NuguClientManager message~:asrListener.onStateChanged)" />
         <option value="package~:com.skt.eaa.assistant tag~:NuguDisplayTimer" />
-        <option value="package~:com.skt.eaa.assistant (tag~:NuguDisplayTimer | message~:dialogUxListener.onDialogUXStateChanged)" />
-        <option value="package~:com.skt.eaa.assistant (tag~:DisplayTimer | message~:dialogUxListener.onDialogUXStateChanged)" />
-        <option value="package~:com.skt.eaa.assistant tag~:DisplayTimer" />
-        <option value="com.android.settings" />
-        <option value="u0 " />
       </list>
     </option>
   </component>
