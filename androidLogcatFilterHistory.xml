@@ -20,6 +20,7 @@
     <option name="nonFavorites">
       <list>
         <option value="tag~:NuguDispatchService | message~:onDisplayTimerState|notifyDisplayTimerStateToSecondPartyIfNeed" />
+        <option value="tag~:NuguClientManager" />
         <option value="tag~:NuguDispatchService | message~:onDisplayTimerState" />
         <option value="tag~:NuguDispatchService " />
         <option value="package~:com.skt.eaa.assistant tag~:NuguDispatchService " />
@@ -38,7 +39,6 @@
         <option value="package~:com.skt.eaa.assistant tag~:NuguDisplayTime" />
         <option value="package~:com.skt.eaa.assistant tag~:NuguDisplayTime | (tag~:NuguClientManager &amp; message~:asrListener.onStateChanged)" />
         <option value="package~:com.skt.eaa.assistant tag~:NuguDisplayTime | (tag~:NuguClientManager message~:asrListener.onStateChanged)" />
-        <option value="package~:com.skt.eaa.assistant tag~:NuguDisplayTimer" />
       </list>
     </option>
   </component>
