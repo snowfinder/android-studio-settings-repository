@@ -16,9 +16,13 @@
         <option value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate)" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag~:NuguDispatchService | message~:onDisplayTimerState|notifyDisplayTimerStateToSecondPartyIfNeed" />
+    <option name="mostRecentlyUsed" value="tag~:NuguDispatchService|NuguTemplateRenderer|NuguDisplayTimer | message~:notifyDisplayTimerStateToSecondPartyIfNeed" />
     <option name="nonFavorites">
       <list>
+        <option value="tag~:NuguDispatchService|NuguTemplateRenderer|NuguDisplayTimer | message~:notifyDisplayTimerStateToSecondPartyIfNeed" />
+        <option value="tag~:NuguDispatchService|NuguTemplateRenderer|NuguDisplayTimer | message~:onDisplayTimerState|notifyDisplayTimerStateToSecondPartyIfNeed" />
+        <option value="tag~:NuguDispatchService|NuguTemplateRenderer|DisplayTimer | message~:onDisplayTimerState|notifyDisplayTimerStateToSecondPartyIfNeed" />
+        <option value="tag~:NuguDispatchService|NuguTemplateRenderer | message~:onDisplayTimerState|notifyDisplayTimerStateToSecondPartyIfNeed" />
         <option value="tag~:NuguDispatchService | message~:onDisplayTimerState|notifyDisplayTimerStateToSecondPartyIfNeed" />
         <option value="tag~:NuguClientManager" />
         <option value="tag~:NuguDispatchService | message~:onDisplayTimerState" />
@@ -35,10 +39,6 @@
         <option value="vbPhonebookList" />
         <option value="NuguTemplateREnderer" />
         <option value="CircularProgressIndicator" />
-        <option value="package~:com.skt.eaa.assistant tag~:DisplayTime" />
-        <option value="package~:com.skt.eaa.assistant tag~:NuguDisplayTime" />
-        <option value="package~:com.skt.eaa.assistant tag~:NuguDisplayTime | (tag~:NuguClientManager &amp; message~:asrListener.onStateChanged)" />
-        <option value="package~:com.skt.eaa.assistant tag~:NuguDisplayTime | (tag~:NuguClientManager message~:asrListener.onStateChanged)" />
       </list>
     </option>
   </component>
