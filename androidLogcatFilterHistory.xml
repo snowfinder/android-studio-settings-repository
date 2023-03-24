@@ -15,12 +15,12 @@
         <option value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate)" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="directive" />
+    <option name="mostRecentlyUsed" value="createRender" />
     <option name="nonFavorites">
       <list>
+        <option value="createRender" />
         <option value="directive" />
         <option value="token" />
-        <option value="createRender" />
         <option value="package:com.skt.aidev.nugustb " />
         <option value="tag~:NuguDispatchService|NuguTemplateRenderer|NuguDisplayTimer | message~:notifyDisplayTimerStateToSecondPartyIfNeed" />
         <option value="tag~:NuguDispatchService|NuguTemplateRenderer|NuguDisplayTimer | message~:onDisplayTimerState|notifyDisplayTimerStateToSecondPartyIfNeed" />
