@@ -2,7 +2,6 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="favorites">
       <list>
-        <option value="package:com.skt.aidev.nugustb " />
         <option value="package~:com.skt.eaa.assistant level:error " />
         <option value="package~:com.skt.eaa.assistant tag~:NuguDisplayTime | message~:handleTimeoutProgressCircle" />
         <option value="package~:com.skt.eaa.assistant " />
@@ -16,9 +15,13 @@
         <option value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate)" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag~:NuguDispatchService|NuguTemplateRenderer|NuguDisplayTimer | message~:notifyDisplayTimerStateToSecondPartyIfNeed" />
+    <option name="mostRecentlyUsed" value="directive" />
     <option name="nonFavorites">
       <list>
+        <option value="directive" />
+        <option value="token" />
+        <option value="createRender" />
+        <option value="package:com.skt.aidev.nugustb " />
         <option value="tag~:NuguDispatchService|NuguTemplateRenderer|NuguDisplayTimer | message~:notifyDisplayTimerStateToSecondPartyIfNeed" />
         <option value="tag~:NuguDispatchService|NuguTemplateRenderer|NuguDisplayTimer | message~:onDisplayTimerState|notifyDisplayTimerStateToSecondPartyIfNeed" />
         <option value="tag~:NuguDispatchService|NuguTemplateRenderer|DisplayTimer | message~:onDisplayTimerState|notifyDisplayTimerStateToSecondPartyIfNeed" />
@@ -35,10 +38,6 @@
         <option value="package:com.skt.aidev.nugustb" />
         <option value="package:com.skt.aidev.nugustb tag~:OverlayToast" />
         <option value="package:com.skt.aidev.nugustb tag~:OverlayToast|ToastHandler" />
-        <option value="level:error " />
-        <option value="vbPhonebookList" />
-        <option value="NuguTemplateREnderer" />
-        <option value="CircularProgressIndicator" />
       </list>
     </option>
   </component>
