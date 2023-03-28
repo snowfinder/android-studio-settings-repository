@@ -19,8 +19,8 @@
     <option name="mostRecentlyUsed" value="package~:com.skt.eaa.assistant tag~:NuguDisplayTime|NuguTemplateRenderer | message~:handleTimeoutProgressCircle" />
     <option name="nonFavorites">
       <list>
-        <option value="VoiceInteraction" />
         <option value="package~:com.skt.eaa.assistant tag~:NuguDisplayTime|NuguTemplateRenderer | message~:handleTimeoutProgressCircle" />
+        <option value="VoiceInteraction" />
         <option value="package~:com.skt.eaa.assistant tag~:NuguDisplayTime | message~:handleTimeoutProgressCircle|notifyDisplayTimerStateToSecondPartyIfNeed" />
         <option value="tag~:BluetoothController|Contacts" />
         <option value="tag~:BluetoothController" />
