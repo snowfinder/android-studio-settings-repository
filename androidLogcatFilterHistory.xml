@@ -16,9 +16,15 @@
         <option value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate)" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="poc" />
+    <option name="mostRecentlyUsed" value="NUGUauto" />
     <option name="nonFavorites">
       <list>
+        <option value="NUGUauto" />
+        <option value="tag~:DeviceUniqueIdGenerator" />
+        <option value="message~:getDeviceUniqueId" />
+        <option value="device" />
+        <option value="vin" />
+        <option value="getVin" />
         <option value="poc" />
         <option value="tag~:NogDebugLogManager|Nog" />
         <option value="tag~:NogDebugLogManager" />
@@ -33,12 +39,6 @@
         <option value="directive" />
         <option value="token" />
         <option value="package:com.skt.aidev.nugustb " />
-        <option value="tag~:NuguDispatchService|NuguTemplateRenderer|NuguDisplayTimer | message~:notifyDisplayTimerStateToSecondPartyIfNeed" />
-        <option value="tag~:NuguDispatchService|NuguTemplateRenderer|NuguDisplayTimer | message~:onDisplayTimerState|notifyDisplayTimerStateToSecondPartyIfNeed" />
-        <option value="tag~:NuguDispatchService|NuguTemplateRenderer|DisplayTimer | message~:onDisplayTimerState|notifyDisplayTimerStateToSecondPartyIfNeed" />
-        <option value="tag~:NuguDispatchService|NuguTemplateRenderer | message~:onDisplayTimerState|notifyDisplayTimerStateToSecondPartyIfNeed" />
-        <option value="tag~:NuguDispatchService | message~:onDisplayTimerState|notifyDisplayTimerStateToSecondPartyIfNeed" />
-        <option value="tag~:NuguClientManager" />
       </list>
     </option>
   </component>
