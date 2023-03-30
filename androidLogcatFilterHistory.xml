@@ -16,9 +16,12 @@
         <option value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate)" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag~:DeviceUniqueIdGenerator" />
+    <option name="mostRecentlyUsed" value="tag~:ExtensionClient" />
     <option name="nonFavorites">
       <list>
+        <option value="tag~:ExtensionClient" />
+        <option value="com.tmap.auto.bydxtmap" />
+        <option value="tmap" />
         <option value="NUGUauto" />
         <option value="tag~:DeviceUniqueIdGenerator" />
         <option value="message~:getDeviceUniqueId" />
@@ -36,9 +39,6 @@
         <option value="BluetoothCon" />
         <option value="NuguAuto" />
         <option value="createRender" />
-        <option value="directive" />
-        <option value="token" />
-        <option value="package:com.skt.aidev.nugustb " />
       </list>
     </option>
   </component>
