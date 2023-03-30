@@ -16,7 +16,7 @@
         <option value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate)" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="NUGUauto" />
+    <option name="mostRecentlyUsed" value="tag~:DeviceUniqueIdGenerator" />
     <option name="nonFavorites">
       <list>
         <option value="NUGUauto" />
