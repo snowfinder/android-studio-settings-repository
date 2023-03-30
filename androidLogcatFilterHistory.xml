@@ -16,9 +16,10 @@
         <option value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate)" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag~:NogDebugLogManager|Nog" />
+    <option name="mostRecentlyUsed" value="poc" />
     <option name="nonFavorites">
       <list>
+        <option value="poc" />
         <option value="tag~:NogDebugLogManager|Nog" />
         <option value="tag~:NogDebugLogManager" />
         <option value="package~:com.skt.eaa.assistant tag~:NuguDisplayTime|NuguTemplateRenderer | message~:handleTimeoutProgressCircle" />
@@ -38,7 +39,6 @@
         <option value="tag~:NuguDispatchService|NuguTemplateRenderer | message~:onDisplayTimerState|notifyDisplayTimerStateToSecondPartyIfNeed" />
         <option value="tag~:NuguDispatchService | message~:onDisplayTimerState|notifyDisplayTimerStateToSecondPartyIfNeed" />
         <option value="tag~:NuguClientManager" />
-        <option value="tag~:NuguDispatchService | message~:onDisplayTimerState" />
       </list>
     </option>
   </component>
