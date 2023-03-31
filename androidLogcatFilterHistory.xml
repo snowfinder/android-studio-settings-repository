@@ -16,9 +16,11 @@
         <option value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate)" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag~:ExtensionClient" />
+    <option name="mostRecentlyUsed" value="stg" />
     <option name="nonFavorites">
       <list>
+        <option value="stg" />
+        <option value="prd" />
         <option value="tag~:ExtensionClient" />
         <option value="com.tmap.auto.bydxtmap" />
         <option value="tmap" />
@@ -37,8 +39,6 @@
         <option value="tag~:BluetoothController|Contacts" />
         <option value="tag~:BluetoothController" />
         <option value="BluetoothCon" />
-        <option value="NuguAuto" />
-        <option value="createRender" />
       </list>
     </option>
   </component>
