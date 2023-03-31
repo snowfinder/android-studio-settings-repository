@@ -2,8 +2,8 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="favorites">
       <list>
-        <option value="package~:com.skt.eaa.assistant tag~:NuguDisplayTime | message~:handleTimeoutProgressCircle" />
         <option value="package~:com.skt.eaa.assistant " />
+        <option value="package~:com.skt.eaa.assistant tag~:NuguDisplayTime | message~:handleTimeoutProgressCircle" />
         <option value="level:error " />
         <option value="package~:com.skt.eaa.assistant level:error " />
         <option value="(package:com.skt.aidev.nugustb &amp; message~:bondedDevices) | message~:BLUETOOTH_CONNECT" />
@@ -16,9 +16,10 @@
         <option value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate)" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package~:com.skt.eaa.assistant | message~:vin" />
+    <option name="mostRecentlyUsed" value="deviceunique" />
     <option name="nonFavorites">
       <list>
+        <option value="deviceunique" />
         <option value="package~:com.skt.eaa.assistant | message~:vin" />
         <option value="vin" />
         <option value="package:com.skt.aidev.nugustb message~:stg" />
@@ -38,7 +39,6 @@
         <option value="poc" />
         <option value="tag~:NogDebugLogManager|Nog" />
         <option value="tag~:NogDebugLogManager" />
-        <option value="package~:com.skt.eaa.assistant tag~:NuguDisplayTime|NuguTemplateRenderer | message~:handleTimeoutProgressCircle" />
       </list>
     </option>
   </component>
