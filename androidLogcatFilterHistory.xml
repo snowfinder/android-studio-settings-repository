@@ -19,6 +19,7 @@
     <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="activity" />
         <option value="deviceunique" />
         <option value="package~:com.skt.eaa.assistant | message~:vin" />
         <option value="vin" />
@@ -38,7 +39,6 @@
         <option value="getVin" />
         <option value="poc" />
         <option value="tag~:NogDebugLogManager|Nog" />
-        <option value="tag~:NogDebugLogManager" />
       </list>
     </option>
   </component>
