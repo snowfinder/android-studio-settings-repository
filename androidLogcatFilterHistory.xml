@@ -16,9 +16,11 @@
         <option value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate)" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="stg" />
+    <option name="mostRecentlyUsed" value="NuguCall" />
     <option name="nonFavorites">
       <list>
+        <option value="NuguCall" />
+        <option value="call" />
         <option value="stg" />
         <option value="prd" />
         <option value="tag~:ExtensionClient" />
@@ -37,8 +39,6 @@
         <option value="VoiceInteraction" />
         <option value="package~:com.skt.eaa.assistant tag~:NuguDisplayTime | message~:handleTimeoutProgressCircle|notifyDisplayTimerStateToSecondPartyIfNeed" />
         <option value="tag~:BluetoothController|Contacts" />
-        <option value="tag~:BluetoothController" />
-        <option value="BluetoothCon" />
       </list>
     </option>
   </component>
