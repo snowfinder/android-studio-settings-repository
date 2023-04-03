@@ -16,9 +16,11 @@
         <option value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate)" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package~:com.skt.eaa.assistant tag~:DisplayTimer|DisplayTemplateAgent" />
+    <option name="mostRecentlyUsed" value="package~:com.skt.eaa.assistant tag~:NUGUauto::VoiceChromeView" />
     <option name="nonFavorites">
       <list>
+        <option value="package~:com.skt.eaa.assistant tag~:NUGUauto::VoiceChromeView" />
+        <option value="package~:com.skt.eaa.assistant tag~:VoiceChromeView" />
         <option value="package~:com.skt.eaa.assistant tag~:DisplayTimer|DisplayTemplateAgent" />
         <option value="package~:com.skt.eaa.assistant tag~:DisplayTimer|DisplayAgent" />
         <option value="package~:com.skt.eaa.assistant tag~:DisplayTimer" />
@@ -37,8 +39,6 @@
         <option value="prd" />
         <option value="tag~:ExtensionClient" />
         <option value="com.tmap.auto.bydxtmap" />
-        <option value="NUGUauto" />
-        <option value="tag~:DeviceUniqueIdGenerator" />
       </list>
     </option>
   </component>
