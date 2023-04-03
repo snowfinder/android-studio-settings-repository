@@ -16,9 +16,14 @@
         <option value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate)" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package~:com.skt.eaa.assistant " />
+    <option name="mostRecentlyUsed" value="package~:com.skt.eaa.assistant tag~:DisplayTimer|DisplayTemplateAgent" />
     <option name="nonFavorites">
       <list>
+        <option value="package~:com.skt.eaa.assistant tag~:DisplayTimer|DisplayTemplateAgent" />
+        <option value="package~:com.skt.eaa.assistant tag~:DisplayTimer|DisplayAgent" />
+        <option value="package~:com.skt.eaa.assistant tag~:DisplayTimer" />
+        <option value="package~:com.skt.eaa.assistant tag~:NuguDisplayTimer" />
+        <option value="package~:com.skt.eaa.assistant tag~:NuguDisplayTimerManager" />
         <option value="tmap" />
         <option value="activity" />
         <option value="deviceunique" />
@@ -34,11 +39,6 @@
         <option value="com.tmap.auto.bydxtmap" />
         <option value="NUGUauto" />
         <option value="tag~:DeviceUniqueIdGenerator" />
-        <option value="message~:getDeviceUniqueId" />
-        <option value="device" />
-        <option value="getVin" />
-        <option value="poc" />
-        <option value="tag~:NogDebugLogManager|Nog" />
       </list>
     </option>
   </component>
