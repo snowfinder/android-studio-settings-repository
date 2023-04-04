@@ -8,7 +8,7 @@
             <value value="R3CT60E8V2E" />
           </Key>
         </key>
-        <name value="samsung SM-S906N" />
+        <name value="Device" />
         <target value="Android Tiramisu" />
         <api value="androidversion:33:null:null:true" />
       </PhysicalDevice>
