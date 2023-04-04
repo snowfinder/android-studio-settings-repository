@@ -16,15 +16,17 @@
         <option value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate)" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="message~:dpiTest|dpi/density" />
+    <option name="mostRecentlyUsed" value="message~:test_onCreate" />
     <option name="nonFavorites">
       <list>
+        <option value="message~:test_onCreate" />
         <option value="message~:dpiTest|dpi/density" />
+        <option value="com.skt.eaa.assistant" />
+        <option value="NUGUauto" />
         <option value="message~:dpiTest|dpi" />
         <option value="message~:dpiTest" />
         <option value="AutoAssistantApplication" />
         <option value="onCreate" />
-        <option value="NUGUauto" />
         <option value="dpiTest" />
         <option value="package~:com.skt.eaa.assistant message~:dpiTest" />
         <option value="package~:com.skt.eaa.assistant tag~:VoiceChromeController" />
@@ -37,8 +39,6 @@
         <option value="package~:com.skt.eaa.assistant tag~:NuguDisplayTimerManager" />
         <option value="tmap" />
         <option value="activity" />
-        <option value="deviceunique" />
-        <option value="package~:com.skt.eaa.assistant | message~:vin" />
       </list>
     </option>
   </component>

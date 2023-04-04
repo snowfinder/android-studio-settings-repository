@@ -5,78 +5,12 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="R3CT60E8V2E" />
-          </Key>
-        </key>
-        <name value="samsung SM-S906N" />
-        <target value="Android Tiramisu" />
-        <api value="androidversion:33:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="192.168.0.21:5555" />
-          </Key>
-        </key>
-        <type value="TV" />
-        <name value="Foxconn BFX-AT100" />
-        <target value="Android 10.0" />
-        <api value="androidversion:29:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
             <value value="c081e285" />
           </Key>
         </key>
         <name value="BYD AUTO DiLink3.0 For BYD AUTO" />
         <target value="Android 10.0" />
         <api value="androidversion:29:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="9B141FFAZ00ACL" />
-          </Key>
-        </key>
-        <name value="Google Pixel 4" />
-        <target value="Android Tiramisu" />
-        <api value="androidversion:32:Tiramisu:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="(no serial number)" />
-          </Key>
-        </key>
-        <name value="Device" />
-        <target value="Android 1.0" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="DOMAIN_NAME" />
-            <value value="adb-R3CT60E8V2E-fpaHuB._adb-tls-connect._tcp." />
-          </Key>
-        </key>
-        <name value="samsung SM-S906N" />
-        <target value="Android Tiramisu" />
-        <api value="androidversion:33:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="192.168.0.54:36261" />
-          </Key>
-        </key>
-        <name value="samsung SM-S906N" />
-        <target value="Android Tiramisu" />
-        <api value="androidversion:33:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -111,6 +45,17 @@
         <name value="VolvoCars Polestar" />
         <target value="Android 11.0" />
         <api value="androidversion:30:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="R3CT60E8V2E" />
+          </Key>
+        </key>
+        <name value="samsung SM-S906N" />
+        <target value="Android Tiramisu" />
+        <api value="androidversion:33:null:null:true" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
