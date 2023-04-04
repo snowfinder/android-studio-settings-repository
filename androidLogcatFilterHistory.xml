@@ -16,9 +16,15 @@
         <option value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate)" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package~:com.skt.eaa.assistant tag~:VoiceChromeController" />
+    <option name="mostRecentlyUsed" value="message~:dpiTest" />
     <option name="nonFavorites">
       <list>
+        <option value="message~:dpiTest" />
+        <option value="AutoAssistantApplication" />
+        <option value="onCreate" />
+        <option value="NUGUauto" />
+        <option value="dpiTest" />
+        <option value="package~:com.skt.eaa.assistant message~:dpiTest" />
         <option value="package~:com.skt.eaa.assistant tag~:VoiceChromeController" />
         <option value="package~:com.skt.eaa.assistant tag~:NUGUauto::VoiceChromeView" />
         <option value="package~:com.skt.eaa.assistant tag~:VoiceChromeView" />
@@ -33,12 +39,6 @@
         <option value="package~:com.skt.eaa.assistant | message~:vin" />
         <option value="vin" />
         <option value="package:com.skt.aidev.nugustb message~:stg" />
-        <option value="package:com.skt.aidev.nugustb" />
-        <option value="NuguCall" />
-        <option value="call" />
-        <option value="stg" />
-        <option value="prd" />
-        <option value="tag~:ExtensionClient" />
       </list>
     </option>
   </component>
