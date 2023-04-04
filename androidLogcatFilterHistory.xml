@@ -16,9 +16,11 @@
         <option value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate)" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="message~:dpiTest" />
+    <option name="mostRecentlyUsed" value="message~:dpiTest|dpi/density" />
     <option name="nonFavorites">
       <list>
+        <option value="message~:dpiTest|dpi/density" />
+        <option value="message~:dpiTest|dpi" />
         <option value="message~:dpiTest" />
         <option value="AutoAssistantApplication" />
         <option value="onCreate" />
@@ -37,8 +39,6 @@
         <option value="activity" />
         <option value="deviceunique" />
         <option value="package~:com.skt.eaa.assistant | message~:vin" />
-        <option value="vin" />
-        <option value="package:com.skt.aidev.nugustb message~:stg" />
       </list>
     </option>
   </component>
