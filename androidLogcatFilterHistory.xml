@@ -16,9 +16,11 @@
         <option value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate)" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="message~:test_onCreate" />
+    <option name="mostRecentlyUsed" value="message~:onCreate" />
     <option name="nonFavorites">
       <list>
+        <option value="message~:onCreate" />
+        <option value="message~:1.1test_onCreate" />
         <option value="message~:test_onCreate" />
         <option value="message~:dpiTest|dpi/density" />
         <option value="com.skt.eaa.assistant" />
@@ -37,8 +39,6 @@
         <option value="package~:com.skt.eaa.assistant tag~:DisplayTimer" />
         <option value="package~:com.skt.eaa.assistant tag~:NuguDisplayTimer" />
         <option value="package~:com.skt.eaa.assistant tag~:NuguDisplayTimerManager" />
-        <option value="tmap" />
-        <option value="activity" />
       </list>
     </option>
   </component>
