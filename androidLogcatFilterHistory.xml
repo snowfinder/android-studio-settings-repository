@@ -16,9 +16,14 @@
         <option value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate)" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="message~:" />
+    <option name="mostRecentlyUsed" value="(tag~:NuguTemplateRenderer &amp; message~:notifyDisplayTimerStateToSecondPartyIfNeed) | tag~:DisplayTimer" />
     <option name="nonFavorites">
       <list>
+        <option value="(tag~:NuguTemplateRenderer &amp; message~:notifyDisplayTimerStateToSecondPartyIfNeed) | tag~:DisplayTimer" />
+        <option value="tag~:DisplayTimer" />
+        <option value="notifyDisplayTimerState" />
+        <option value="tag~:NuguTemplateRenderer message~:notifyDisplayTimerStateToSecondPartyIfNeed" />
+        <option value="tag~:NuguTemplateRenderer" />
         <option value="message~:" />
         <option value="message~:test_onCreate" />
         <option value="message~:onCreate" />
@@ -34,11 +39,6 @@
         <option value="package~:com.skt.eaa.assistant message~:dpiTest" />
         <option value="package~:com.skt.eaa.assistant tag~:VoiceChromeController" />
         <option value="package~:com.skt.eaa.assistant tag~:NUGUauto::VoiceChromeView" />
-        <option value="package~:com.skt.eaa.assistant tag~:VoiceChromeView" />
-        <option value="package~:com.skt.eaa.assistant tag~:DisplayTimer|DisplayTemplateAgent" />
-        <option value="package~:com.skt.eaa.assistant tag~:DisplayTimer|DisplayAgent" />
-        <option value="package~:com.skt.eaa.assistant tag~:DisplayTimer" />
-        <option value="package~:com.skt.eaa.assistant tag~:NuguDisplayTimer" />
       </list>
     </option>
   </component>
