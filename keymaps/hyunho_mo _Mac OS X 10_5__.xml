@@ -2,6 +2,9 @@
   <action id="ActivateJsonParserToolWindow">
     <keyboard-shortcut first-keystroke="ctrl meta j" />
   </action>
+  <action id="ActivateLayoutValidationToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl meta v" />
+  </action>
   <action id="ActivateLogcatToolWindow">
     <keyboard-shortcut first-keystroke="ctrl meta l" />
   </action>
