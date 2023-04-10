@@ -1,0 +1,171 @@
+<application>
+  <component name="SettingsSyncPlugins">
+    <option name="plugins">
+      <map>
+        <entry key="androidx.compose.plugins.idea">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="org.jetbrains.android" />
+                  <option value="org.jetbrains.kotlin" />
+                </set>
+              </option>
+              <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.android.tools.apk">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.android.tools.idea.smali" />
+                  <option value="com.android.tools.ndk" />
+                  <option value="org.jetbrains.android" />
+                </set>
+              </option>
+              <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.android.tools.ndk">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.cidr.base" />
+                  <option value="com.intellij.cidr.debugger" />
+                  <option value="com.intellij.cidr.lang" />
+                  <option value="com.intellij.cidr.lang.clangd" />
+                  <option value="com.intellij.gradle" />
+                  <option value="org.jetbrains.android" />
+                  <option value="org.jetbrains.kotlin" />
+                </set>
+              </option>
+              <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.google.appindexing">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.google.gct.login" />
+                  <option value="com.google.urlassistant" />
+                  <option value="org.intellij.groovy" />
+                  <option value="org.jetbrains.android" />
+                </set>
+              </option>
+              <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.google.cluestick.studioclient">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.google.gct.login" />
+                  <option value="org.jetbrains.android" />
+                </set>
+              </option>
+              <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.google.gct">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="Git4Idea" />
+                  <option value="com.google.gct.core" />
+                  <option value="com.google.gct.login" />
+                  <option value="com.intellij.gradle" />
+                  <option value="org.intellij.groovy" />
+                  <option value="org.jetbrains.android" />
+                  <option value="org.jetbrains.kotlin" />
+                  <option value="org.jetbrains.plugins.gradle" />
+                </set>
+              </option>
+              <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.google.gct.directaccess">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.google.gct.login" />
+                  <option value="com.google.gct.testing" />
+                  <option value="org.jetbrains.android" />
+                </set>
+              </option>
+              <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.google.gct.test.recorder">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="org.jetbrains.android" />
+                </set>
+              </option>
+              <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.google.gct.testing">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.google.gct.core" />
+                  <option value="com.google.gct.login" />
+                  <option value="org.intellij.groovy" />
+                  <option value="org.jetbrains.android" />
+                </set>
+              </option>
+              <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.google.services.firebase">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.google.gct.login" />
+                  <option value="com.google.gct.test.recorder" />
+                  <option value="org.intellij.groovy" />
+                  <option value="org.jetbrains.android" />
+                  <option value="org.jetbrains.kotlin" />
+                </set>
+              </option>
+              <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.google.urlassistant">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="org.intellij.groovy" />
+                  <option value="org.jetbrains.android" />
+                  <option value="org.jetbrains.kotlin" />
+                </set>
+              </option>
+              <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>
