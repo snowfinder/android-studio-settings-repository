@@ -16,9 +16,11 @@
         <option value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate)" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="(tag~:NuguTemplateRenderer &amp; message~:notifyDisplayTimerStateToSecondPartyIfNeed) | tag~:DisplayTimer" />
+    <option name="mostRecentlyUsed" value="tag~:VoiceChromeDynamicBackgroundView message~:WaveHeightAnimator" />
     <option name="nonFavorites">
       <list>
+        <option value="tag~:VoiceChromeDynamicBackgroundView message~:WaveHeightAnimator" />
+        <option value="tag~:VoiceChromeDynamicBackgroundView" />
         <option value="(tag~:NuguTemplateRenderer &amp; message~:notifyDisplayTimerStateToSecondPartyIfNeed) | tag~:DisplayTimer" />
         <option value="tag~:DisplayTimer" />
         <option value="notifyDisplayTimerState" />
@@ -37,8 +39,6 @@
         <option value="onCreate" />
         <option value="dpiTest" />
         <option value="package~:com.skt.eaa.assistant message~:dpiTest" />
-        <option value="package~:com.skt.eaa.assistant tag~:VoiceChromeController" />
-        <option value="package~:com.skt.eaa.assistant tag~:NUGUauto::VoiceChromeView" />
       </list>
     </option>
   </component>
