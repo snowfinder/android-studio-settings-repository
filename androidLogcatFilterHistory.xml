@@ -16,9 +16,11 @@
         <option value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate)" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:com.skt.aidev.nugustb" />
+    <option name="mostRecentlyUsed" value="nog" />
     <option name="nonFavorites">
       <list>
+        <option value="nog" />
+        <option value="package:com.skt.aidev.nugustb message~:nog" />
         <option value="package:com.skt.aidev.nugustb" />
         <option value="tag:Nog" />
         <option value="package:com.skt.aidev.nugustb " />
@@ -37,8 +39,6 @@
         <option value="com.skt.eaa.assistant" />
         <option value="NUGUauto" />
         <option value="message~:dpiTest|dpi" />
-        <option value="message~:dpiTest" />
-        <option value="AutoAssistantApplication" />
       </list>
     </option>
   </component>
