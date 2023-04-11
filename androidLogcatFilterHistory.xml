@@ -16,9 +16,10 @@
         <option value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate)" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag:Nog" />
+    <option name="mostRecentlyUsed" value="package:com.skt.aidev.nugustb" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.skt.aidev.nugustb" />
         <option value="tag:Nog" />
         <option value="package:com.skt.aidev.nugustb " />
         <option value="tag~:VoiceChromeDynamicBackgroundView message~:WaveHeightAnimator" />
@@ -38,7 +39,6 @@
         <option value="message~:dpiTest|dpi" />
         <option value="message~:dpiTest" />
         <option value="AutoAssistantApplication" />
-        <option value="onCreate" />
       </list>
     </option>
   </component>
