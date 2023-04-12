@@ -16,9 +16,10 @@
         <option value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate)" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag~:VoiceInteractionSessionIm|NightModeManager" />
+    <option name="mostRecentlyUsed" value="updateDefaultMusicCpSettings" />
     <option name="nonFavorites">
       <list>
+        <option value="updateDefaultMusicCpSettings" />
         <option value="tag~:VoiceInteractionSessionIm|NightModeManager" />
         <option value="tag~:NightModeManager" />
         <option value="tag~:VoiceInteractionSessionIm" />
@@ -38,7 +39,6 @@
         <option value="tag~:DisplayTimer" />
         <option value="notifyDisplayTimerState" />
         <option value="tag~:NuguTemplateRenderer message~:notifyDisplayTimerStateToSecondPartyIfNeed" />
-        <option value="tag~:NuguTemplateRenderer" />
       </list>
     </option>
   </component>
