@@ -19,6 +19,8 @@
     <option name="mostRecentlyUsed" value="tag~:VoiceInteractionSessionIm|NightModeManager" />
     <option name="nonFavorites">
       <list>
+        <option value="VoiceInteractionSessionImpl" />
+        <option value="tag~:" />
         <option value="updateDefaultMusicCpSettings" />
         <option value="tag~:VoiceInteractionSessionIm|NightModeManager" />
         <option value="tag~:NightModeManager" />
@@ -37,8 +39,6 @@
         <option value="tag~:VoiceChromeDynamicBackgroundView" />
         <option value="(tag~:NuguTemplateRenderer &amp; message~:notifyDisplayTimerStateToSecondPartyIfNeed) | tag~:DisplayTimer" />
         <option value="tag~:DisplayTimer" />
-        <option value="notifyDisplayTimerState" />
-        <option value="tag~:NuguTemplateRenderer message~:notifyDisplayTimerStateToSecondPartyIfNeed" />
       </list>
     </option>
   </component>
