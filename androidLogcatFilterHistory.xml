@@ -16,13 +16,15 @@
         <option value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate)" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag~:VoiceInteractionSessionIm|NightModeManager" />
+    <option name="mostRecentlyUsed" value="contacts" />
     <option name="nonFavorites">
       <list>
+        <option value="contacts" />
+        <option value="BluetoothController" />
+        <option value="tag~:VoiceInteractionSessionIm|NightModeManager" />
         <option value="VoiceInteractionSessionImpl" />
         <option value="tag~:" />
         <option value="updateDefaultMusicCpSettings" />
-        <option value="tag~:VoiceInteractionSessionIm|NightModeManager" />
         <option value="tag~:NightModeManager" />
         <option value="tag~:VoiceInteractionSessionIm" />
         <option value="message~:applyDefaultTheme" />
@@ -37,8 +39,6 @@
         <option value="package:com.skt.aidev.nugustb " />
         <option value="tag~:VoiceChromeDynamicBackgroundView message~:WaveHeightAnimator" />
         <option value="tag~:VoiceChromeDynamicBackgroundView" />
-        <option value="(tag~:NuguTemplateRenderer &amp; message~:notifyDisplayTimerStateToSecondPartyIfNeed) | tag~:DisplayTimer" />
-        <option value="tag~:DisplayTimer" />
       </list>
     </option>
   </component>
