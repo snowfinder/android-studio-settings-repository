@@ -16,9 +16,11 @@
         <option value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate)" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="contacts" />
+    <option name="mostRecentlyUsed" value="package:com.skt.aidev.nugustb " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.skt.aidev.nugustb " />
+        <option value="nog" />
         <option value="contacts" />
         <option value="BluetoothController" />
         <option value="tag~:VoiceInteractionSessionIm|NightModeManager" />
@@ -32,11 +34,9 @@
         <option value="tag~:applyDefaultTheme" />
         <option value="tag:" />
         <option value="applyDefaultTheme" />
-        <option value="nog" />
         <option value="package:com.skt.aidev.nugustb message~:nog" />
         <option value="package:com.skt.aidev.nugustb" />
         <option value="tag:Nog" />
-        <option value="package:com.skt.aidev.nugustb " />
         <option value="tag~:VoiceChromeDynamicBackgroundView message~:WaveHeightAnimator" />
         <option value="tag~:VoiceChromeDynamicBackgroundView" />
       </list>
