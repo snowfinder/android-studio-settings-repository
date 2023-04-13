@@ -16,14 +16,14 @@
         <option value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate)" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:com.skt.aidev.nugustb " />
+    <option name="mostRecentlyUsed" value="tag~:VoiceInteractionSessionIm|NightModeManager" />
     <option name="nonFavorites">
       <list>
+        <option value="tag~:VoiceInteractionSessionIm|NightModeManager" />
+        <option value="contacts" />
         <option value="package:com.skt.aidev.nugustb " />
         <option value="nog" />
-        <option value="contacts" />
         <option value="BluetoothController" />
-        <option value="tag~:VoiceInteractionSessionIm|NightModeManager" />
         <option value="VoiceInteractionSessionImpl" />
         <option value="tag~:" />
         <option value="updateDefaultMusicCpSettings" />
