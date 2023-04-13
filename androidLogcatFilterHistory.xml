@@ -16,9 +16,10 @@
         <option value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate)" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag~:VoiceInteractionSessionIm|NightModeManager" />
+    <option name="mostRecentlyUsed" value="tag~:VoiceInteractionSessionIm|NightModeManager|VoiceInteractionLayer" />
     <option name="nonFavorites">
       <list>
+        <option value="tag~:VoiceInteractionSessionIm|NightModeManager|VoiceInteractionLayer" />
         <option value="tag~:VoiceInteractionSessionIm|NightModeManager" />
         <option value="contacts" />
         <option value="package:com.skt.aidev.nugustb " />
@@ -38,7 +39,6 @@
         <option value="package:com.skt.aidev.nugustb" />
         <option value="tag:Nog" />
         <option value="tag~:VoiceChromeDynamicBackgroundView message~:WaveHeightAnimator" />
-        <option value="tag~:VoiceChromeDynamicBackgroundView" />
       </list>
     </option>
   </component>
