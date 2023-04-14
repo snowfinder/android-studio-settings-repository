@@ -16,9 +16,10 @@
         <option value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate)" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag~:MainViewControl" />
+    <option name="mostRecentlyUsed" value="setupChipsLayout" />
     <option name="nonFavorites">
       <list>
+        <option value="setupChipsLayout" />
         <option value="tag~:MainViewControl" />
         <option value="tag~:BaseMainViewControl" />
         <option value="tag~:MainViewController" />
@@ -38,7 +39,6 @@
         <option value="tag~:BaseActivity" />
         <option value="tag~:applyDefaultTheme" />
         <option value="tag:" />
-        <option value="applyDefaultTheme" />
       </list>
     </option>
   </component>
