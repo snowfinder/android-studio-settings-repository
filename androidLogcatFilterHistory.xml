@@ -16,9 +16,12 @@
         <option value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate)" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag~:VoiceInteractionSessionIm|NightModeManager|VoiceInteractionLayer|VoiceChromeController" />
+    <option name="mostRecentlyUsed" value="tag~:MainViewControl" />
     <option name="nonFavorites">
       <list>
+        <option value="tag~:MainViewControl" />
+        <option value="tag~:BaseMainViewControl" />
+        <option value="tag~:MainViewController" />
         <option value="tag~:VoiceInteractionSessionIm|NightModeManager|VoiceInteractionLayer|VoiceChromeController" />
         <option value="tag~:VoiceInteractionSessionIm|NightModeManager|VoiceInteractionLayer" />
         <option value="tag~:VoiceInteractionSessionIm|NightModeManager" />
@@ -36,9 +39,6 @@
         <option value="tag~:applyDefaultTheme" />
         <option value="tag:" />
         <option value="applyDefaultTheme" />
-        <option value="package:com.skt.aidev.nugustb message~:nog" />
-        <option value="package:com.skt.aidev.nugustb" />
-        <option value="tag:Nog" />
       </list>
     </option>
   </component>
