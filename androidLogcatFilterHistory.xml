@@ -19,6 +19,7 @@
     <option name="mostRecentlyUsed" value="wakelock" />
     <option name="nonFavorites">
       <list>
+        <option value="activity" />
         <option value="wakelock" />
         <option value="tag~:DuxContainerActivity" />
         <option value="DuxContainerActivity" />
@@ -38,7 +39,6 @@
         <option value="tag~:VoiceInteractionSessionIm|NightModeManager" />
         <option value="contacts" />
         <option value="nog" />
-        <option value="BluetoothController" />
       </list>
     </option>
   </component>
