@@ -16,9 +16,13 @@
         <option value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate)" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="level:error " />
+    <option name="mostRecentlyUsed" value="WakeLock" />
     <option name="nonFavorites">
       <list>
+        <option value="WakeLock" />
+        <option value="wakeLock" />
+        <option value="wake" />
+        <option value="wake_lock" />
         <option value="package:com.skt.aidev.nugustb " />
         <option value="tag~:NuguSDKEnvironments" />
         <option value="onDialogUXStateChanged" />
@@ -35,10 +39,6 @@
         <option value="VoiceInteractionSessionImpl" />
         <option value="tag~:" />
         <option value="updateDefaultMusicCpSettings" />
-        <option value="tag~:NightModeManager" />
-        <option value="tag~:VoiceInteractionSessionIm" />
-        <option value="message~:applyDefaultTheme" />
-        <option value="tag~:BaseActivity" />
       </list>
     </option>
   </component>
