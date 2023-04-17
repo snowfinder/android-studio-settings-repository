@@ -16,20 +16,22 @@
         <option value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate)" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="package:com.skt.aidev.nugustb tag~:BtvFrameworkHelper" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.skt.aidev.nugustb tag~:BtvFrameworkHelper" />
+        <option value="package:com.skt.aidev.nugustb " />
+        <option value="BtvFrameworkHelper" />
+        <option value="catv" />
+        <option value="nugu" />
         <option value="handlePropertyManagerOnReady" />
         <option value="NuguDeviceApp" />
-        <option value="nugu" />
         <option value="BtvTemplateHandler" />
         <option value="package:com.skt.aidev.nugustb" />
         <option value="package:com.skt.aidev.nugustb tag~:DebugCommandService" />
         <option value="package:com.skt.aidev.nugustb (tag~:BtvFrameworkHelper)" />
         <option value="package:com.skt.aidev.nugustb (tag~:BtvFrameworkHelper | message~:catv|foxconn)" />
         <option value="package:com.skt.aidev.nugustb (tag~:BtvFrameworkHelper | message~:catv)" />
-        <option value="package:com.skt.aidev.nugustb tag~:BtvFrameworkHelper" />
-        <option value="package:com.skt.aidev.nugustb " />
         <option value="wakelock" />
         <option value="activity" />
         <option value="tag~:DuxContainerActivity" />
@@ -37,8 +39,6 @@
         <option value="WakeLock" />
         <option value="wakeLock" />
         <option value="wake" />
-        <option value="wake_lock" />
-        <option value="tag~:NuguSDKEnvironments" />
       </list>
     </option>
   </component>
