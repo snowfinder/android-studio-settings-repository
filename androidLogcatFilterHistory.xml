@@ -16,9 +16,13 @@
         <option value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate)" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:com.skt.aidev.nugustb" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="handlePropertyManagerOnReady" />
+        <option value="NuguDeviceApp" />
+        <option value="nugu" />
+        <option value="BtvTemplateHandler" />
         <option value="package:com.skt.aidev.nugustb" />
         <option value="package:com.skt.aidev.nugustb tag~:DebugCommandService" />
         <option value="package:com.skt.aidev.nugustb (tag~:BtvFrameworkHelper)" />
@@ -35,10 +39,6 @@
         <option value="wake" />
         <option value="wake_lock" />
         <option value="tag~:NuguSDKEnvironments" />
-        <option value="onDialogUXStateChanged" />
-        <option value="setupChipsLayout" />
-        <option value="tag~:MainViewControl" />
-        <option value="tag~:BaseMainViewControl" />
       </list>
     </option>
   </component>
