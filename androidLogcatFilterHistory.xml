@@ -16,9 +16,12 @@
         <option value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate)" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="WakeLock" />
+    <option name="mostRecentlyUsed" value="wakelock" />
     <option name="nonFavorites">
       <list>
+        <option value="wakelock" />
+        <option value="tag~:DuxContainerActivity" />
+        <option value="DuxContainerActivity" />
         <option value="WakeLock" />
         <option value="wakeLock" />
         <option value="wake" />
@@ -36,9 +39,6 @@
         <option value="contacts" />
         <option value="nog" />
         <option value="BluetoothController" />
-        <option value="VoiceInteractionSessionImpl" />
-        <option value="tag~:" />
-        <option value="updateDefaultMusicCpSettings" />
       </list>
     </option>
   </component>
