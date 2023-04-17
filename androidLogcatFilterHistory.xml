@@ -16,18 +16,21 @@
         <option value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate)" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="wakelock" />
+    <option name="mostRecentlyUsed" value="package:com.skt.aidev.nugustb (tag~:BtvFrameworkHelper | message~:catv|foxconn)" />
     <option name="nonFavorites">
       <list>
-        <option value="activity" />
+        <option value="package:com.skt.aidev.nugustb (tag~:BtvFrameworkHelper | message~:catv|foxconn)" />
+        <option value="package:com.skt.aidev.nugustb (tag~:BtvFrameworkHelper | message~:catv)" />
+        <option value="package:com.skt.aidev.nugustb tag~:BtvFrameworkHelper" />
+        <option value="package:com.skt.aidev.nugustb " />
         <option value="wakelock" />
+        <option value="activity" />
         <option value="tag~:DuxContainerActivity" />
         <option value="DuxContainerActivity" />
         <option value="WakeLock" />
         <option value="wakeLock" />
         <option value="wake" />
         <option value="wake_lock" />
-        <option value="package:com.skt.aidev.nugustb " />
         <option value="tag~:NuguSDKEnvironments" />
         <option value="onDialogUXStateChanged" />
         <option value="setupChipsLayout" />
@@ -36,9 +39,6 @@
         <option value="tag~:MainViewController" />
         <option value="tag~:VoiceInteractionSessionIm|NightModeManager|VoiceInteractionLayer|VoiceChromeController" />
         <option value="tag~:VoiceInteractionSessionIm|NightModeManager|VoiceInteractionLayer" />
-        <option value="tag~:VoiceInteractionSessionIm|NightModeManager" />
-        <option value="contacts" />
-        <option value="nog" />
       </list>
     </option>
   </component>
