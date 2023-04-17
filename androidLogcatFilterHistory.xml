@@ -16,9 +16,12 @@
         <option value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate)" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:com.skt.aidev.nugustb (tag~:BtvFrameworkHelper | message~:catv|foxconn)" />
+    <option name="mostRecentlyUsed" value="package:com.skt.aidev.nugustb" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.skt.aidev.nugustb" />
+        <option value="package:com.skt.aidev.nugustb tag~:DebugCommandService" />
+        <option value="package:com.skt.aidev.nugustb (tag~:BtvFrameworkHelper)" />
         <option value="package:com.skt.aidev.nugustb (tag~:BtvFrameworkHelper | message~:catv|foxconn)" />
         <option value="package:com.skt.aidev.nugustb (tag~:BtvFrameworkHelper | message~:catv)" />
         <option value="package:com.skt.aidev.nugustb tag~:BtvFrameworkHelper" />
@@ -36,9 +39,6 @@
         <option value="setupChipsLayout" />
         <option value="tag~:MainViewControl" />
         <option value="tag~:BaseMainViewControl" />
-        <option value="tag~:MainViewController" />
-        <option value="tag~:VoiceInteractionSessionIm|NightModeManager|VoiceInteractionLayer|VoiceChromeController" />
-        <option value="tag~:VoiceInteractionSessionIm|NightModeManager|VoiceInteractionLayer" />
       </list>
     </option>
   </component>
