@@ -19,6 +19,8 @@
     <option name="mostRecentlyUsed" value="package:com.skt.aidev.nugustb " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.skt.aidev.nugustb " />
+        <option value="tag~:NuguSDKEnvironments" />
         <option value="onDialogUXStateChanged" />
         <option value="setupChipsLayout" />
         <option value="tag~:MainViewControl" />
@@ -28,7 +30,6 @@
         <option value="tag~:VoiceInteractionSessionIm|NightModeManager|VoiceInteractionLayer" />
         <option value="tag~:VoiceInteractionSessionIm|NightModeManager" />
         <option value="contacts" />
-        <option value="package:com.skt.aidev.nugustb " />
         <option value="nog" />
         <option value="BluetoothController" />
         <option value="VoiceInteractionSessionImpl" />
@@ -38,7 +39,6 @@
         <option value="tag~:VoiceInteractionSessionIm" />
         <option value="message~:applyDefaultTheme" />
         <option value="tag~:BaseActivity" />
-        <option value="tag~:applyDefaultTheme" />
       </list>
     </option>
   </component>
