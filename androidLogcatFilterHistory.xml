@@ -16,9 +16,10 @@
         <option value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate)" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:com.skt.aidev.nugustb" />
+    <option name="mostRecentlyUsed" value="wake" />
     <option name="nonFavorites">
       <list>
+        <option value="wake" />
         <option value="package:com.skt.aidev.nugustb" />
         <option value="nugu" />
         <option value="package:com.skt.aidev.nugustb tag~:BtvFrameworkHelper" />
@@ -38,7 +39,6 @@
         <option value="DuxContainerActivity" />
         <option value="WakeLock" />
         <option value="wakeLock" />
-        <option value="wake" />
       </list>
     </option>
   </component>
