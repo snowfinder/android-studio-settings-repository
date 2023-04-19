@@ -19,11 +19,11 @@
     <option name="mostRecentlyUsed" value="tag~:PackageInfoBroadcastReceiver" />
     <option name="nonFavorites">
       <list>
+        <option value="tag~:PackageInfoBroadcastReceiver" />
         <option value="message~:deviceUniqueId | tag~:RequestPermissionCheckActivity|DeviceUniqueIdGenerator" />
         <option value="message~:deviceUniqueId | tag~:RequestPermissionCheckActivity" />
         <option value="message~:deviceUniqueId" />
         <option value="tag~:PackageInfoBroadcastReceiver|AutoAssistantApplication" />
-        <option value="tag~:PackageInfoBroadcastReceiver" />
         <option value="wake" />
         <option value="package:com.skt.aidev.nugustb" />
         <option value="nugu" />
