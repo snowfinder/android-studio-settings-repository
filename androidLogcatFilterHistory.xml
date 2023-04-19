@@ -17,9 +17,10 @@
         <option value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate)" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:com.skt.aidev.nugustb" />
+    <option name="mostRecentlyUsed" value="package:com.skt.aidev.nugustb tag~:DuxContainerActivity" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.skt.aidev.nugustb tag~:DuxContainerActivity" />
         <option value="button" />
         <option value="ExoMediaPlayer" />
         <option value="nugu" />
@@ -39,7 +40,6 @@
         <option value="handlePropertyManagerOnReady" />
         <option value="NuguDeviceApp" />
         <option value="BtvTemplateHandler" />
-        <option value="package:com.skt.aidev.nugustb tag~:DebugCommandService" />
       </list>
     </option>
   </component>
