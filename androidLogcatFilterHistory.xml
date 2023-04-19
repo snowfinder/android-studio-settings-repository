@@ -16,9 +16,11 @@
         <option value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate)" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="activity" />
+    <option name="mostRecentlyUsed" value="START u0" />
     <option name="nonFavorites">
       <list>
+        <option value="START u0" />
+        <option value="OtpSetupActivity" />
         <option value="activity" />
         <option value="tag~:PackageInfoBroadcastReceiver" />
         <option value="message~:deviceUniqueId | tag~:RequestPermissionCheckActivity|DeviceUniqueIdGenerator" />
@@ -37,8 +39,6 @@
         <option value="BtvTemplateHandler" />
         <option value="package:com.skt.aidev.nugustb tag~:DebugCommandService" />
         <option value="package:com.skt.aidev.nugustb (tag~:BtvFrameworkHelper)" />
-        <option value="package:com.skt.aidev.nugustb (tag~:BtvFrameworkHelper | message~:catv|foxconn)" />
-        <option value="package:com.skt.aidev.nugustb (tag~:BtvFrameworkHelper | message~:catv)" />
       </list>
     </option>
   </component>
