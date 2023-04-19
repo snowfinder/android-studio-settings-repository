@@ -2,6 +2,7 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="favorites">
       <list>
+        <option value="package:com.skt.aidev.nugustb" />
         <option value="level:error " />
         <option value="package~:com.skt.eaa.assistant " />
         <option value="package~:com.skt.eaa.assistant tag~:NuguDisplayTime | message~:handleTimeoutProgressCircle" />
@@ -16,7 +17,7 @@
         <option value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate)" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="START u0" />
+    <option name="mostRecentlyUsed" value="package:com.skt.aidev.nugustb" />
     <option name="nonFavorites">
       <list>
         <option value="START u0" />
@@ -28,7 +29,6 @@
         <option value="message~:deviceUniqueId" />
         <option value="tag~:PackageInfoBroadcastReceiver|AutoAssistantApplication" />
         <option value="wake" />
-        <option value="package:com.skt.aidev.nugustb" />
         <option value="nugu" />
         <option value="package:com.skt.aidev.nugustb tag~:BtvFrameworkHelper" />
         <option value="package:com.skt.aidev.nugustb " />
