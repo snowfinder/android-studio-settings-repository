@@ -16,9 +16,10 @@
         <option value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate)" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag~:PackageInfoBroadcastReceiver" />
+    <option name="mostRecentlyUsed" value="activity" />
     <option name="nonFavorites">
       <list>
+        <option value="activity" />
         <option value="tag~:PackageInfoBroadcastReceiver" />
         <option value="message~:deviceUniqueId | tag~:RequestPermissionCheckActivity|DeviceUniqueIdGenerator" />
         <option value="message~:deviceUniqueId | tag~:RequestPermissionCheckActivity" />
@@ -38,7 +39,6 @@
         <option value="package:com.skt.aidev.nugustb (tag~:BtvFrameworkHelper)" />
         <option value="package:com.skt.aidev.nugustb (tag~:BtvFrameworkHelper | message~:catv|foxconn)" />
         <option value="package:com.skt.aidev.nugustb (tag~:BtvFrameworkHelper | message~:catv)" />
-        <option value="wakelock" />
       </list>
     </option>
   </component>
