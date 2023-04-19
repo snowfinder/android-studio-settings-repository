@@ -16,9 +16,10 @@
         <option value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate)" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag~:PackageInfoBroadcastReceiver|AutoAssistantApplication" />
+    <option name="mostRecentlyUsed" value="message~:deviceUniqueId" />
     <option name="nonFavorites">
       <list>
+        <option value="message~:deviceUniqueId" />
         <option value="tag~:PackageInfoBroadcastReceiver|AutoAssistantApplication" />
         <option value="tag~:PackageInfoBroadcastReceiver" />
         <option value="wake" />
@@ -38,7 +39,6 @@
         <option value="wakelock" />
         <option value="activity" />
         <option value="tag~:DuxContainerActivity" />
-        <option value="DuxContainerActivity" />
       </list>
     </option>
   </component>
