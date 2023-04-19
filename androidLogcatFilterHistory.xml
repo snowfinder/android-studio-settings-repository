@@ -20,6 +20,9 @@
     <option name="mostRecentlyUsed" value="package:com.skt.aidev.nugustb" />
     <option name="nonFavorites">
       <list>
+        <option value="button" />
+        <option value="ExoMediaPlayer" />
+        <option value="nugu" />
         <option value="START u0" />
         <option value="OtpSetupActivity" />
         <option value="activity" />
@@ -29,7 +32,6 @@
         <option value="message~:deviceUniqueId" />
         <option value="tag~:PackageInfoBroadcastReceiver|AutoAssistantApplication" />
         <option value="wake" />
-        <option value="nugu" />
         <option value="package:com.skt.aidev.nugustb tag~:BtvFrameworkHelper" />
         <option value="package:com.skt.aidev.nugustb " />
         <option value="BtvFrameworkHelper" />
@@ -38,7 +40,6 @@
         <option value="NuguDeviceApp" />
         <option value="BtvTemplateHandler" />
         <option value="package:com.skt.aidev.nugustb tag~:DebugCommandService" />
-        <option value="package:com.skt.aidev.nugustb (tag~:BtvFrameworkHelper)" />
       </list>
     </option>
   </component>
