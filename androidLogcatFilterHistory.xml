@@ -16,7 +16,7 @@
         <option value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate)" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="message~:deviceUniqueId | tag~:RequestPermissionCheckActivity|DeviceUniqueIdGenerator" />
+    <option name="mostRecentlyUsed" value="tag~:PackageInfoBroadcastReceiver" />
     <option name="nonFavorites">
       <list>
         <option value="message~:deviceUniqueId | tag~:RequestPermissionCheckActivity|DeviceUniqueIdGenerator" />
