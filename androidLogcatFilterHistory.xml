@@ -20,6 +20,7 @@
     <option name="mostRecentlyUsed" value="package:com.skt.aidev.nugustb" />
     <option name="nonFavorites">
       <list>
+        <option value="keycode" />
         <option value="package:com.skt.aidev.nugustb tag~:DuxContainerActivity" />
         <option value="button" />
         <option value="ExoMediaPlayer" />
@@ -39,7 +40,6 @@
         <option value="catv" />
         <option value="handlePropertyManagerOnReady" />
         <option value="NuguDeviceApp" />
-        <option value="BtvTemplateHandler" />
       </list>
     </option>
   </component>
