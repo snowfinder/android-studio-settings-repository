@@ -17,9 +17,10 @@
         <option value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate)" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:com.skt.aidev.nugustb" />
+    <option name="mostRecentlyUsed" value="package:com.skt.aidev.nugustb tag~:OtpSetupActivity" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.skt.aidev.nugustb tag~:OtpSetupActivity" />
         <option value="package~:com.skt.eaa.assistant message~:deviceUni" />
         <option value="package~:com.skt.eaa.assistant message" />
         <option value="nugu" />
@@ -39,7 +40,6 @@
         <option value="package:com.skt.aidev.nugustb tag~:BtvFrameworkHelper" />
         <option value="package:com.skt.aidev.nugustb " />
         <option value="BtvFrameworkHelper" />
-        <option value="catv" />
       </list>
     </option>
   </component>
