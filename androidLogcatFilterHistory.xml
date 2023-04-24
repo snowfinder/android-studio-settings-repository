@@ -17,9 +17,11 @@
         <option value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate)" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="VoiceChrome" />
+    <option name="mostRecentlyUsed" value="AutoAssistantApplication" />
     <option name="nonFavorites">
       <list>
+        <option value="AutoAssistantApplication" />
+        <option value="AutoAssis" />
         <option value="VoiceChrome" />
         <option value="VoiceChromeController" />
         <option value="package:com.skt.aidev.nugustb tag~:OtpSetupActivity" />
@@ -38,8 +40,6 @@
         <option value="message~:deviceUniqueId | tag~:RequestPermissionCheckActivity" />
         <option value="message~:deviceUniqueId" />
         <option value="tag~:PackageInfoBroadcastReceiver|AutoAssistantApplication" />
-        <option value="wake" />
-        <option value="package:com.skt.aidev.nugustb tag~:BtvFrameworkHelper" />
       </list>
     </option>
   </component>
