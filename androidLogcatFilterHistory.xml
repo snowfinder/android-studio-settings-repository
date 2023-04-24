@@ -17,9 +17,15 @@
         <option value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate)" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="AutoAssistantApplication" />
+    <option name="mostRecentlyUsed" value="tag~:NUGUauto::NuguClientManager|NuguAuthManager|VoiceInteraction|AutoAssistantApplication" />
     <option name="nonFavorites">
       <list>
+        <option value="tag~:NUGUauto::NuguClientManager|NuguAuthManager|VoiceInteraction|AutoAssistantApplication" />
+        <option value="tag~:NUGUauto::NuguClientManager|NuguAuthManager|VoiceInteraction" />
+        <option value="tag~:NUGUauto::NuguClientManager|NuguAuthManager" />
+        <option value="tag~:NUGUauto::NuguClientManager " />
+        <option value="NuguClientManager" />
+        <option value="voiceinteraction" />
         <option value="AutoAssistantApplication" />
         <option value="AutoAssis" />
         <option value="VoiceChrome" />
@@ -34,12 +40,6 @@
         <option value="ExoMediaPlayer" />
         <option value="START u0" />
         <option value="OtpSetupActivity" />
-        <option value="activity" />
-        <option value="tag~:PackageInfoBroadcastReceiver" />
-        <option value="message~:deviceUniqueId | tag~:RequestPermissionCheckActivity|DeviceUniqueIdGenerator" />
-        <option value="message~:deviceUniqueId | tag~:RequestPermissionCheckActivity" />
-        <option value="message~:deviceUniqueId" />
-        <option value="tag~:PackageInfoBroadcastReceiver|AutoAssistantApplication" />
       </list>
     </option>
   </component>
