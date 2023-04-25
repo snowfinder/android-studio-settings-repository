@@ -2,10 +2,10 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="favorites">
       <list>
+        <option value="package~:com.skt.eaa.assistant " />
         <option value="package:mine " />
         <option value="level:error " />
         <option value="package:com.skt.aidev.nugustb" />
-        <option value="package~:com.skt.eaa.assistant " />
         <option value="package~:com.skt.eaa.assistant tag~:NuguDisplayTime | message~:handleTimeoutProgressCircle" />
         <option value="package~:com.skt.eaa.assistant level:error " />
         <option value="(package:com.skt.aidev.nugustb &amp; message~:bondedDevices) | message~:BLUETOOTH_CONNECT" />
@@ -18,9 +18,14 @@
         <option value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate)" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="package~:com.skt.eaa.assistant message~:updateLayout" />
     <option name="nonFavorites">
       <list>
+        <option value="package~:com.skt.eaa.assistant message~:updateLayout" />
+        <option value="package~:com.skt.eaa.assistant message~:" />
+        <option value="package~:com.skt.eaa.assistant  message~:onConfigurationChanged" />
+        <option value="package~:com.skt.eaa.assistant  message~:updateLayout" />
+        <option value="message~:updateLayout" />
         <option value="tag~:NuguClientManager|NuguAuthManager|VoiceInteraction|AutoAssistantApplication" />
         <option value="tag~:NUGUauto::NuguClientManager" />
         <option value="tag~:NUGUauto::NuguClientManager|NuguAuthManager|VoiceInteraction|AutoAssistantApplication" />
@@ -36,10 +41,6 @@
         <option value="package:com.skt.aidev.nugustb tag~:OtpSetupActivity" />
         <option value="package~:com.skt.eaa.assistant message~:deviceUni" />
         <option value="package~:com.skt.eaa.assistant message" />
-        <option value="nugu" />
-        <option value="keycode" />
-        <option value="package:com.skt.aidev.nugustb tag~:DuxContainerActivity" />
-        <option value="button" />
       </list>
     </option>
   </component>
