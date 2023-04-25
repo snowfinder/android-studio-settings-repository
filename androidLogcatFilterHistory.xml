@@ -2,8 +2,9 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="favorites">
       <list>
-        <option value="package:com.skt.aidev.nugustb" />
+        <option value="package:mine " />
         <option value="level:error " />
+        <option value="package:com.skt.aidev.nugustb" />
         <option value="package~:com.skt.eaa.assistant " />
         <option value="package~:com.skt.eaa.assistant tag~:NuguDisplayTime | message~:handleTimeoutProgressCircle" />
         <option value="package~:com.skt.eaa.assistant level:error " />
@@ -17,7 +18,6 @@
         <option value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate)" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag~:NuguClientManager|NuguAuthManager|VoiceInteraction|AutoAssistantApplication" />
     <option name="nonFavorites">
       <list>
         <option value="tag~:NuguClientManager|NuguAuthManager|VoiceInteraction|AutoAssistantApplication" />
@@ -39,7 +39,6 @@
         <option value="keycode" />
         <option value="package:com.skt.aidev.nugustb tag~:DuxContainerActivity" />
         <option value="button" />
-        <option value="ExoMediaPlayer" />
       </list>
     </option>
   </component>
