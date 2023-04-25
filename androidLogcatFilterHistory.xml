@@ -17,9 +17,11 @@
         <option value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate)" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag~:NUGUauto::NuguClientManager|NuguAuthManager|VoiceInteraction|AutoAssistantApplication" />
+    <option name="mostRecentlyUsed" value="tag~:NuguClientManager|NuguAuthManager|VoiceInteraction|AutoAssistantApplication" />
     <option name="nonFavorites">
       <list>
+        <option value="tag~:NuguClientManager|NuguAuthManager|VoiceInteraction|AutoAssistantApplication" />
+        <option value="tag~:NUGUauto::NuguClientManager" />
         <option value="tag~:NUGUauto::NuguClientManager|NuguAuthManager|VoiceInteraction|AutoAssistantApplication" />
         <option value="tag~:NUGUauto::NuguClientManager|NuguAuthManager|VoiceInteraction" />
         <option value="tag~:NUGUauto::NuguClientManager|NuguAuthManager" />
@@ -38,8 +40,6 @@
         <option value="package:com.skt.aidev.nugustb tag~:DuxContainerActivity" />
         <option value="button" />
         <option value="ExoMediaPlayer" />
-        <option value="START u0" />
-        <option value="OtpSetupActivity" />
       </list>
     </option>
   </component>
