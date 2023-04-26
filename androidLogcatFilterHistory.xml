@@ -18,15 +18,15 @@
         <option value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate)" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package~:com.skt.eaa.assistant message~:updateLayout" />
+    <option name="mostRecentlyUsed" value="tag~:NuguClientManager|NuguAuthManager|VoiceInteraction|AutoAssistantApplication" />
     <option name="nonFavorites">
       <list>
+        <option value="tag~:NuguClientManager|NuguAuthManager|VoiceInteraction|AutoAssistantApplication" />
         <option value="package~:com.skt.eaa.assistant message~:updateLayout" />
         <option value="package~:com.skt.eaa.assistant message~:" />
         <option value="package~:com.skt.eaa.assistant  message~:onConfigurationChanged" />
         <option value="package~:com.skt.eaa.assistant  message~:updateLayout" />
         <option value="message~:updateLayout" />
-        <option value="tag~:NuguClientManager|NuguAuthManager|VoiceInteraction|AutoAssistantApplication" />
         <option value="tag~:NUGUauto::NuguClientManager" />
         <option value="tag~:NUGUauto::NuguClientManager|NuguAuthManager|VoiceInteraction|AutoAssistantApplication" />
         <option value="tag~:NUGUauto::NuguClientManager|NuguAuthManager|VoiceInteraction" />
