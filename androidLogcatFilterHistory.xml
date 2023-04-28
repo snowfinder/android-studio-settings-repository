@@ -18,9 +18,10 @@
         <option value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate)" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package~:com.skt.eaa.assistant message~:handleAppVersionChange" />
+    <option name="mostRecentlyUsed" value="package~:com.skt.eaa.assistant tag~:VersionChangeMonitor" />
     <option name="nonFavorites">
       <list>
+        <option value="package~:com.skt.eaa.assistant tag~:VersionChangeMonitor" />
         <option value="package~:com.skt.eaa.assistant message~:handleAppVersionChange" />
         <option value="tag~:NuguClientManager|NuguAuthManager|VoiceInteraction|AutoAssistantApplication" />
         <option value="package~:com.skt.eaa.assistant message~:updateLayout" />
@@ -40,7 +41,6 @@
         <option value="VoiceChrome" />
         <option value="VoiceChromeController" />
         <option value="package:com.skt.aidev.nugustb tag~:OtpSetupActivity" />
-        <option value="package~:com.skt.eaa.assistant message~:deviceUni" />
       </list>
     </option>
   </component>
