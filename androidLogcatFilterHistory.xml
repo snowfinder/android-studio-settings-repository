@@ -18,9 +18,10 @@
         <option value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate)" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package~:com.skt.eaa.assistant tag~:VoiceChromeView message~:updateChipsGaps" />
+    <option name="mostRecentlyUsed" value="package~:com.skt.eaa.assistant tag~:VoiceChromeDynamicBackgroundView " />
     <option name="nonFavorites">
       <list>
+        <option value="package~:com.skt.eaa.assistant tag~:VoiceChromeDynamicBackgroundView " />
         <option value="package~:com.skt.eaa.assistant tag~:VoiceChromeView message~:updateChipsGaps" />
         <option value="package~:com.skt.eaa.assistant tag~:VoiceChromeView" />
         <option value="package~:com.skt.eaa.assistant tag~:VoiceChrome" />
@@ -40,7 +41,6 @@
         <option value="NuguClientManager" />
         <option value="voiceinteraction" />
         <option value="AutoAssistantApplication" />
-        <option value="AutoAssis" />
       </list>
     </option>
   </component>
