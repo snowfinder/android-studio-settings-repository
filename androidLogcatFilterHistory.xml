@@ -22,6 +22,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package~:com.skt.eaa.assistant tag~:VoiceChromeDynamicBackgroundView " />
+        <option value="package~:com.skt.eaa.assistant tag~:WaveHeightAnimator " />
         <option value="package~:com.skt.eaa.assistant tag~:VoiceChromeView message~:updateChipsGaps" />
         <option value="package~:com.skt.eaa.assistant tag~:VoiceChromeView" />
         <option value="package~:com.skt.eaa.assistant tag~:VoiceChrome" />
@@ -40,7 +41,6 @@
         <option value="tag~:NUGUauto::NuguClientManager " />
         <option value="NuguClientManager" />
         <option value="voiceinteraction" />
-        <option value="AutoAssistantApplication" />
       </list>
     </option>
   </component>
