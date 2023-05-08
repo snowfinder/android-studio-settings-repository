@@ -2,9 +2,9 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="favorites">
       <list>
+        <option value="level:error " />
         <option value="package~:com.skt.eaa.assistant " />
         <option value="package:mine " />
-        <option value="level:error " />
         <option value="package:com.skt.aidev.nugustb" />
         <option value="package~:com.skt.eaa.assistant tag~:NuguDisplayTime | message~:handleTimeoutProgressCircle" />
         <option value="package~:com.skt.eaa.assistant level:error " />
@@ -18,9 +18,10 @@
         <option value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate)" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package~:com.skt.eaa.assistant tag~:NUGUauto::ServiceListActivity " />
+    <option name="mostRecentlyUsed" value="package~:com.skt.eaa.assistant tag~:NUGUauto::ServiceListActivity|NuguServiceListGridViewAdapter" />
     <option name="nonFavorites">
       <list>
+        <option value="package~:com.skt.eaa.assistant tag~:NUGUauto::ServiceListActivity|NuguServiceListGridViewAdapter" />
         <option value="package~:com.skt.eaa.assistant tag~:NUGUauto::ServiceListActivity " />
         <option value="package~:com.skt.eaa.assistant tag~:ServiceListActivity" />
         <option value="package~:com.skt.eaa.assistant message~:adjustedDisplayMetrics " />
@@ -40,7 +41,6 @@
         <option value="tag~:NUGUauto::NuguClientManager" />
         <option value="tag~:NUGUauto::NuguClientManager|NuguAuthManager|VoiceInteraction|AutoAssistantApplication" />
         <option value="tag~:NUGUauto::NuguClientManager|NuguAuthManager|VoiceInteraction" />
-        <option value="tag~:NUGUauto::NuguClientManager|NuguAuthManager" />
       </list>
     </option>
   </component>
