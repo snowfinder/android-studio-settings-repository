@@ -18,7 +18,7 @@
         <option value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate)" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package~:com.skt.eaa.assistant tag~:NUGUauto::ServiceListActivity|NuguServiceListGridViewAdapter" />
+    <option name="mostRecentlyUsed" value="level:error " />
     <option name="nonFavorites">
       <list>
         <option value="package~:com.skt.eaa.assistant tag~:NUGUauto::ServiceListActivity|NuguServiceListGridViewAdapter" />
