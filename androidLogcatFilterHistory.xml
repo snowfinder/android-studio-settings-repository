@@ -2,12 +2,12 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="favorites">
       <list>
+        <option value="package~:com.skt.eaa.assistant level:error " />
         <option value="level:error " />
         <option value="package~:com.skt.eaa.assistant " />
         <option value="package:mine " />
         <option value="package:com.skt.aidev.nugustb" />
         <option value="package~:com.skt.eaa.assistant tag~:NuguDisplayTime | message~:handleTimeoutProgressCircle" />
-        <option value="package~:com.skt.eaa.assistant level:error " />
         <option value="(package:com.skt.aidev.nugustb &amp; message~:bondedDevices) | message~:BLUETOOTH_CONNECT" />
         <option value="package:com.skt.aidev.nugustb level:error " />
         <option value="package:com.skt.aidev.nugustb tag~:BtvFrameworkHelper|NuguApplication" />
@@ -18,11 +18,11 @@
         <option value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate)" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="level:error " />
+    <option name="mostRecentlyUsed" value="package~:com.skt.eaa.assistant tag~:NUGUauto::ServiceListActivity" />
     <option name="nonFavorites">
       <list>
-        <option value="package~:com.skt.eaa.assistant tag~:NUGUauto::ServiceListActivity|NuguServiceListGridViewAdapter" />
         <option value="package~:com.skt.eaa.assistant tag~:NUGUauto::ServiceListActivity" />
+        <option value="package~:com.skt.eaa.assistant tag~:NUGUauto::ServiceListActivity|NuguServiceListGridViewAdapter" />
         <option value="package~:com.skt.eaa.assistant tag~:NUGUauto::MainActivity|NuguServiceListGridViewAdapter" />
         <option value="package~:com.skt.eaa.assistant tag~:NUGUauto::ServiceListActivity " />
         <option value="package~:com.skt.eaa.assistant tag~:ServiceListActivity" />
