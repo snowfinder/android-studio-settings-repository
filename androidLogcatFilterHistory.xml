@@ -2,9 +2,9 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="favorites">
       <list>
+        <option value="package~:com.skt.eaa.assistant level:error " />
         <option value="package~:com.skt.eaa.assistant " />
         <option value="level:error " />
-        <option value="package~:com.skt.eaa.assistant level:error " />
         <option value="package:mine " />
         <option value="package:com.skt.aidev.nugustb" />
         <option value="package~:com.skt.eaa.assistant tag~:NuguDisplayTime | message~:handleTimeoutProgressCircle" />
