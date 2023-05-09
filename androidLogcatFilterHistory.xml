@@ -18,11 +18,12 @@
         <option value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate)" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package~:com.skt.eaa.assistant tag~:NUGUauto::ServiceListActivity" />
+    <option name="mostRecentlyUsed" value="package~:com.skt.eaa.assistant tag~:NuguServiceListGridViewAdapter" />
     <option name="nonFavorites">
       <list>
-        <option value="package~:com.skt.eaa.assistant tag~:NUGUauto::ServiceListActivity" />
+        <option value="package~:com.skt.eaa.assistant tag~:NuguServiceListGridViewAdapter" />
         <option value="package~:com.skt.eaa.assistant tag~:NUGUauto::ServiceListActivity|NuguServiceListGridViewAdapter" />
+        <option value="package~:com.skt.eaa.assistant tag~:NUGUauto::ServiceListActivity" />
         <option value="package~:com.skt.eaa.assistant tag~:NUGUauto::MainActivity|NuguServiceListGridViewAdapter" />
         <option value="package~:com.skt.eaa.assistant tag~:NUGUauto::ServiceListActivity " />
         <option value="package~:com.skt.eaa.assistant tag~:ServiceListActivity" />
@@ -40,7 +41,6 @@
         <option value="package~:com.skt.eaa.assistant  message~:onConfigurationChanged" />
         <option value="package~:com.skt.eaa.assistant  message~:updateLayout" />
         <option value="message~:updateLayout" />
-        <option value="tag~:NUGUauto::NuguClientManager" />
       </list>
     </option>
   </component>
