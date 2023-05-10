@@ -18,9 +18,10 @@
         <option value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate)" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package~:com.skt.eaa.assistant tag~:NUGUauto::ServiceListActivity  " />
+    <option name="mostRecentlyUsed" value="package~:com.skt.eaa.assistant tag~:NUGUauto::ServiceListActivity|NuguServiceListManager" />
     <option name="nonFavorites">
       <list>
+        <option value="package~:com.skt.eaa.assistant tag~:NUGUauto::ServiceListActivity|NuguServiceListManager" />
         <option value="package~:com.skt.eaa.assistant tag~:NUGUauto::ServiceListActivity  " />
         <option value="package~:com.skt.eaa.assistant tag~:NuguServiceListGridViewAdapter" />
         <option value="package~:com.skt.eaa.assistant message~:density" />
@@ -40,7 +41,6 @@
         <option value="package~:com.skt.eaa.assistant tag~:VersionChangeMonitor" />
         <option value="package~:com.skt.eaa.assistant message~:handleAppVersionChange" />
         <option value="tag~:NuguClientManager|NuguAuthManager|VoiceInteraction|AutoAssistantApplication" />
-        <option value="package~:com.skt.eaa.assistant message~:updateLayout" />
       </list>
     </option>
   </component>
