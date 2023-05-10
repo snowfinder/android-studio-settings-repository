@@ -18,9 +18,11 @@
         <option value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate)" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package~:com.skt.eaa.assistant" />
+    <option name="mostRecentlyUsed" value="package~:com.skt.eaa.assistant tag~:NUGUauto::ServiceListActivity" />
     <option name="nonFavorites">
       <list>
+        <option value="package~:com.skt.eaa.assistant tag~:NUGUauto::ServiceListActivity" />
+        <option value="package~:com.skt.eaa.assistant tag~:ServiceListActivity" />
         <option value="package~:com.skt.eaa.assistant" />
         <option value="package~:com.skt.eaa.assistant tag~:NUGUauto::ServiceListActivity|NuguServiceListAdapter" />
         <option value="package~:com.skt.eaa.assistant tag~:NUGUauto::ServiceListActivity|NuguServiceListManager" />
@@ -30,10 +32,8 @@
         <option value="density" />
         <option value="package~:com.skt.eaa.assistant tag~:NUGUauto::NuguServiceListAdapter " />
         <option value="package~:com.skt.eaa.assistant tag~:NUGUauto::ServiceListActivity|NuguServiceListGridViewAdapter" />
-        <option value="package~:com.skt.eaa.assistant tag~:NUGUauto::ServiceListActivity" />
         <option value="package~:com.skt.eaa.assistant tag~:NUGUauto::MainActivity|NuguServiceListGridViewAdapter" />
         <option value="package~:com.skt.eaa.assistant tag~:NUGUauto::ServiceListActivity " />
-        <option value="package~:com.skt.eaa.assistant tag~:ServiceListActivity" />
         <option value="package~:com.skt.eaa.assistant message~:adjustedDisplayMetrics " />
         <option value="package~:com.skt.eaa.assistant tag~:VoiceChromeDynamicBackgroundView " />
         <option value="package~:com.skt.eaa.assistant tag~:WaveHeightAnimator " />
