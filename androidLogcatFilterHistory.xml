@@ -18,9 +18,15 @@
         <option value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate)" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package~:com.skt.eaa.assistant tag~:FlowTextView" />
+    <option name="mostRecentlyUsed" value="package~:com.skt.eaa.assistant tag~:VoiceChromeDynamicBackgroundView" />
     <option name="nonFavorites">
       <list>
+        <option value="package~:com.skt.eaa.assistant tag~:VoiceChromeDynamicBackgroundView" />
+        <option value="package~:com.skt.eaa.assistant tag~:VoiceChromeView|VoiceChromeDynamicBackgroundView" />
+        <option value="package~:com.skt.eaa.assistant tag~:VoiceChromeView | message~:density" />
+        <option value="package~:com.skt.eaa.assistant tag~:VoiceChromeView|density" />
+        <option value="package~:com.skt.eaa.assistant tag~:VoiceChromeView " />
+        <option value="package~:com.skt.eaa.assistant tag~:class VoiceChromeView @JvmOverloads constructor( " />
         <option value="package~:com.skt.eaa.assistant tag~:FlowTextView" />
         <option value="package~:com.skt.eaa.assistant tag~:NUGUauto::ServiceListActivity" />
         <option value="package~:com.skt.eaa.assistant tag~:ServiceListActivity" />
@@ -35,12 +41,6 @@
         <option value="package~:com.skt.eaa.assistant tag~:NUGUauto::ServiceListActivity|NuguServiceListGridViewAdapter" />
         <option value="package~:com.skt.eaa.assistant tag~:NUGUauto::MainActivity|NuguServiceListGridViewAdapter" />
         <option value="package~:com.skt.eaa.assistant tag~:NUGUauto::ServiceListActivity " />
-        <option value="package~:com.skt.eaa.assistant message~:adjustedDisplayMetrics " />
-        <option value="package~:com.skt.eaa.assistant tag~:VoiceChromeDynamicBackgroundView " />
-        <option value="package~:com.skt.eaa.assistant tag~:WaveHeightAnimator " />
-        <option value="package~:com.skt.eaa.assistant tag~:VoiceChromeView message~:updateChipsGaps" />
-        <option value="package~:com.skt.eaa.assistant tag~:VoiceChromeView" />
-        <option value="package~:com.skt.eaa.assistant tag~:VoiceChrome" />
       </list>
     </option>
   </component>
