@@ -18,9 +18,14 @@
         <option value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate)" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package~:com.skt.eaa.assistant tag" />
+    <option name="mostRecentlyUsed" value="package~:com.skt.eaa.assistant tag~:NUGUauto::NuguWebViewActivity|NuguWebView|AutoWebViewClient" />
     <option name="nonFavorites">
       <list>
+        <option value="package~:com.skt.eaa.assistant tag~:NUGUauto::NuguWebViewActivity|NuguWebView|AutoWebViewClient" />
+        <option value="package~:com.skt.eaa.assistant tag~:NUGUauto::NuguWebViewActivity|AutoWebViewClient" />
+        <option value="package~:com.skt.eaa.assistant tag~:NUGUauto::NuguWebViewActivity" />
+        <option value="package~:com.skt.eaa.assistant tag~:NuguWebViewActivity" />
+        <option value="package~:com.skt.eaa.assistant tag~:DisplayHelper" />
         <option value="package~:com.skt.eaa.assistant tag" />
         <option value="package~:com.skt.eaa.assistant message~:adjustDisplayMetrics" />
         <option value="package~:com.skt.eaa.assistant tag~:VoiceChromeDynamicBackgroundView" />
@@ -36,11 +41,6 @@
         <option value="package~:com.skt.eaa.assistant tag~:NUGUauto::ServiceListActivity|NuguServiceListAdapter" />
         <option value="package~:com.skt.eaa.assistant tag~:NUGUauto::ServiceListActivity|NuguServiceListManager" />
         <option value="package~:com.skt.eaa.assistant tag~:NUGUauto::ServiceListActivity  " />
-        <option value="package~:com.skt.eaa.assistant tag~:NuguServiceListGridViewAdapter" />
-        <option value="package~:com.skt.eaa.assistant message~:density" />
-        <option value="density" />
-        <option value="package~:com.skt.eaa.assistant tag~:NUGUauto::NuguServiceListAdapter " />
-        <option value="package~:com.skt.eaa.assistant tag~:NUGUauto::ServiceListActivity|NuguServiceListGridViewAdapter" />
       </list>
     </option>
   </component>
