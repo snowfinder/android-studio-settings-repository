@@ -2,28 +2,23 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="favorites">
       <list>
-        <option value="package~:com.skt.eaa.assistant level:error " />
-        <option value="package:com.skt.aidev.nugustb level:error " />
-        <option value="package~:com.skt.eaa.assistant " />
+        <option value="package:com.skt.eaa.assistant level:error " />
         <option value="level:error " />
-        <option value="package:mine " />
-        <option value="package:com.skt.aidev.nugustb" />
-        <option value="package~:com.skt.eaa.assistant tag~:NuguDisplayTime | message~:handleTimeoutProgressCircle" />
-        <option value="(package:com.skt.aidev.nugustb &amp; message~:bondedDevices) | message~:BLUETOOTH_CONNECT" />
-        <option value="package:com.skt.aidev.nugustb tag~:BtvFrameworkHelper|NuguApplication" />
-        <option value="tag~:DisplayTimer|CountDownTimer|AbstractDisplayView | (tag~:NuguClientManager &amp; message~:onDialogUXStateChanged)" />
-        <option value="tag~:DisplayTimer | (tag~:NuguClientManager &amp; message~:onDialogUXStateChanged)" />
-        <option value="tag~:AbstractDisplayView message~:onDisplayTimerStarted" />
-        <option value="tag~:NuguClientManager|NuguAuthManager|ScreenOnOffBroadcastReceiver|NuguCredentialsManager|NuguCredentialsRefresher|NogDebugLogManager|LocalTtsPlayer|VoiceInteractionServiceImpl" />
-        <option value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate)" />
+        <option value="package:com.skt.aidev.nugustb level:error " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package~:com.skt.eaa.assistant tag~:NUGUauto::NuguWebViewActivity|AutoWebViewClient" />
+    <option name="mostRecentlyUsed" value="package~:com.skt.eaa.assistant tag~:NUGUauto::ExtensionClient | message~:shouldOverrideUrlLoading" />
     <option name="nonFavorites">
       <list>
+        <option value="package~:com.skt.eaa.assistant tag~:NUGUauto::ExtensionClient | message~:shouldOverrideUrlLoading" />
+        <option value="package~:com.skt.eaa.assistant tag~:NUGUauto::ExtensionClient|message~:shouldOverrideUrlLoading" />
+        <option value="package~:com.skt.eaa.assistant message~:shouldOverrideUrlLoading" />
+        <option value="package~:com.skt.eaa.assistant tag~:ExtensionClient" />
+        <option value="package~:com.skt.eaa.assistant tag~:shouldOverrideUrlLoading" />
+        <option value="dreamus" />
+        <option value="flo" />
         <option value="package~:com.skt.eaa.assistant tag~:NUGUauto::NuguWebViewActivity|AutoWebViewClient" />
         <option value="density" />
-        <option value="flo" />
         <option value="package~:com.skt.eaa.assistant tag~:NUGUauto::NuguWebViewActivity|NuguWebView|AutoWebViewClient|MainWebviewController|LoginWebviewInCarActivity" />
         <option value="package~:com.skt.eaa.assistant onPageStarted" />
         <option value="package~:com.skt.eaa.assistant tag~:NUGUauto::NuguWebViewActivity|NuguWebView|AutoWebViewClient|MainWebviewController" />
@@ -35,12 +30,6 @@
         <option value="package~:com.skt.eaa.assistant message~:adjustDisplayMetrics" />
         <option value="package~:com.skt.eaa.assistant tag~:VoiceChromeDynamicBackgroundView" />
         <option value="package~:com.skt.eaa.assistant tag~:VoiceChromeView|VoiceChromeDynamicBackgroundView" />
-        <option value="package~:com.skt.eaa.assistant tag~:VoiceChromeView | message~:density" />
-        <option value="package~:com.skt.eaa.assistant tag~:VoiceChromeView|density" />
-        <option value="package~:com.skt.eaa.assistant tag~:VoiceChromeView " />
-        <option value="package~:com.skt.eaa.assistant tag~:class VoiceChromeView @JvmOverloads constructor( " />
-        <option value="package~:com.skt.eaa.assistant tag~:FlowTextView" />
-        <option value="package~:com.skt.eaa.assistant tag~:NUGUauto::ServiceListActivity" />
       </list>
     </option>
   </component>
