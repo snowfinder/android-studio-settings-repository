@@ -18,14 +18,16 @@
         <option value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate)" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package~:com.skt.eaa.assistant tag~:NUGUauto::NuguWebViewActivity|NuguWebView|AutoWebViewClient" />
+    <option name="mostRecentlyUsed" value="density" />
     <option name="nonFavorites">
       <list>
+        <option value="density" />
+        <option value="flo" />
+        <option value="package~:com.skt.eaa.assistant tag~:NUGUauto::NuguWebViewActivity|AutoWebViewClient" />
         <option value="package~:com.skt.eaa.assistant tag~:NUGUauto::NuguWebViewActivity|NuguWebView|AutoWebViewClient|MainWebviewController|LoginWebviewInCarActivity" />
         <option value="package~:com.skt.eaa.assistant onPageStarted" />
         <option value="package~:com.skt.eaa.assistant tag~:NUGUauto::NuguWebViewActivity|NuguWebView|AutoWebViewClient|MainWebviewController" />
         <option value="package~:com.skt.eaa.assistant tag~:NUGUauto::NuguWebViewActivity|NuguWebView|AutoWebViewClient" />
-        <option value="package~:com.skt.eaa.assistant tag~:NUGUauto::NuguWebViewActivity|AutoWebViewClient" />
         <option value="package~:com.skt.eaa.assistant tag~:NUGUauto::NuguWebViewActivity" />
         <option value="package~:com.skt.eaa.assistant tag~:NuguWebViewActivity" />
         <option value="package~:com.skt.eaa.assistant tag~:DisplayHelper" />
@@ -39,8 +41,6 @@
         <option value="package~:com.skt.eaa.assistant tag~:class VoiceChromeView @JvmOverloads constructor( " />
         <option value="package~:com.skt.eaa.assistant tag~:FlowTextView" />
         <option value="package~:com.skt.eaa.assistant tag~:NUGUauto::ServiceListActivity" />
-        <option value="package~:com.skt.eaa.assistant tag~:ServiceListActivity" />
-        <option value="package~:com.skt.eaa.assistant" />
       </list>
     </option>
   </component>
