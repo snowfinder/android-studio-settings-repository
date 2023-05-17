@@ -18,7 +18,7 @@
         <option value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate)" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package~:com.skt.eaa.assistant tag~:NUGUauto::NuguWebViewActivity|NuguWebView|AutoWebViewClient|MainWebviewController|LoginWebviewInCarActivity" />
+    <option name="mostRecentlyUsed" value="package~:com.skt.eaa.assistant tag~:NUGUauto::NuguWebViewActivity|NuguWebView|AutoWebViewClient" />
     <option name="nonFavorites">
       <list>
         <option value="package~:com.skt.eaa.assistant tag~:NUGUauto::NuguWebViewActivity|NuguWebView|AutoWebViewClient|MainWebviewController|LoginWebviewInCarActivity" />
