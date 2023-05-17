@@ -18,9 +18,11 @@
         <option value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate)" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package~:com.skt.eaa.assistant tag~:NUGUauto::NuguWebViewActivity|NuguWebView|AutoWebViewClient|MainWebviewController" />
+    <option name="mostRecentlyUsed" value="package~:com.skt.eaa.assistant tag~:NUGUauto::NuguWebViewActivity|NuguWebView|AutoWebViewClient|MainWebviewController|LoginWebviewInCarActivity" />
     <option name="nonFavorites">
       <list>
+        <option value="package~:com.skt.eaa.assistant tag~:NUGUauto::NuguWebViewActivity|NuguWebView|AutoWebViewClient|MainWebviewController|LoginWebviewInCarActivity" />
+        <option value="package~:com.skt.eaa.assistant onPageStarted" />
         <option value="package~:com.skt.eaa.assistant tag~:NUGUauto::NuguWebViewActivity|NuguWebView|AutoWebViewClient|MainWebviewController" />
         <option value="package~:com.skt.eaa.assistant tag~:NUGUauto::NuguWebViewActivity|NuguWebView|AutoWebViewClient" />
         <option value="package~:com.skt.eaa.assistant tag~:NUGUauto::NuguWebViewActivity|AutoWebViewClient" />
@@ -39,8 +41,6 @@
         <option value="package~:com.skt.eaa.assistant tag~:NUGUauto::ServiceListActivity" />
         <option value="package~:com.skt.eaa.assistant tag~:ServiceListActivity" />
         <option value="package~:com.skt.eaa.assistant" />
-        <option value="package~:com.skt.eaa.assistant tag~:NUGUauto::ServiceListActivity|NuguServiceListAdapter" />
-        <option value="package~:com.skt.eaa.assistant tag~:NUGUauto::ServiceListActivity|NuguServiceListManager" />
       </list>
     </option>
   </component>
