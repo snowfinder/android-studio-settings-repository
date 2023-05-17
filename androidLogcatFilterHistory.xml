@@ -18,9 +18,10 @@
         <option value="tag~:VoiceInteractionServiceReadyLogger | (tag~:AutoAssistantApplication &amp; message~:onCreate)" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package~:com.skt.eaa.assistant tag~:VoiceChromeDynamicBackgroundView" />
+    <option name="mostRecentlyUsed" value="package~:com.skt.eaa.assistant message~:adjustDisplayMetrics" />
     <option name="nonFavorites">
       <list>
+        <option value="package~:com.skt.eaa.assistant message~:adjustDisplayMetrics" />
         <option value="package~:com.skt.eaa.assistant tag~:VoiceChromeDynamicBackgroundView" />
         <option value="package~:com.skt.eaa.assistant tag~:VoiceChromeView|VoiceChromeDynamicBackgroundView" />
         <option value="package~:com.skt.eaa.assistant tag~:VoiceChromeView | message~:density" />
@@ -40,7 +41,6 @@
         <option value="package~:com.skt.eaa.assistant tag~:NUGUauto::NuguServiceListAdapter " />
         <option value="package~:com.skt.eaa.assistant tag~:NUGUauto::ServiceListActivity|NuguServiceListGridViewAdapter" />
         <option value="package~:com.skt.eaa.assistant tag~:NUGUauto::MainActivity|NuguServiceListGridViewAdapter" />
-        <option value="package~:com.skt.eaa.assistant tag~:NUGUauto::ServiceListActivity " />
       </list>
     </option>
   </component>
