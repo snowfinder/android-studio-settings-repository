@@ -7,9 +7,11 @@
         <option value="package:com.skt.aidev.nugustb level:error " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="(tag~:VoiceChromeView &amp; message~:onDialogUXStateChanged) | tag~:VoiceChromeAnimationView" />
+    <option name="mostRecentlyUsed" value="NuguTemplateRenderer" />
     <option name="nonFavorites">
       <list>
+        <option value="NuguTemplateRenderer" />
+        <option value="NuguTemplate" />
         <option value="(tag~:VoiceChromeView &amp; message~:onDialogUXStateChanged) | tag~:VoiceChromeAnimationView" />
         <option value="tag~:VoiceChromeAnimationView" />
         <option value="tag~:VoiceChromeAnimationView | (tag~:VoiceChromeView &amp; message~:onDialogUXStateChanged)" />
@@ -28,8 +30,6 @@
         <option value="package~:com.skt.eaa.assistant message~:shouldOverrideUrlLoading" />
         <option value="package~:com.skt.eaa.assistant tag~:ExtensionClient" />
         <option value="package~:com.skt.eaa.assistant tag~:shouldOverrideUrlLoading" />
-        <option value="dreamus" />
-        <option value="flo" />
       </list>
     </option>
   </component>
