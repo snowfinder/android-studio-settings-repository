@@ -7,9 +7,16 @@
         <option value="package:com.skt.aidev.nugustb level:error " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag~:VoiceChromeController" />
+    <option name="mostRecentlyUsed" value="(tag~:VoiceChromeView &amp; message~:onDialogUXStateChanged) | tag~:VoiceChromeAnimationView" />
     <option name="nonFavorites">
       <list>
+        <option value="(tag~:VoiceChromeView &amp; message~:onDialogUXStateChanged) | tag~:VoiceChromeAnimationView" />
+        <option value="tag~:VoiceChromeAnimationView" />
+        <option value="tag~:VoiceChromeAnimationView | (tag~:VoiceChromeView &amp; message~:onDialogUXStateChanged)" />
+        <option value="tag~:VoiceChromeAnimationView | (tag~:VoiceChromeView message~:onDialogUXStateChanged)" />
+        <option value="tag~:VoiceChromeAnimationView | tag~:VoiceChromeView message~:" />
+        <option value="tag~:VoiceChromeView|VoiceChromeAnimationView" />
+        <option value="tag~:VoiceChromeView|" />
         <option value="tag~:VoiceChromeController" />
         <option value="NUGUauto" />
         <option value="package~:com.skt.eaa.assistant" />
@@ -23,13 +30,6 @@
         <option value="package~:com.skt.eaa.assistant tag~:shouldOverrideUrlLoading" />
         <option value="dreamus" />
         <option value="flo" />
-        <option value="package~:com.skt.eaa.assistant tag~:NUGUauto::NuguWebViewActivity|AutoWebViewClient" />
-        <option value="density" />
-        <option value="package~:com.skt.eaa.assistant tag~:NUGUauto::NuguWebViewActivity|NuguWebView|AutoWebViewClient|MainWebviewController|LoginWebviewInCarActivity" />
-        <option value="package~:com.skt.eaa.assistant onPageStarted" />
-        <option value="package~:com.skt.eaa.assistant tag~:NUGUauto::NuguWebViewActivity|NuguWebView|AutoWebViewClient|MainWebviewController" />
-        <option value="package~:com.skt.eaa.assistant tag~:NUGUauto::NuguWebViewActivity|NuguWebView|AutoWebViewClient" />
-        <option value="package~:com.skt.eaa.assistant tag~:NUGUauto::NuguWebViewActivity" />
       </list>
     </option>
   </component>
