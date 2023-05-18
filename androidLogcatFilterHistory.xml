@@ -7,9 +7,14 @@
         <option value="package:com.skt.aidev.nugustb level:error " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package~:com.skt.eaa.assistant message~:shouldOverrideUrlLoading" />
+    <option name="mostRecentlyUsed" value="tag~:VoiceChromeController" />
     <option name="nonFavorites">
       <list>
+        <option value="tag~:VoiceChromeController" />
+        <option value="NUGUauto" />
+        <option value="package~:com.skt.eaa.assistant" />
+        <option value="package~:com.skt.eaa.assistant tag~:VoiceChromeController" />
+        <option value="package~:com.skt.eaa.assistant message~:VoiceChromeController" />
         <option value="musicmate" />
         <option value="package~:com.skt.eaa.assistant tag~:NUGUauto::ExtensionClient | message~:shouldOverrideUrlLoading" />
         <option value="package~:com.skt.eaa.assistant tag~:NUGUauto::ExtensionClient|message~:shouldOverrideUrlLoading" />
@@ -25,11 +30,6 @@
         <option value="package~:com.skt.eaa.assistant tag~:NUGUauto::NuguWebViewActivity|NuguWebView|AutoWebViewClient|MainWebviewController" />
         <option value="package~:com.skt.eaa.assistant tag~:NUGUauto::NuguWebViewActivity|NuguWebView|AutoWebViewClient" />
         <option value="package~:com.skt.eaa.assistant tag~:NUGUauto::NuguWebViewActivity" />
-        <option value="package~:com.skt.eaa.assistant tag~:NuguWebViewActivity" />
-        <option value="package~:com.skt.eaa.assistant tag~:DisplayHelper" />
-        <option value="package~:com.skt.eaa.assistant tag" />
-        <option value="package~:com.skt.eaa.assistant message~:adjustDisplayMetrics" />
-        <option value="package~:com.skt.eaa.assistant tag~:VoiceChromeDynamicBackgroundView" />
       </list>
     </option>
   </component>
