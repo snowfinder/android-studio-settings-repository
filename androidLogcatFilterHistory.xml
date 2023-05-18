@@ -2,14 +2,15 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="favorites">
       <list>
-        <option value="package:com.skt.eaa.assistant level:error " />
         <option value="level:error " />
+        <option value="package:com.skt.eaa.assistant level:error " />
         <option value="package:com.skt.aidev.nugustb level:error " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package~:com.skt.eaa.assistant tag~:NuguTemplate|NuguDispatch" />
+    <option name="mostRecentlyUsed" value="(tag~:VoiceChromeView &amp; message~:onDialogUXStateChanged) | tag~:VoiceChromeAnimationView" />
     <option name="nonFavorites">
       <list>
+        <option value="pcm" />
         <option value="(tag~:VoiceChromeView &amp; message~:onDialogUXStateChanged) | tag~:VoiceChromeAnimationView" />
         <option value="package~:com.skt.eaa.assistant tag~:NuguTemplate|NuguDispatch" />
         <option value="NuguTemplateRenderer" />
@@ -29,7 +30,6 @@
         <option value="package~:com.skt.eaa.assistant tag~:NUGUauto::ExtensionClient | message~:shouldOverrideUrlLoading" />
         <option value="package~:com.skt.eaa.assistant tag~:NUGUauto::ExtensionClient|message~:shouldOverrideUrlLoading" />
         <option value="package~:com.skt.eaa.assistant message~:shouldOverrideUrlLoading" />
-        <option value="package~:com.skt.eaa.assistant tag~:ExtensionClient" />
       </list>
     </option>
   </component>
