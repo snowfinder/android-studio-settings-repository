@@ -7,9 +7,10 @@
         <option value="package:com.skt.aidev.nugustb level:error " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package~:com.skt.eaa.assistant tag~:NUGUauto::ExtensionClient | message~:shouldOverrideUrlLoading" />
+    <option name="mostRecentlyUsed" value="package~:com.skt.eaa.assistant message~:shouldOverrideUrlLoading" />
     <option name="nonFavorites">
       <list>
+        <option value="musicmate" />
         <option value="package~:com.skt.eaa.assistant tag~:NUGUauto::ExtensionClient | message~:shouldOverrideUrlLoading" />
         <option value="package~:com.skt.eaa.assistant tag~:NUGUauto::ExtensionClient|message~:shouldOverrideUrlLoading" />
         <option value="package~:com.skt.eaa.assistant message~:shouldOverrideUrlLoading" />
@@ -29,7 +30,6 @@
         <option value="package~:com.skt.eaa.assistant tag" />
         <option value="package~:com.skt.eaa.assistant message~:adjustDisplayMetrics" />
         <option value="package~:com.skt.eaa.assistant tag~:VoiceChromeDynamicBackgroundView" />
-        <option value="package~:com.skt.eaa.assistant tag~:VoiceChromeView|VoiceChromeDynamicBackgroundView" />
       </list>
     </option>
   </component>
