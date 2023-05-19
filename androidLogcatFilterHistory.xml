@@ -7,16 +7,16 @@
         <option value="package:com.skt.aidev.nugustb level:error " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="level:error " />
+    <option name="mostRecentlyUsed" value="NuguTemplate" />
     <option name="nonFavorites">
       <list>
+        <option value="NuguTemplate" />
         <option value="tag~:ExtensionClient|IntentExecutor|NuguWebViewActivity" />
         <option value="tag~:ExtensionClient|IntentExecutor " />
         <option value="pcm" />
         <option value="(tag~:VoiceChromeView &amp; message~:onDialogUXStateChanged) | tag~:VoiceChromeAnimationView" />
         <option value="package~:com.skt.eaa.assistant tag~:NuguTemplate|NuguDispatch" />
         <option value="NuguTemplateRenderer" />
-        <option value="NuguTemplate" />
         <option value="tag~:VoiceChromeAnimationView" />
         <option value="tag~:VoiceChromeAnimationView | (tag~:VoiceChromeView &amp; message~:onDialogUXStateChanged)" />
         <option value="tag~:VoiceChromeAnimationView | (tag~:VoiceChromeView message~:onDialogUXStateChanged)" />
