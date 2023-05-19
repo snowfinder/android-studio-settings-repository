@@ -7,9 +7,10 @@
         <option value="package:com.skt.aidev.nugustb level:error " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag~:ExtensionClient|IntentExecutor " />
+    <option name="mostRecentlyUsed" value="tag~:ExtensionClient|IntentExecutor|NuguWebViewActivity" />
     <option name="nonFavorites">
       <list>
+        <option value="tag~:ExtensionClient|IntentExecutor|NuguWebViewActivity" />
         <option value="tag~:ExtensionClient|IntentExecutor " />
         <option value="pcm" />
         <option value="(tag~:VoiceChromeView &amp; message~:onDialogUXStateChanged) | tag~:VoiceChromeAnimationView" />
@@ -29,7 +30,6 @@
         <option value="package~:com.skt.eaa.assistant message~:VoiceChromeController" />
         <option value="musicmate" />
         <option value="package~:com.skt.eaa.assistant tag~:NUGUauto::ExtensionClient | message~:shouldOverrideUrlLoading" />
-        <option value="package~:com.skt.eaa.assistant tag~:NUGUauto::ExtensionClient|message~:shouldOverrideUrlLoading" />
       </list>
     </option>
   </component>
