@@ -7,9 +7,12 @@
         <option value="package:com.skt.aidev.nugustb level:error " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag~:ExtendedVerticalRecyclerView message~:findLastCompletelyVisibleItemPosition" />
+    <option name="mostRecentlyUsed" value="tag~:NuguTemplateHelper | (tag~:ExtendedVerticalRecyclerView &amp; message~:findLastCompletelyVisibleItemPosition|findCompletelyVisibleItemPosition)" />
     <option name="nonFavorites">
       <list>
+        <option value="tag~:NuguTemplateHelper | (tag~:ExtendedVerticalRecyclerView &amp; message~:findLastCompletelyVisibleItemPosition|findCompletelyVisibleItemPosition)" />
+        <option value="tag~:NuguTemplateHelper | (tag~:ExtendedVerticalRecyclerView message~:findLastCompletelyVisibleItemPosition|findCompletelyVisibleItemPosition)" />
+        <option value="tag~:ExtendedVerticalRecyclerView message~:findLastCompletelyVisibleItemPosition|findCompletelyVisibleItemPosition" />
         <option value="tag~:ExtendedVerticalRecyclerView message~:findLastCompletelyVisibleItemPosition" />
         <option value="tag~:ExtendedVerticalRecyclerView" />
         <option value="DisplayTemplateAgent" />
@@ -27,9 +30,6 @@
         <option value="tag~:VoiceChromeAnimationView | (tag~:VoiceChromeView message~:onDialogUXStateChanged)" />
         <option value="tag~:VoiceChromeAnimationView | tag~:VoiceChromeView message~:" />
         <option value="tag~:VoiceChromeView|VoiceChromeAnimationView" />
-        <option value="tag~:VoiceChromeView|" />
-        <option value="tag~:VoiceChromeController" />
-        <option value="NUGUauto" />
       </list>
     </option>
   </component>
