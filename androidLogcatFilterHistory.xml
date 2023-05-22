@@ -7,9 +7,12 @@
         <option value="package:com.skt.aidev.nugustb level:error " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="NuguTemplate" />
+    <option name="mostRecentlyUsed" value="DisplayTemplateAgent" />
     <option name="nonFavorites">
       <list>
+        <option value="DisplayTemplateAgent" />
+        <option value="directiveHandlingListener.onCompleted" />
+        <option value="Directive" />
         <option value="NuguTemplate" />
         <option value="tag~:ExtensionClient|IntentExecutor|NuguWebViewActivity" />
         <option value="tag~:ExtensionClient|IntentExecutor " />
@@ -27,9 +30,6 @@
         <option value="NUGUauto" />
         <option value="package~:com.skt.eaa.assistant" />
         <option value="package~:com.skt.eaa.assistant tag~:VoiceChromeController" />
-        <option value="package~:com.skt.eaa.assistant message~:VoiceChromeController" />
-        <option value="musicmate" />
-        <option value="package~:com.skt.eaa.assistant tag~:NUGUauto::ExtensionClient | message~:shouldOverrideUrlLoading" />
       </list>
     </option>
   </component>
