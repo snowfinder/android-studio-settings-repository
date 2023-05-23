@@ -10,7 +10,9 @@
     <option name="mostRecentlyUsed" value="tag~:ExtendedVerticalRecyclerView" />
     <option name="nonFavorites">
       <list>
+        <option value="NuguAuto" />
         <option value="tag~:ExtendedVerticalRecyclerView" />
+        <option value="NuguClientMana" />
         <option value="ExtendedVerticalRecyclerView" />
         <option value="findFirstCompletelyVisibleItemPosition" />
         <option value="tag~:NUGUauto" />
@@ -28,8 +30,6 @@
         <option value="tag~:ExtendedVerticalRecyclerView message~:findLastCompletelyVisibleItemPosition" />
         <option value="DisplayTemplateAgent" />
         <option value="directiveHandlingListener.onCompleted" />
-        <option value="Directive" />
-        <option value="NuguTemplate" />
       </list>
     </option>
   </component>
