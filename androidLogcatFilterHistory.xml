@@ -7,9 +7,10 @@
         <option value="package:com.skt.aidev.nugustb level:error " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag~:NUGUauto" />
+    <option name="mostRecentlyUsed" value="findFirstCompletelyVisibleItemPosition" />
     <option name="nonFavorites">
       <list>
+        <option value="findFirstCompletelyVisibleItemPosition" />
         <option value="tag~:NUGUauto" />
         <option value="tag~:NuguAuto" />
         <option value="tag~:DisplayTemplate" />
@@ -29,7 +30,6 @@
         <option value="Directive" />
         <option value="NuguTemplate" />
         <option value="tag~:ExtensionClient|IntentExecutor|NuguWebViewActivity" />
-        <option value="tag~:ExtensionClient|IntentExecutor " />
       </list>
     </option>
   </component>
