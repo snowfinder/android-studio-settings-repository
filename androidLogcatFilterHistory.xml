@@ -2,14 +2,17 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="favorites">
       <list>
-        <option value="level:error " />
         <option value="package:com.skt.eaa.assistant level:error " />
+        <option value="level:error " />
         <option value="package:com.skt.aidev.nugustb level:error " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag~:NuguTemplateHelper|NuguTemplateRenderer|DisplayDummyTextListLayout|ExtendedVerticalRecyclerView" />
+    <option name="mostRecentlyUsed" value="tag~:NUGUauto" />
     <option name="nonFavorites">
       <list>
+        <option value="tag~:NUGUauto" />
+        <option value="tag~:NuguAuto" />
+        <option value="tag~:DisplayTemplate" />
         <option value="tag~:NuguTemplateHelper|NuguTemplateRenderer|DisplayDummyTextListLayout|ExtendedVerticalRecyclerView" />
         <option value="tag~:NuguTemplateHelper|NuguTemplateRenderer|DisplayDummyTextListLayout | (tag~:ExtendedVerticalRecyclerView &amp; message~:findLastCompletelyVisibleItemPosition|findCompletelyVisibleItemPosition)" />
         <option value="tag~:NuguTemplateHelper|NuguTemplateRenderer | (tag~:ExtendedVerticalRecyclerView &amp; message~:findLastCompletelyVisibleItemPosition|findCompletelyVisibleItemPosition)" />
@@ -27,9 +30,6 @@
         <option value="NuguTemplate" />
         <option value="tag~:ExtensionClient|IntentExecutor|NuguWebViewActivity" />
         <option value="tag~:ExtensionClient|IntentExecutor " />
-        <option value="pcm" />
-        <option value="(tag~:VoiceChromeView &amp; message~:onDialogUXStateChanged) | tag~:VoiceChromeAnimationView" />
-        <option value="package~:com.skt.eaa.assistant tag~:NuguTemplate|NuguDispatch" />
       </list>
     </option>
   </component>
