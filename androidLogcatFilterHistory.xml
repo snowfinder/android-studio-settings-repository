@@ -7,9 +7,10 @@
         <option value="package:com.skt.aidev.nugustb level:error " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="ExtendedVerticalRecyclerView" />
+    <option name="mostRecentlyUsed" value="tag~:ExtendedVerticalRecyclerView" />
     <option name="nonFavorites">
       <list>
+        <option value="tag~:ExtendedVerticalRecyclerView" />
         <option value="ExtendedVerticalRecyclerView" />
         <option value="findFirstCompletelyVisibleItemPosition" />
         <option value="tag~:NUGUauto" />
@@ -25,7 +26,6 @@
         <option value="tag~:NuguTemplateHelper | (tag~:ExtendedVerticalRecyclerView message~:findLastCompletelyVisibleItemPosition|findCompletelyVisibleItemPosition)" />
         <option value="tag~:ExtendedVerticalRecyclerView message~:findLastCompletelyVisibleItemPosition|findCompletelyVisibleItemPosition" />
         <option value="tag~:ExtendedVerticalRecyclerView message~:findLastCompletelyVisibleItemPosition" />
-        <option value="tag~:ExtendedVerticalRecyclerView" />
         <option value="DisplayTemplateAgent" />
         <option value="directiveHandlingListener.onCompleted" />
         <option value="Directive" />
