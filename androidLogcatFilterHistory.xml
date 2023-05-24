@@ -7,9 +7,10 @@
         <option value="package:com.skt.aidev.nugustb level:error " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag~:ExtendedVerticalRecyclerView" />
+    <option name="mostRecentlyUsed" value="computeVoiceChromeVisibleHeight" />
     <option name="nonFavorites">
       <list>
+        <option value="computeVoiceChromeVisibleHeight" />
         <option value="NuguAuto" />
         <option value="tag~:ExtendedVerticalRecyclerView" />
         <option value="NuguClientMana" />
@@ -29,7 +30,6 @@
         <option value="tag~:ExtendedVerticalRecyclerView message~:findLastCompletelyVisibleItemPosition|findCompletelyVisibleItemPosition" />
         <option value="tag~:ExtendedVerticalRecyclerView message~:findLastCompletelyVisibleItemPosition" />
         <option value="DisplayTemplateAgent" />
-        <option value="directiveHandlingListener.onCompleted" />
       </list>
     </option>
   </component>
