@@ -2,14 +2,15 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="favorites">
       <list>
-        <option value="package:com.skt.eaa.assistant level:error " />
         <option value="level:error " />
+        <option value="package:com.skt.eaa.assistant level:error " />
         <option value="package:com.skt.aidev.nugustb level:error " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="computeVoiceChromeVisibleHeight" />
+    <option name="mostRecentlyUsed" value="package:com.skt.eaa.assistant" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.skt.eaa.assistant" />
         <option value="computeVoiceChromeVisibleHeight" />
         <option value="NuguAuto" />
         <option value="tag~:ExtendedVerticalRecyclerView" />
@@ -29,7 +30,6 @@
         <option value="tag~:NuguTemplateHelper | (tag~:ExtendedVerticalRecyclerView message~:findLastCompletelyVisibleItemPosition|findCompletelyVisibleItemPosition)" />
         <option value="tag~:ExtendedVerticalRecyclerView message~:findLastCompletelyVisibleItemPosition|findCompletelyVisibleItemPosition" />
         <option value="tag~:ExtendedVerticalRecyclerView message~:findLastCompletelyVisibleItemPosition" />
-        <option value="DisplayTemplateAgent" />
       </list>
     </option>
   </component>
