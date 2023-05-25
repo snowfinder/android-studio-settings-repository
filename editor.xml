@@ -42,11 +42,6 @@
           <option name="propertyType" value="true" />
         </Settings>
       </kotlin.KotlinReferencesTypeHintsProvider>
-      <kotlin.kotlin.lambdas.hints>
-        <Settings>
-          <option name="implicitReceiversAndParams" value="false" />
-        </Settings>
-      </kotlin.kotlin.lambdas.hints>
       <kotlin.kotlin.references.types.hints>
         <Settings>
           <option name="localVariableType" value="true" />
