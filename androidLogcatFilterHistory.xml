@@ -7,9 +7,12 @@
         <option value="package:com.skt.aidev.nugustb level:error " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:com.skt.eaa.assistant tag~:ItemDummyTextListView" />
+    <option name="mostRecentlyUsed" value="message~:updateListItemView|onCreateViewHolder" />
     <option name="nonFavorites">
       <list>
+        <option value="ItemDummyTextListView" />
+        <option value="message~:updateListItemView|onCreateViewHolder" />
+        <option value="updateListItemView" />
         <option value="package:com.skt.eaa.assistant tag~:ItemDummyTextListView" />
         <option value="package:com.skt.eaa.assistant" />
         <option value="computeVoiceChromeVisibleHeight" />
@@ -27,9 +30,6 @@
         <option value="tag~:NuguTemplate" />
         <option value="tag~:NuguWebViewActivity|IntentExecutor" />
         <option value="tag~:NuguWebViewActivity" />
-        <option value="tag~:NuguTemplateHelper | (tag~:ExtendedVerticalRecyclerView &amp; message~:findLastCompletelyVisibleItemPosition|findCompletelyVisibleItemPosition)" />
-        <option value="tag~:NuguTemplateHelper | (tag~:ExtendedVerticalRecyclerView message~:findLastCompletelyVisibleItemPosition|findCompletelyVisibleItemPosition)" />
-        <option value="tag~:ExtendedVerticalRecyclerView message~:findLastCompletelyVisibleItemPosition|findCompletelyVisibleItemPosition" />
       </list>
     </option>
   </component>
