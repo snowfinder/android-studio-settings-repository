@@ -10,8 +10,8 @@
     <option name="mostRecentlyUsed" value="message~:updateListItemView|onCreateViewHolder" />
     <option name="nonFavorites">
       <list>
-        <option value="ItemDummyTextListView" />
         <option value="message~:updateListItemView|onCreateViewHolder" />
+        <option value="ItemDummyTextListView" />
         <option value="updateListItemView" />
         <option value="package:com.skt.eaa.assistant tag~:ItemDummyTextListView" />
         <option value="package:com.skt.eaa.assistant" />
