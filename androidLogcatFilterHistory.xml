@@ -7,9 +7,10 @@
         <option value="package:com.skt.aidev.nugustb level:error " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag~:ItemDummyTextListView" />
+    <option name="mostRecentlyUsed" value="getTextViewStaticLayout" />
     <option name="nonFavorites">
       <list>
+        <option value="getTextViewStaticLayout" />
         <option value="tag~:ItemDummyTextListView" />
         <option value="message~:updateListItemView|onCreateViewHolder | tag~:ItemDummyTextListView" />
         <option value="ItemDummyTextListView" />
@@ -29,7 +30,6 @@
         <option value="tag~:NuguTemplateHelper|NuguTemplateRenderer|DisplayDummyTextListLayout|ExtendedVerticalRecyclerView" />
         <option value="tag~:NuguTemplateHelper|NuguTemplateRenderer|DisplayDummyTextListLayout | (tag~:ExtendedVerticalRecyclerView &amp; message~:findLastCompletelyVisibleItemPosition|findCompletelyVisibleItemPosition)" />
         <option value="tag~:NuguTemplateHelper|NuguTemplateRenderer | (tag~:ExtendedVerticalRecyclerView &amp; message~:findLastCompletelyVisibleItemPosition|findCompletelyVisibleItemPosition)" />
-        <option value="tag~:NuguTemplate" />
       </list>
     </option>
   </component>
