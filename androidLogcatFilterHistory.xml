@@ -7,13 +7,13 @@
         <option value="package:com.skt.aidev.nugustb level:error " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="getTextViewStaticLayout" />
+    <option name="mostRecentlyUsed" value="tag~:ItemDummyTextListView" />
     <option name="nonFavorites">
       <list>
+        <option value="tag~:ItemDummyTextListView" />
         <option value="getTextViewStaticLayout" />
         <option value="ItemDummyTextListView" />
         <option value="DisplayDummyTextListLayout" />
-        <option value="tag~:ItemDummyTextListView" />
         <option value="message~:updateListItemView|onCreateViewHolder | tag~:ItemDummyTextListView" />
         <option value="message~:updateListItemView|onCreateViewHolder" />
         <option value="updateListItemView" />
