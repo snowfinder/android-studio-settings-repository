@@ -2,15 +2,18 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="favorites">
       <list>
-        <option value="level:error " />
         <option value="package:com.skt.eaa.assistant level:error " />
+        <option value="level:error " />
         <option value="package:com.skt.aidev.nugustb level:error " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag~:DisplayDummyTextListLayout|ItemDummyTextListView|AbstractDisplayView|NuguTemplateCardView" />
+    <option name="mostRecentlyUsed" value="tag~:DisplayWebViewLayout|DisplayDummyTextListLayout|ItemDummyTextListView|AbstractDisplayView|NuguTemplateCardView|TemplateWebView" />
     <option name="nonFavorites">
       <list>
+        <option value="tag~:DisplayWebViewLayout|DisplayDummyTextListLayout|ItemDummyTextListView|AbstractDisplayView|NuguTemplateCardView|TemplateWebView" />
+        <option value="tag~:DisplayWebViewLayout|DisplayDummyTextListLayout|ItemDummyTextListView|AbstractDisplayView|NuguTemplateCardView" />
         <option value="tag~:DisplayDummyTextListLayout|ItemDummyTextListView|AbstractDisplayView|NuguTemplateCardView" />
+        <option value="tag~:DisplayDummyTextListLayout|ItemDummyTextListView|AbstractDisplayView|NuguTemplateCardViewlevel:error " />
         <option value="tag~:ItemDummyTextListView|AbstractDisplayView|NuguTemplateCardView" />
         <option value="tag~:ItemDummyTextListView|NuguTemplateCardView" />
         <option value="tag~:ItemDummyTextListView" />
@@ -27,9 +30,6 @@
         <option value="tag~:ExtendedVerticalRecyclerView" />
         <option value="NuguClientMana" />
         <option value="ExtendedVerticalRecyclerView" />
-        <option value="findFirstCompletelyVisibleItemPosition" />
-        <option value="tag~:NUGUauto" />
-        <option value="tag~:NuguAuto" />
       </list>
     </option>
   </component>
