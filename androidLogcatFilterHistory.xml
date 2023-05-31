@@ -10,8 +10,8 @@
     <option name="mostRecentlyUsed" value="tag~:DisplayWebViewLayout|DisplayDummyTextListLayout|ItemDummyTextListView|AbstractDisplayView|NuguTemplateCardView|TemplateWebView" />
     <option name="nonFavorites">
       <list>
-        <option value="nuguTemplateren" />
         <option value="tag~:DisplayWebViewLayout|DisplayDummyTextListLayout|ItemDummyTextListView|AbstractDisplayView|NuguTemplateCardView|TemplateWebView" />
+        <option value="nuguTemplateren" />
         <option value="tag~:DisplayWebViewLayout|DisplayDummyTextListLayout|ItemDummyTextListView|AbstractDisplayView|NuguTemplateCardView" />
         <option value="tag~:DisplayDummyTextListLayout|ItemDummyTextListView|AbstractDisplayView|NuguTemplateCardView" />
         <option value="tag~:DisplayDummyTextListLayout|ItemDummyTextListView|AbstractDisplayView|NuguTemplateCardViewlevel:error " />
