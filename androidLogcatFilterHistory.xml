@@ -7,9 +7,11 @@
         <option value="package:com.skt.aidev.nugustb level:error " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag~:DisplayWebViewLayout|DisplayDummyTextListLayout|ItemDummyTextListView|AbstractDisplayView|NuguTemplateCardView|TemplateWebView|VoiceInteractionLayer" />
+    <option name="mostRecentlyUsed" value="setStillVoiceChromeIconImage|GlideHelper" />
     <option name="nonFavorites">
       <list>
+        <option value="setStillVoiceChromeIconImage|GlideHelper" />
+        <option value="setStillVoiceChromeIconImage" />
         <option value="tag~:DisplayWebViewLayout|DisplayDummyTextListLayout|ItemDummyTextListView|AbstractDisplayView|NuguTemplateCardView|TemplateWebView|VoiceInteractionLayer" />
         <option value="tag~:DisplayWebViewLayout|DisplayDummyTextListLayout|ItemDummyTextListView|AbstractDisplayView|NuguTemplateCardView|TemplateWebView|VoiceInteractionLayer | message~:density" />
         <option value="tag~:DisplayWebViewLayout|DisplayDummyTextListLayout|ItemDummyTextListView|AbstractDisplayView|NuguTemplateCardView|TemplateWebView" />
@@ -28,8 +30,6 @@
         <option value="message~:updateListItemView|onCreateViewHolder" />
         <option value="updateListItemView" />
         <option value="package:com.skt.eaa.assistant tag~:ItemDummyTextListView" />
-        <option value="package:com.skt.eaa.assistant" />
-        <option value="computeVoiceChromeVisibleHeight" />
       </list>
     </option>
   </component>
