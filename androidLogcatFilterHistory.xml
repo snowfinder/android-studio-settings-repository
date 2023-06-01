@@ -7,9 +7,12 @@
         <option value="package:com.skt.aidev.nugustb level:error " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="setStillVoiceChromeIconImage|GlideHelper" />
+    <option name="mostRecentlyUsed" value="NuguServiceListManager" />
     <option name="nonFavorites">
       <list>
+        <option value="NuguServiceListManager" />
+        <option value="t114" />
+        <option value="t" />
         <option value="setStillVoiceChromeIconImage|GlideHelper" />
         <option value="setStillVoiceChromeIconImage" />
         <option value="tag~:DisplayWebViewLayout|DisplayDummyTextListLayout|ItemDummyTextListView|AbstractDisplayView|NuguTemplateCardView|TemplateWebView|VoiceInteractionLayer" />
@@ -27,9 +30,6 @@
         <option value="ItemDummyTextListView" />
         <option value="DisplayDummyTextListLayout" />
         <option value="message~:updateListItemView|onCreateViewHolder | tag~:ItemDummyTextListView" />
-        <option value="message~:updateListItemView|onCreateViewHolder" />
-        <option value="updateListItemView" />
-        <option value="package:com.skt.eaa.assistant tag~:ItemDummyTextListView" />
       </list>
     </option>
   </component>
