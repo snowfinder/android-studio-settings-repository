@@ -7,15 +7,17 @@
         <option value="package:com.skt.aidev.nugustb level:error " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="NuguServiceListManager" />
+    <option name="mostRecentlyUsed" value="tag~:DisplayWebViewLayout|DisplayDummyTextListLayout|ItemDummyTextListView|AbstractDisplayView|NuguTemplateCardView|TemplateWebView|VoiceInteractionLayer" />
     <option name="nonFavorites">
       <list>
+        <option value="tag~:DisplayWebViewLayout|DisplayDummyTextListLayout|ItemDummyTextListView|AbstractDisplayView|NuguTemplateCardView|TemplateWebView|VoiceInteractionLayer" />
+        <option value="voiceinteractionlayer" />
+        <option value="voiceintera" />
         <option value="NuguServiceListManager" />
         <option value="t114" />
         <option value="t" />
         <option value="setStillVoiceChromeIconImage|GlideHelper" />
         <option value="setStillVoiceChromeIconImage" />
-        <option value="tag~:DisplayWebViewLayout|DisplayDummyTextListLayout|ItemDummyTextListView|AbstractDisplayView|NuguTemplateCardView|TemplateWebView|VoiceInteractionLayer" />
         <option value="tag~:DisplayWebViewLayout|DisplayDummyTextListLayout|ItemDummyTextListView|AbstractDisplayView|NuguTemplateCardView|TemplateWebView|VoiceInteractionLayer | message~:density" />
         <option value="tag~:DisplayWebViewLayout|DisplayDummyTextListLayout|ItemDummyTextListView|AbstractDisplayView|NuguTemplateCardView|TemplateWebView" />
         <option value="density" />
@@ -28,8 +30,6 @@
         <option value="tag~:ItemDummyTextListView" />
         <option value="getTextViewStaticLayout" />
         <option value="ItemDummyTextListView" />
-        <option value="DisplayDummyTextListLayout" />
-        <option value="message~:updateListItemView|onCreateViewHolder | tag~:ItemDummyTextListView" />
       </list>
     </option>
   </component>
