@@ -7,9 +7,10 @@
         <option value="package:com.skt.aidev.nugustb level:error " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag~:NuguClientManager" />
+    <option name="mostRecentlyUsed" value="tag~:VoiceChromeView" />
     <option name="nonFavorites">
       <list>
+        <option value="tag~:VoiceChromeView" />
         <option value="tag~:NuguClientManager" />
         <option value="tag~:NUGUauto" />
         <option value="tag~:DisplayWebViewLayout|DisplayDummyTextListLayout|ItemDummyTextListView|AbstractDisplayView|NuguTemplateCardView|TemplateWebView|VoiceInteractionLayer" />
@@ -29,7 +30,6 @@
         <option value="tag~:DisplayDummyTextListLayout|ItemDummyTextListView|AbstractDisplayView|NuguTemplateCardViewlevel:error " />
         <option value="tag~:ItemDummyTextListView|AbstractDisplayView|NuguTemplateCardView" />
         <option value="tag~:ItemDummyTextListView|NuguTemplateCardView" />
-        <option value="tag~:ItemDummyTextListView" />
       </list>
     </option>
   </component>
