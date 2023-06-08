@@ -7,9 +7,10 @@
         <option value="package:com.skt.aidev.nugustb level:error " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag~:VoiceChromeDynamicBackgroundView" />
+    <option name="mostRecentlyUsed" value="tag~:VoiceChromeDynamicBackgroundView|VoiceChromeController" />
     <option name="nonFavorites">
       <list>
+        <option value="tag~:VoiceChromeDynamicBackgroundView|VoiceChromeController" />
         <option value="tag~:VoiceChromeDynamicBackgroundView" />
         <option value="tag~:VoiceChromeView|VoiceChromeDynamicBackgroundView" />
         <option value="tag~:VoiceChromeView" />
@@ -29,7 +30,6 @@
         <option value="nuguTemplateren" />
         <option value="tag~:DisplayWebViewLayout|DisplayDummyTextListLayout|ItemDummyTextListView|AbstractDisplayView|NuguTemplateCardView" />
         <option value="tag~:DisplayDummyTextListLayout|ItemDummyTextListView|AbstractDisplayView|NuguTemplateCardView" />
-        <option value="tag~:DisplayDummyTextListLayout|ItemDummyTextListView|AbstractDisplayView|NuguTemplateCardViewlevel:error " />
       </list>
     </option>
   </component>
