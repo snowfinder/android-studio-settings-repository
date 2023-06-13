@@ -7,9 +7,11 @@
         <option value="package:com.skt.aidev.nugustb level:error " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="message~:asrListener.onStateChanged | PowerLevelListener.onUpdate1``11`11````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````1``````````````````````````````````````````````````````````````````````````````````````````````````````````````1`````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````" />
+    <option name="mostRecentlyUsed" value="message~:asrListener.onStateChanged | onAsrPcmPowerLevelUpdated" />
     <option name="nonFavorites">
       <list>
+        <option value="message~:asrListener.onStateChanged | onAsrPcmPowerLevelUpdated" />
+        <option value="message~:asrListener.onStateChanged | PowerLevelListener.onUpdate" />
         <option value="message~:asrListener.onStateChanged | PowerLevelListener.onUpdate1``11`11````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````1``````````````````````````````````````````````````````````````````````````````````````````````````````````````1`````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````" />
         <option value="tag~:VoiceChromeDynamicBackgroundView | message~:asrListener.onStateChanged" />
         <option value="tag~:VoiceChromeDynamicBackgroundView" />
@@ -28,8 +30,6 @@
         <option value="t" />
         <option value="setStillVoiceChromeIconImage|GlideHelper" />
         <option value="setStillVoiceChromeIconImage" />
-        <option value="tag~:DisplayWebViewLayout|DisplayDummyTextListLayout|ItemDummyTextListView|AbstractDisplayView|NuguTemplateCardView|TemplateWebView|VoiceInteractionLayer | message~:density" />
-        <option value="tag~:DisplayWebViewLayout|DisplayDummyTextListLayout|ItemDummyTextListView|AbstractDisplayView|NuguTemplateCardView|TemplateWebView" />
       </list>
     </option>
   </component>
