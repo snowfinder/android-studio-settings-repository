@@ -7,11 +7,13 @@
         <option value="package:com.skt.aidev.nugustb level:error " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag~:VoiceChromeDynamicBackgroundView" />
+    <option name="mostRecentlyUsed" value="message~:asrListener.onStateChanged | PowerLevelListener.onUpdate1``11`11````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````1``````````````````````````````````````````````````````````````````````````````````````````````````````````````1`````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````" />
     <option name="nonFavorites">
       <list>
-        <option value="onAsrPcmPowerLevelUpdated" />
+        <option value="message~:asrListener.onStateChanged | PowerLevelListener.onUpdate1``11`11````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````1``````````````````````````````````````````````````````````````````````````````````````````````````````````````1`````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````" />
+        <option value="tag~:VoiceChromeDynamicBackgroundView | message~:asrListener.onStateChanged" />
         <option value="tag~:VoiceChromeDynamicBackgroundView" />
+        <option value="onAsrPcmPowerLevelUpdated" />
         <option value="NuguClientManager" />
         <option value="tag~:VoiceChromeDynamicBackgroundView|VoiceChromeController" />
         <option value="tag~:VoiceChromeView|VoiceChromeDynamicBackgroundView" />
@@ -28,8 +30,6 @@
         <option value="setStillVoiceChromeIconImage" />
         <option value="tag~:DisplayWebViewLayout|DisplayDummyTextListLayout|ItemDummyTextListView|AbstractDisplayView|NuguTemplateCardView|TemplateWebView|VoiceInteractionLayer | message~:density" />
         <option value="tag~:DisplayWebViewLayout|DisplayDummyTextListLayout|ItemDummyTextListView|AbstractDisplayView|NuguTemplateCardView|TemplateWebView" />
-        <option value="density" />
-        <option value="nuguTemplateren" />
       </list>
     </option>
   </component>
