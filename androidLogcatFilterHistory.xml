@@ -7,9 +7,10 @@
         <option value="package:com.skt.aidev.nugustb level:error " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag~:VoiceChromeDynamicBackgroundView" />
+    <option name="mostRecentlyUsed" value="onAsrPcmPowerLevelUpdated" />
     <option name="nonFavorites">
       <list>
+        <option value="onAsrPcmPowerLevelUpdated" />
         <option value="tag~:VoiceChromeDynamicBackgroundView" />
         <option value="NuguClientManager" />
         <option value="tag~:VoiceChromeDynamicBackgroundView|VoiceChromeController" />
@@ -29,7 +30,6 @@
         <option value="tag~:DisplayWebViewLayout|DisplayDummyTextListLayout|ItemDummyTextListView|AbstractDisplayView|NuguTemplateCardView|TemplateWebView" />
         <option value="density" />
         <option value="nuguTemplateren" />
-        <option value="tag~:DisplayWebViewLayout|DisplayDummyTextListLayout|ItemDummyTextListView|AbstractDisplayView|NuguTemplateCardView" />
       </list>
     </option>
   </component>
