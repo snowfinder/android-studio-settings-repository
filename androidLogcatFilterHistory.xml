@@ -7,9 +7,10 @@
         <option value="package:com.skt.aidev.nugustb level:error " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="message~:asrListener.onStateChanged | onAsrPcmPowerLevelUpdated" />
+    <option name="mostRecentlyUsed" value="applyDisplayCutoutMode" />
     <option name="nonFavorites">
       <list>
+        <option value="applyDisplayCutoutMode" />
         <option value="message~:asrListener.onStateChanged | onAsrPcmPowerLevelUpdated" />
         <option value="message~:asrListener.onStateChanged | PowerLevelListener.onUpdate" />
         <option value="message~:asrListener.onStateChanged | PowerLevelListener.onUpdate1``11`11````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````1``````````````````````````````````````````````````````````````````````````````````````````````````````````````1`````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````" />
@@ -29,7 +30,6 @@
         <option value="t114" />
         <option value="t" />
         <option value="setStillVoiceChromeIconImage|GlideHelper" />
-        <option value="setStillVoiceChromeIconImage" />
       </list>
     </option>
   </component>
