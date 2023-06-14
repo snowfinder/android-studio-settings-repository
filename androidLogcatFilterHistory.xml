@@ -7,9 +7,11 @@
         <option value="package:com.skt.aidev.nugustb level:error " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="applyDisplayCutoutMode" />
+    <option name="mostRecentlyUsed" value="tag~:NUGUauto::VoiceInteractionSession " />
     <option name="nonFavorites">
       <list>
+        <option value="tag~:NUGUauto::VoiceInteractionSession " />
+        <option value="tag~:NUGUauto::VoiceInteractionLayer " />
         <option value="applyDisplayCutoutMode" />
         <option value="message~:asrListener.onStateChanged | onAsrPcmPowerLevelUpdated" />
         <option value="message~:asrListener.onStateChanged | PowerLevelListener.onUpdate" />
@@ -28,8 +30,6 @@
         <option value="voiceintera" />
         <option value="NuguServiceListManager" />
         <option value="t114" />
-        <option value="t" />
-        <option value="setStillVoiceChromeIconImage|GlideHelper" />
       </list>
     </option>
   </component>
