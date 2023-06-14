@@ -7,9 +7,11 @@
         <option value="package:com.skt.aidev.nugustb level:error " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag~:VoiceInteractionSessionImp" />
+    <option name="mostRecentlyUsed" value="tag~:VoiceInteractionSessionImpl" />
     <option name="nonFavorites">
       <list>
+        <option value="tag~:VoiceInteractionSessionImpl" />
+        <option value="tag~:VoiceInteractionSessionImp message~:handle" />
         <option value="tag~:VoiceInteractionSessionImp" />
         <option value="tag~:VoiceInteractionSession " />
         <option value="tag~:NUGUauto::VoiceInteractionSession " />
@@ -28,8 +30,6 @@
         <option value="tag~:NuguClientManager" />
         <option value="tag~:NUGUauto" />
         <option value="tag~:DisplayWebViewLayout|DisplayDummyTextListLayout|ItemDummyTextListView|AbstractDisplayView|NuguTemplateCardView|TemplateWebView|VoiceInteractionLayer" />
-        <option value="voiceinteractionlayer" />
-        <option value="voiceintera" />
       </list>
     </option>
   </component>
