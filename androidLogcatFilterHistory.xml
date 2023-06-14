@@ -7,13 +7,13 @@
         <option value="package:com.skt.aidev.nugustb level:error " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag~:VoiceInteractionSessionImp message~:handleOnTouchListener" />
+    <option name="mostRecentlyUsed" value="tag~:VoiceInteractionSessionImp" />
     <option name="nonFavorites">
       <list>
+        <option value="tag~:VoiceInteractionSessionImp" />
         <option value="tag~:VoiceInteractionSessionImp message~:handleOnTouchListener" />
         <option value="tag~:VoiceInteractionSessionImp message~:handleOnTouchListener|onComputeInsets" />
         <option value="tag~:VoiceInteractionSessionImp message~:handle" />
-        <option value="tag~:VoiceInteractionSessionImp" />
         <option value="tag~:VoiceInteractionSessionImpl" />
         <option value="tag~:VoiceInteractionSession " />
         <option value="tag~:NUGUauto::VoiceInteractionSession " />
