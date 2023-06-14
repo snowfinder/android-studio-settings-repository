@@ -2,14 +2,16 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="favorites">
       <list>
-        <option value="level:error " />
         <option value="package:com.skt.eaa.assistant level:error " />
+        <option value="level:error " />
         <option value="package:com.skt.aidev.nugustb level:error " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag~:NUGUauto::VoiceInteractionSession " />
+    <option name="mostRecentlyUsed" value="tag~:VoiceInteractionSessionImp" />
     <option name="nonFavorites">
       <list>
+        <option value="tag~:VoiceInteractionSessionImp" />
+        <option value="tag~:VoiceInteractionSession " />
         <option value="tag~:NUGUauto::VoiceInteractionSession " />
         <option value="tag~:NUGUauto::VoiceInteractionLayer " />
         <option value="applyDisplayCutoutMode" />
@@ -28,8 +30,6 @@
         <option value="tag~:DisplayWebViewLayout|DisplayDummyTextListLayout|ItemDummyTextListView|AbstractDisplayView|NuguTemplateCardView|TemplateWebView|VoiceInteractionLayer" />
         <option value="voiceinteractionlayer" />
         <option value="voiceintera" />
-        <option value="NuguServiceListManager" />
-        <option value="t114" />
       </list>
     </option>
   </component>
