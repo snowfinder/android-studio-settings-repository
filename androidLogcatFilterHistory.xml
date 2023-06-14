@@ -7,12 +7,12 @@
         <option value="package:com.skt.aidev.nugustb level:error " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag~:VoiceInteractionSessionImpl" />
+    <option name="mostRecentlyUsed" value="tag~:VoiceInteractionSessionImp message~:handle" />
     <option name="nonFavorites">
       <list>
-        <option value="tag~:VoiceInteractionSessionImpl" />
         <option value="tag~:VoiceInteractionSessionImp message~:handle" />
         <option value="tag~:VoiceInteractionSessionImp" />
+        <option value="tag~:VoiceInteractionSessionImpl" />
         <option value="tag~:VoiceInteractionSession " />
         <option value="tag~:NUGUauto::VoiceInteractionSession " />
         <option value="tag~:NUGUauto::VoiceInteractionLayer " />
