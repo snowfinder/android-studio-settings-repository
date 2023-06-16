@@ -7,9 +7,11 @@
         <option value="package:com.skt.aidev.nugustb level:error " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag~:VoiceInteractionSessionImp" />
+    <option name="mostRecentlyUsed" value="TermsAgreementCheckActivity" />
     <option name="nonFavorites">
       <list>
+        <option value="TermsAgreementCheckActivity" />
+        <option value="finish" />
         <option value="NuguTemplateRenderer" />
         <option value="NuguTemplateRe" />
         <option value="NuguClientMa" />
@@ -28,8 +30,6 @@
         <option value="tag~:VoiceChromeDynamicBackgroundView | message~:asrListener.onStateChanged" />
         <option value="tag~:VoiceChromeDynamicBackgroundView" />
         <option value="onAsrPcmPowerLevelUpdated" />
-        <option value="NuguClientManager" />
-        <option value="tag~:VoiceChromeDynamicBackgroundView|VoiceChromeController" />
       </list>
     </option>
   </component>
