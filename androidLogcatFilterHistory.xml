@@ -7,9 +7,13 @@
         <option value="package:com.skt.aidev.nugustb level:error " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="NUGUauto" />
+    <option name="mostRecentlyUsed" value="message~:updateLayoutWeight | tag~:VoiceInteractionSessionImpl" />
     <option name="nonFavorites">
       <list>
+        <option value="message~:updateLayoutWeight | tag~:VoiceInteractionSessionImpl" />
+        <option value="message~:updateLayoutWeight|onConfigurationChanged" />
+        <option value="message~:updateLayoutWeightctionSessionImpl::|onConfigurationChanged" />
+        <option value="updateLayoutWeight" />
         <option value="NUGUauto" />
         <option value="TermsAgreementCheckActivity" />
         <option value="finish" />
@@ -26,10 +30,6 @@
         <option value="tag~:NUGUauto::VoiceInteractionLayer " />
         <option value="applyDisplayCutoutMode" />
         <option value="message~:asrListener.onStateChanged | onAsrPcmPowerLevelUpdated" />
-        <option value="message~:asrListener.onStateChanged | PowerLevelListener.onUpdate" />
-        <option value="message~:asrListener.onStateChanged | PowerLevelListener.onUpdate1``11`11````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````1``````````````````````````````````````````````````````````````````````````````````````````````````````````````1`````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````" />
-        <option value="tag~:VoiceChromeDynamicBackgroundView | message~:asrListener.onStateChanged" />
-        <option value="tag~:VoiceChromeDynamicBackgroundView" />
       </list>
     </option>
   </component>
