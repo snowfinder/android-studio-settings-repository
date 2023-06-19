@@ -7,9 +7,10 @@
         <option value="package:com.skt.aidev.nugustb level:error " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="SlideAnimator" />
+    <option name="mostRecentlyUsed" value="VoiceChromeView" />
     <option name="nonFavorites">
       <list>
+        <option value="VoiceChromeView" />
         <option value="SlideAnimator" />
         <option value="slideAnimator.onUpdatedListener" />
         <option value="message~:updateLayoutWeight | tag~:VoiceInteractionSessionImpl" />
@@ -29,7 +30,6 @@
         <option value="tag~:VoiceInteractionSessionImpl" />
         <option value="tag~:VoiceInteractionSession " />
         <option value="tag~:NUGUauto::VoiceInteractionSession " />
-        <option value="tag~:NUGUauto::VoiceInteractionLayer " />
       </list>
     </option>
   </component>
