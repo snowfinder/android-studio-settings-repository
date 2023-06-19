@@ -7,9 +7,11 @@
         <option value="package:com.skt.aidev.nugustb level:error " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="message~:updateLayoutWeight | tag~:VoiceInteractionSessionImpl" />
+    <option name="mostRecentlyUsed" value="SlideAnimator" />
     <option name="nonFavorites">
       <list>
+        <option value="SlideAnimator" />
+        <option value="slideAnimator.onUpdatedListener" />
         <option value="message~:updateLayoutWeight | tag~:VoiceInteractionSessionImpl" />
         <option value="message~:updateLayoutWeight|onConfigurationChanged" />
         <option value="message~:updateLayoutWeightctionSessionImpl::|onConfigurationChanged" />
@@ -28,8 +30,6 @@
         <option value="tag~:VoiceInteractionSession " />
         <option value="tag~:NUGUauto::VoiceInteractionSession " />
         <option value="tag~:NUGUauto::VoiceInteractionLayer " />
-        <option value="applyDisplayCutoutMode" />
-        <option value="message~:asrListener.onStateChanged | onAsrPcmPowerLevelUpdated" />
       </list>
     </option>
   </component>
