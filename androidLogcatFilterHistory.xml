@@ -7,12 +7,12 @@
         <option value="package:com.skt.aidev.nugustb level:error " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag~:ServiceApp|Aladdin" />
+    <option name="mostRecentlyUsed" value="VoiceChromeView" />
     <option name="nonFavorites">
       <list>
-        <option value="tag~:ServiceApp|Aladdin" />
         <option value="VoiceChromeView" />
         <option value="SlideAnimator" />
+        <option value="tag~:ServiceApp|Aladdin" />
         <option value="slideAnimator.onUpdatedListener" />
         <option value="message~:updateLayoutWeight | tag~:VoiceInteractionSessionImpl" />
         <option value="message~:updateLayoutWeight|onConfigurationChanged" />
