@@ -7,9 +7,16 @@
         <option value="package:com.skt.aidev.nugustb level:error " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="VoiceChromeView" />
+    <option name="mostRecentlyUsed" value="VoiceInteractionsessionim" />
     <option name="nonFavorites">
       <list>
+        <option value="VoiceInteractionsessionim" />
+        <option value="voiceinteraction" />
+        <option value="makeContactServerSearchList" />
+        <option value="PhoneCall" />
+        <option value="NuguTEmplate" />
+        <option value="Contacts" />
+        <option value="VoiceInteractionLay" />
         <option value="VoiceChromeView" />
         <option value="SlideAnimator" />
         <option value="tag~:ServiceApp|Aladdin" />
@@ -23,13 +30,6 @@
         <option value="finish" />
         <option value="NuguTemplateRenderer" />
         <option value="NuguTemplateRe" />
-        <option value="NuguClientMa" />
-        <option value="tag~:VoiceInteractionSessionImp" />
-        <option value="tag~:VoiceInteractionSessionImp message~:handleOnTouchListener" />
-        <option value="tag~:VoiceInteractionSessionImp message~:handleOnTouchListener|onComputeInsets" />
-        <option value="tag~:VoiceInteractionSessionImp message~:handle" />
-        <option value="tag~:VoiceInteractionSessionImpl" />
-        <option value="tag~:VoiceInteractionSession " />
       </list>
     </option>
   </component>
