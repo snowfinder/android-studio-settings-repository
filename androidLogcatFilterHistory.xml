@@ -10,6 +10,7 @@
     <option name="mostRecentlyUsed" value="onSlideAnimationUpdated" />
     <option name="nonFavorites">
       <list>
+        <option value="tag~:ViewExt" />
         <option value="onSlideAnimationUpdated" />
         <option value="VoiceChromeView" />
         <option value="setupSlideAnimator" />
@@ -29,7 +30,6 @@
         <option value="message~:updateLayoutWeightctionSessionImpl::|onConfigurationChanged" />
         <option value="updateLayoutWeight" />
         <option value="NUGUauto" />
-        <option value="TermsAgreementCheckActivity" />
       </list>
     </option>
   </component>
