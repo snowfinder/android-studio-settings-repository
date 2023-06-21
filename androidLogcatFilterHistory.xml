@@ -7,9 +7,11 @@
         <option value="package:com.skt.aidev.nugustb level:error " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="onSlideAnimationUpdated" />
+    <option name="mostRecentlyUsed" value="NuguTemplateCardView" />
     <option name="nonFavorites">
       <list>
+        <option value="NuguTemplateCardView" />
+        <option value="offsetMarginBottom" />
         <option value="tag~:ViewExt" />
         <option value="onSlideAnimationUpdated" />
         <option value="VoiceChromeView" />
@@ -28,8 +30,6 @@
         <option value="message~:updateLayoutWeight | tag~:VoiceInteractionSessionImpl" />
         <option value="message~:updateLayoutWeight|onConfigurationChanged" />
         <option value="message~:updateLayoutWeightctionSessionImpl::|onConfigurationChanged" />
-        <option value="updateLayoutWeight" />
-        <option value="NUGUauto" />
       </list>
     </option>
   </component>
