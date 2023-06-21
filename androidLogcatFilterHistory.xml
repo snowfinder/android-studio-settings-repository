@@ -7,11 +7,17 @@
         <option value="package:com.skt.aidev.nugustb level:error " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="NuguTemplateCardView" />
+    <option name="mostRecentlyUsed" value="tag~:VoiceInteractionLayer|VoiceInteractionSessionImpl" />
     <option name="nonFavorites">
       <list>
-        <option value="NuguTemplateCardView" />
+        <option value="tag~:VoiceInteractionLayer|VoiceInteractionSessionImpl" />
+        <option value="tag~:VoiceInteractionLayer|VoiceInteractionSession" />
+        <option value="tag~:VoiceInteractionLayer|" />
+        <option value="VoiceIntera" />
         <option value="offsetMarginBottom" />
+        <option value="VoiceInteractionSession" />
+        <option value="VoiceInter" />
+        <option value="NuguTemplateCardView" />
         <option value="tag~:ViewExt" />
         <option value="onSlideAnimationUpdated" />
         <option value="VoiceChromeView" />
@@ -24,12 +30,6 @@
         <option value="PhoneCall" />
         <option value="NuguTEmplate" />
         <option value="Contacts" />
-        <option value="VoiceInteractionLay" />
-        <option value="tag~:ServiceApp|Aladdin" />
-        <option value="slideAnimator.onUpdatedListener" />
-        <option value="message~:updateLayoutWeight | tag~:VoiceInteractionSessionImpl" />
-        <option value="message~:updateLayoutWeight|onConfigurationChanged" />
-        <option value="message~:updateLayoutWeightctionSessionImpl::|onConfigurationChanged" />
       </list>
     </option>
   </component>
