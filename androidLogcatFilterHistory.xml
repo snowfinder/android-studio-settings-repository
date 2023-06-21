@@ -7,12 +7,12 @@
         <option value="package:com.skt.aidev.nugustb level:error " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="VoiceChromeView" />
+    <option name="mostRecentlyUsed" value="onSlideAnimationUpdated" />
     <option name="nonFavorites">
       <list>
+        <option value="onSlideAnimationUpdated" />
         <option value="VoiceChromeView" />
         <option value="setupSlideAnimator" />
-        <option value="onSlideAnimationUpdated" />
         <option value="SlideAnimator" />
         <option value="SlideAni" />
         <option value="VoiceInteractionsessionim" />
