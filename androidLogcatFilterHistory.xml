@@ -7,9 +7,10 @@
         <option value="package:com.skt.aidev.nugustb level:error " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag~:VoiceInteractionLayer|VoiceInteractionSessionImpl" />
+    <option name="mostRecentlyUsed" value="tag~:NuguTemplateCardView|VoiceInteractionLayer|VoiceInteractionSessionImpl" />
     <option name="nonFavorites">
       <list>
+        <option value="tag~:NuguTemplateCardView|VoiceInteractionLayer|VoiceInteractionSessionImpl" />
         <option value="tag~:VoiceInteractionLayer|VoiceInteractionSessionImpl" />
         <option value="tag~:VoiceInteractionLayer|VoiceInteractionSession" />
         <option value="tag~:VoiceInteractionLayer|" />
@@ -29,7 +30,6 @@
         <option value="makeContactServerSearchList" />
         <option value="PhoneCall" />
         <option value="NuguTEmplate" />
-        <option value="Contacts" />
       </list>
     </option>
   </component>
