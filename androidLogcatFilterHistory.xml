@@ -2,14 +2,15 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="favorites">
       <list>
-        <option value="package:com.skt.eaa.assistant level:error " />
         <option value="level:error " />
+        <option value="package:com.skt.eaa.assistant level:error " />
         <option value="package:com.skt.aidev.nugustb level:error " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag~:NuguTemplateCardView|VoiceInteractionLayer|VoiceInteractionSessionImpl" />
+    <option name="mostRecentlyUsed" value="tag~:NuguTemplateCardView" />
     <option name="nonFavorites">
       <list>
+        <option value="tag~:NuguTemplateCardView" />
         <option value="tag~:NuguTemplateCardView|VoiceInteractionLayer|VoiceInteractionSessionImpl" />
         <option value="tag~:VoiceInteractionLayer|VoiceInteractionSessionImpl" />
         <option value="tag~:VoiceInteractionLayer|VoiceInteractionSession" />
@@ -29,7 +30,6 @@
         <option value="voiceinteraction" />
         <option value="makeContactServerSearchList" />
         <option value="PhoneCall" />
-        <option value="NuguTEmplate" />
       </list>
     </option>
   </component>
