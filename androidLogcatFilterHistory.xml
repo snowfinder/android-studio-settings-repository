@@ -7,9 +7,10 @@
         <option value="package:com.skt.aidev.nugustb level:error " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value=" message~:CountDownTimer" />
+    <option name="mostRecentlyUsed" value=" tag~:CounterButton" />
     <option name="nonFavorites">
       <list>
+        <option value=" tag~:CounterButton" />
         <option value=" message~:CountDownTimer" />
         <option value="tag~:NuguTemplateCardView" />
         <option value="tag~:NuguTemplateCardView|VoiceInteractionLayer|VoiceInteractionSessionImpl" />
@@ -29,7 +30,6 @@
         <option value="SlideAni" />
         <option value="VoiceInteractionsessionim" />
         <option value="voiceinteraction" />
-        <option value="makeContactServerSearchList" />
       </list>
     </option>
   </component>
