@@ -67,6 +67,17 @@
         <name value="Device" />
         <target value="Android 1.0" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="7b287830" />
+          </Key>
+        </key>
+        <name value="qti QTI ihu5 for qcom SA8155P" />
+        <target value="Android 12L" />
+        <api value="androidversion:32:null:null:true" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
