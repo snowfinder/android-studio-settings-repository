@@ -7,9 +7,11 @@
         <option value="package:com.skt.aidev.nugustb level:error " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="level:error " />
+    <option name="mostRecentlyUsed" value="animateFoldingHeight" />
     <option name="nonFavorites">
       <list>
+        <option value="density" />
+        <option value="animateFoldingHeight" />
         <option value=" tag~:CounterButton" />
         <option value=" message~:CountDownTimer" />
         <option value="tag~:NuguTemplateCardView" />
@@ -28,8 +30,6 @@
         <option value="setupSlideAnimator" />
         <option value="SlideAnimator" />
         <option value="SlideAni" />
-        <option value="VoiceInteractionsessionim" />
-        <option value="voiceinteraction" />
       </list>
     </option>
   </component>
