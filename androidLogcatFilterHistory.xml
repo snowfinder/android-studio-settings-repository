@@ -7,9 +7,12 @@
         <option value="package:com.skt.aidev.nugustb level:error " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="animateFoldingHeight" />
+    <option name="mostRecentlyUsed" value="foregroundPackageName" />
     <option name="nonFavorites">
       <list>
+        <option value="foregroundPackageName" />
+        <option value="NuguClientManager" />
+        <option value="systemapp" />
         <option value="density" />
         <option value="animateFoldingHeight" />
         <option value=" tag~:CounterButton" />
@@ -27,9 +30,6 @@
         <option value="tag~:ViewExt" />
         <option value="onSlideAnimationUpdated" />
         <option value="VoiceChromeView" />
-        <option value="setupSlideAnimator" />
-        <option value="SlideAnimator" />
-        <option value="SlideAni" />
       </list>
     </option>
   </component>
