@@ -7,9 +7,10 @@
         <option value="package:com.skt.aidev.nugustb level:error " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="VoiceChromeDynamicBackgroundView" />
+    <option name="mostRecentlyUsed" value="VoiceChromeView" />
     <option name="nonFavorites">
       <list>
+        <option value="VoiceChromeView" />
         <option value="VoiceChromeDynamicBackgroundView" />
         <option value="foregroundPackageName" />
         <option value="NuguClientManager" />
@@ -29,7 +30,6 @@
         <option value="VoiceInter" />
         <option value="NuguTemplateCardView" />
         <option value="tag~:ViewExt" />
-        <option value="onSlideAnimationUpdated" />
       </list>
     </option>
   </component>
