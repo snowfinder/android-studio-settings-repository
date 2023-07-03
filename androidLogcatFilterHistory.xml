@@ -2,14 +2,16 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="favorites">
       <list>
-        <option value="level:error " />
         <option value="package:com.skt.eaa.assistant level:error " />
+        <option value="level:error " />
         <option value="package:com.skt.aidev.nugustb level:error " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="applyDisplayCutoutToMargin" />
+    <option name="mostRecentlyUsed" value="package:com.skt.eaa.assistant level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.skt.eaa.assistant tag~:NuguClientManager|voiceInteraction" />
+        <option value="package:com.skt.eaa.assistant" />
         <option value="applyDisplayCutoutToMargin" />
         <option value="BaseActivity" />
         <option value="cutout" />
@@ -28,8 +30,6 @@
         <option value="tag~:VoiceInteractionLayer|VoiceInteractionSession" />
         <option value="tag~:VoiceInteractionLayer|" />
         <option value="VoiceIntera" />
-        <option value="offsetMarginBottom" />
-        <option value="VoiceInteractionSession" />
       </list>
     </option>
   </component>
