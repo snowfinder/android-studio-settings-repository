@@ -7,9 +7,11 @@
         <option value="package:com.skt.aidev.nugustb level:error " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="VoiceChromeView" />
+    <option name="mostRecentlyUsed" value="applyDisplayCutoutToMargin" />
     <option name="nonFavorites">
       <list>
+        <option value="applyDisplayCutoutToMargin" />
+        <option value="cutout" />
         <option value="VoiceChromeView" />
         <option value="VoiceChromeDynamicBackgroundView" />
         <option value="foregroundPackageName" />
@@ -28,8 +30,6 @@
         <option value="offsetMarginBottom" />
         <option value="VoiceInteractionSession" />
         <option value="VoiceInter" />
-        <option value="NuguTemplateCardView" />
-        <option value="tag~:ViewExt" />
       </list>
     </option>
   </component>
