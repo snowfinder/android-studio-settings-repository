@@ -11,6 +11,7 @@
     <option name="nonFavorites">
       <list>
         <option value="applyDisplayCutoutToMargin" />
+        <option value="BaseActivity" />
         <option value="cutout" />
         <option value="VoiceChromeView" />
         <option value="VoiceChromeDynamicBackgroundView" />
@@ -29,7 +30,6 @@
         <option value="VoiceIntera" />
         <option value="offsetMarginBottom" />
         <option value="VoiceInteractionSession" />
-        <option value="VoiceInter" />
       </list>
     </option>
   </component>
