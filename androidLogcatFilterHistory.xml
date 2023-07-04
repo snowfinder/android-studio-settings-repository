@@ -7,9 +7,10 @@
         <option value="package:com.skt.aidev.nugustb level:error " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="NuguClient" />
+    <option name="mostRecentlyUsed" value="AutoAssistantApp" />
     <option name="nonFavorites">
       <list>
+        <option value="AutoAssistantApp" />
         <option value="NuguClient" />
         <option value="tag~:VoiceInteractionLayer | message~:updateLayoutWeight|setNightMode" />
         <option value="tag~:VoiceInteractionLayer | message~:updateLayoutWeight" />
@@ -29,7 +30,6 @@
         <option value="animateFoldingHeight" />
         <option value=" tag~:CounterButton" />
         <option value=" message~:CountDownTimer" />
-        <option value="tag~:NuguTemplateCardView" />
       </list>
     </option>
   </component>
