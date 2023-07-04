@@ -7,9 +7,12 @@
         <option value="package:com.skt.aidev.nugustb level:error " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:com.skt.eaa.assistant level:error " />
+    <option name="mostRecentlyUsed" value="tag~:VoiceInteractionLayer | message~:updateLayoutWeight" />
     <option name="nonFavorites">
       <list>
+        <option value="tag~:VoiceInteractionLayer | message~:updateLayoutWeight" />
+        <option value="VoiceInteractionLayer" />
+        <option value="onConfigurationChanged" />
         <option value="package:com.skt.eaa.assistant tag~:NuguClientManager|voiceInteraction" />
         <option value="package:com.skt.eaa.assistant" />
         <option value="applyDisplayCutoutToMargin" />
@@ -27,9 +30,6 @@
         <option value="tag~:NuguTemplateCardView" />
         <option value="tag~:NuguTemplateCardView|VoiceInteractionLayer|VoiceInteractionSessionImpl" />
         <option value="tag~:VoiceInteractionLayer|VoiceInteractionSessionImpl" />
-        <option value="tag~:VoiceInteractionLayer|VoiceInteractionSession" />
-        <option value="tag~:VoiceInteractionLayer|" />
-        <option value="VoiceIntera" />
       </list>
     </option>
   </component>
