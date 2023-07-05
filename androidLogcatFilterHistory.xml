@@ -7,9 +7,10 @@
         <option value="package:com.skt.aidev.nugustb level:error " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag~:NUGUauto|NUGU_SDK" />
+    <option name="mostRecentlyUsed" value="system app" />
     <option name="nonFavorites">
       <list>
+        <option value="system app" />
         <option value="tag~:NUGUauto|NUGU_SDK" />
         <option value="tag~:NUGUauto" />
         <option value="tag~:NUGUauto::NuguClientManager " />
@@ -29,7 +30,6 @@
         <option value="applyDisplayCutoutToMargin" />
         <option value="BaseActivity" />
         <option value="cutout" />
-        <option value="VoiceChromeView" />
       </list>
     </option>
   </component>
