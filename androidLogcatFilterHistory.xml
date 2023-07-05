@@ -7,9 +7,10 @@
         <option value="package:com.skt.aidev.nugustb level:error " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="system app" />
+    <option name="mostRecentlyUsed" value="tag~:AutoAssistantApplication" />
     <option name="nonFavorites">
       <list>
+        <option value="tag~:AutoAssistantApplication" />
         <option value="system app" />
         <option value="tag~:NUGUauto|NUGU_SDK" />
         <option value="tag~:NUGUauto" />
@@ -29,7 +30,6 @@
         <option value="package:com.skt.eaa.assistant" />
         <option value="applyDisplayCutoutToMargin" />
         <option value="BaseActivity" />
-        <option value="cutout" />
       </list>
     </option>
   </component>
