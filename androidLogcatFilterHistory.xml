@@ -7,9 +7,13 @@
         <option value="package:com.skt.aidev.nugustb level:error " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="isSystemapp" />
+    <option name="mostRecentlyUsed" value="tag~:NUGUauto|NUGU_SDK" />
     <option name="nonFavorites">
       <list>
+        <option value="tag~:NUGUauto|NUGU_SDK" />
+        <option value="tag~:NUGUauto" />
+        <option value="tag~:NUGUauto::NuguClientManager " />
+        <option value="NUGUauto" />
         <option value="isSystemapp" />
         <option value="grapackage:com.skt.eaa.assistant level:error " />
         <option value="AutoAssistantbApp" />
@@ -26,10 +30,6 @@
         <option value="BaseActivity" />
         <option value="cutout" />
         <option value="VoiceChromeView" />
-        <option value="VoiceChromeDynamicBackgroundView" />
-        <option value="foregroundPackageName" />
-        <option value="NuguClientManager" />
-        <option value="systemapp" />
       </list>
     </option>
   </component>
