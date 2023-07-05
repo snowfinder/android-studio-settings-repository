@@ -74,7 +74,7 @@
             <value value="7b287830" />
           </Key>
         </key>
-        <name value="qti QTI ihu5 for qcom SA8155P" />
+        <name value="Qualcomm QTI ihu5 for qcom SA8155P" />
         <target value="Android 12L" />
         <api value="androidversion:32:null:null:true" />
       </PhysicalDevice>
