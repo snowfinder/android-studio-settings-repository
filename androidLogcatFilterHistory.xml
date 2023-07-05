@@ -7,9 +7,10 @@
         <option value="package:com.skt.aidev.nugustb level:error " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:com.skt.eaa.assistant level:error " />
+    <option name="mostRecentlyUsed" value="isSystemapp" />
     <option name="nonFavorites">
       <list>
+        <option value="isSystemapp" />
         <option value="grapackage:com.skt.eaa.assistant level:error " />
         <option value="AutoAssistantbApp" />
         <option value="AutoAssistantApp" />
@@ -29,7 +30,6 @@
         <option value="foregroundPackageName" />
         <option value="NuguClientManager" />
         <option value="systemapp" />
-        <option value="density" />
       </list>
     </option>
   </component>
