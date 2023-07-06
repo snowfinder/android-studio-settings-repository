@@ -7,9 +7,10 @@
         <option value="package:com.skt.aidev.nugustb level:error " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag~:AutoAssistantApplication" />
+    <option name="mostRecentlyUsed" value="package:com.skt.eaa.assistant" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.skt.eaa.assistant" />
         <option value="tag~:AutoAssistantApplication" />
         <option value="system app" />
         <option value="tag~:NUGUauto|NUGU_SDK" />
@@ -27,7 +28,6 @@
         <option value="VoiceInteractionLayer" />
         <option value="onConfigurationChanged" />
         <option value="package:com.skt.eaa.assistant tag~:NuguClientManager|voiceInteraction" />
-        <option value="package:com.skt.eaa.assistant" />
         <option value="applyDisplayCutoutToMargin" />
         <option value="BaseActivity" />
       </list>
