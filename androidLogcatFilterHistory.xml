@@ -7,9 +7,10 @@
         <option value="package:com.skt.aidev.nugustb level:error " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag~:NuguBluetoothProvider|BluetoothController" />
+    <option name="mostRecentlyUsed" value="NuguClientMAnager" />
     <option name="nonFavorites">
       <list>
+        <option value="NuguClientMAnager" />
         <option value="tag~:NuguBluetoothProvider|BluetoothController" />
         <option value="tag~:NuguBluetoothProvider" />
         <option value="tag~:AutoAssistant" />
@@ -29,7 +30,6 @@
         <option value="NuguClient" />
         <option value="tag~:VoiceInteractionLayer | message~:updateLayoutWeight|setNightMode" />
         <option value="tag~:VoiceInteractionLayer | message~:updateLayoutWeight" />
-        <option value="VoiceInteractionLayer" />
       </list>
     </option>
   </component>
