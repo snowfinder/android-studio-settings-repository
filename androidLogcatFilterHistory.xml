@@ -7,29 +7,29 @@
         <option value="package:com.skt.aidev.nugustb level:error " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag~:PhoneCallClient|NuguTemplateRend" />
+    <option name="mostRecentlyUsed" value="tag~:NuguClientManager|VoiceInteraction|AutoAssistantApplication" />
     <option name="nonFavorites">
       <list>
+        <option value="tag~:NuguClientManager|VoiceInteraction|AutoAssistantApplication" />
+        <option value="tag~:NuguClientManager|VoiceInteraction|AutoAssistantApplication|NuguAuth" />
+        <option value="tag~:NuguClientManager|VoiceInteraction|AutoAsssistant" />
+        <option value="tag~:NuguClientManager|VoiceInteraction" />
+        <option value="tag~:NuguClientManager" />
+        <option value="tag~:NUGUauto" />
+        <option value="tag~:NuguBluetoothProvider" />
+        <option value="tag~:Bluetooth" />
+        <option value="tag~" />
         <option value="tag~:PhoneCallClient|NuguTemplateRend" />
         <option value="tag~:PhoneCallClient" />
         <option value="NuguClientMAnager" />
         <option value="tag~:NuguBluetoothProvider|BluetoothController" />
-        <option value="tag~:NuguBluetoothProvider" />
         <option value="tag~:AutoAssistant" />
         <option value="tat" />
         <option value="package:com.skt.eaa.assistant" />
         <option value="tag~:AutoAssistantApplication" />
         <option value="system app" />
         <option value="tag~:NUGUauto|NUGU_SDK" />
-        <option value="tag~:NUGUauto" />
         <option value="tag~:NUGUauto::NuguClientManager " />
-        <option value="NUGUauto" />
-        <option value="isSystemapp" />
-        <option value="grapackage:com.skt.eaa.assistant level:error " />
-        <option value="AutoAssistantbApp" />
-        <option value="AutoAssistantApp" />
-        <option value="AutoAssistant" />
-        <option value="NuguClient" />
       </list>
     </option>
   </component>
