@@ -11,6 +11,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:com.skt.aidev.nugustb" />
+        <option value="nugu" />
         <option value="tag~:NuguClientManager|VoiceInteraction|AutoAssistantApplication" />
         <option value="tag~:NuguClientManager|VoiceInteraction|AutoAssistantApplication|NuguAuth" />
         <option value="tag~:NuguClientManager|VoiceInteraction|AutoAsssistant" />
@@ -29,7 +30,6 @@
         <option value="package:com.skt.eaa.assistant" />
         <option value="tag~:AutoAssistantApplication" />
         <option value="system app" />
-        <option value="tag~:NUGUauto|NUGU_SDK" />
       </list>
     </option>
   </component>
