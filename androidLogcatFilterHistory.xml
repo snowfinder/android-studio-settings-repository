@@ -7,12 +7,15 @@
         <option value="package:com.skt.aidev.nugustb level:error " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:com.skt.eaa.assistant tag~:AutoAssis|NuguAuthPocMapper" />
+    <option name="mostRecentlyUsed" value="package:com.skt.eaa.assistant" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.skt.eaa.assistant" />
+        <option value="package:com.skt.eaa.assistant tag~:NUGUauto::AutoAssistantApplication " />
+        <option value="package:com.skt.eaa.assistant tag~:BluetoothController " />
+        <option value="package:com.skt.eaa.assistant message~:call" />
         <option value="package:com.skt.eaa.assistant tag~:AutoAssis|NuguAuthPocMapper" />
         <option value="package:com.skt.eaa.assistant tag~:AutoAssis" />
-        <option value="package:com.skt.eaa.assistant" />
         <option value="package:com.skt.aidev.nugustb" />
         <option value="nugu" />
         <option value="tag~:NuguClientManager|VoiceInteraction|AutoAssistantApplication" />
@@ -27,9 +30,6 @@
         <option value="tag~:PhoneCallClient|NuguTemplateRend" />
         <option value="tag~:PhoneCallClient" />
         <option value="NuguClientMAnager" />
-        <option value="tag~:NuguBluetoothProvider|BluetoothController" />
-        <option value="tag~:AutoAssistant" />
-        <option value="tat" />
       </list>
     </option>
   </component>
