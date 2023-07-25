@@ -7,9 +7,10 @@
         <option value="package:com.skt.aidev.nugustb level:error " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:com.skt.eaa.assistant tag~:VoiceIn" />
+    <option name="mostRecentlyUsed" value="package:com.skt.eaa.assistant templateRe" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.skt.eaa.assistant templateRe" />
         <option value="package:com.skt.eaa.assistant tag~:VoiceIn" />
         <option value="package:com.skt.eaa.assistant" />
         <option value="package:com.skt.eaa.assistant tag~:ContactsSearcher" />
@@ -29,7 +30,6 @@
         <option value="tag~:NuguClientManager|VoiceInteraction" />
         <option value="tag~:NuguClientManager" />
         <option value="tag~:NUGUauto" />
-        <option value="tag~:NuguBluetoothProvider" />
       </list>
     </option>
   </component>
