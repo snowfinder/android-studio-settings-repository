@@ -11,6 +11,10 @@
     <option name="nonFavorites">
       <list>
         <option value="package:com.skt.eaa.assistant" />
+        <option value="package:com.skt.eaa.assistant tag~:ContactsSearcher" />
+        <option value="package:com.skt.eaa.assistant " />
+        <option value="package:com.skt.eaa.assistant contact" />
+        <option value="package:com.skt.eaa.assistant tag~:Contact" />
         <option value="package:com.skt.eaa.assistant tag~:NUGUauto::AutoAssistantApplication " />
         <option value="package:com.skt.eaa.assistant tag~:BluetoothController " />
         <option value="package:com.skt.eaa.assistant message~:call" />
@@ -26,10 +30,6 @@
         <option value="tag~:NUGUauto" />
         <option value="tag~:NuguBluetoothProvider" />
         <option value="tag~:Bluetooth" />
-        <option value="tag~" />
-        <option value="tag~:PhoneCallClient|NuguTemplateRend" />
-        <option value="tag~:PhoneCallClient" />
-        <option value="NuguClientMAnager" />
       </list>
     </option>
   </component>
