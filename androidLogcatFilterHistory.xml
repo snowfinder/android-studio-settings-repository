@@ -7,9 +7,10 @@
         <option value="package:com.skt.aidev.nugustb level:error " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="NUGUauto" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="App executable date is EXPIRED" />
         <option value="NUGUauto" />
         <option value="isAppExecutableDateExpired" />
         <option value="blockExpiredAppRunning" />
@@ -29,7 +30,6 @@
         <option value="package:com.skt.eaa.assistant tag~:Contact" />
         <option value="package:com.skt.eaa.assistant tag~:NUGUauto::AutoAssistantApplication " />
         <option value="package:com.skt.eaa.assistant tag~:BluetoothController " />
-        <option value="package:com.skt.eaa.assistant message~:call" />
       </list>
     </option>
   </component>
