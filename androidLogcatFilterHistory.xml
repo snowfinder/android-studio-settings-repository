@@ -7,9 +7,10 @@
         <option value="package:com.skt.aidev.nugustb level:error " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag~:NUGUauto" />
+    <option name="mostRecentlyUsed" value="blockRunApp" />
     <option name="nonFavorites">
       <list>
+        <option value="blockRunApp" />
         <option value="tag~:NUGUauto" />
         <option value="package:com.skt.eaa.assistant" />
         <option value="NUGUauto" />
@@ -29,7 +30,6 @@
         <option value="package:com.skt.eaa.assistant message~:call" />
         <option value="package:com.skt.eaa.assistant tag~:AutoAssis|NuguAuthPocMapper" />
         <option value="package:com.skt.eaa.assistant tag~:AutoAssis" />
-        <option value="package:com.skt.aidev.nugustb" />
       </list>
     </option>
   </component>
