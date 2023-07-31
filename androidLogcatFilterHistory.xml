@@ -7,14 +7,15 @@
         <option value="package:com.skt.aidev.nugustb level:error " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="blockExpiredAppRunning" />
+    <option name="mostRecentlyUsed" value="NUGUauto" />
     <option name="nonFavorites">
       <list>
+        <option value="NUGUauto" />
+        <option value="isAppExecutableDateExpired" />
         <option value="blockExpiredAppRunning" />
         <option value="blockRunApp" />
         <option value="tag~:NUGUauto" />
         <option value="package:com.skt.eaa.assistant" />
-        <option value="NUGUauto" />
         <option value="package:com.skt.eaa.assistant tag~:PageScrollableRecyclerView" />
         <option value="package:com.skt.eaa.assistant message~:ControlScroll|NuguTemplateRe" />
         <option value="package:com.skt.eaa.assistant message~:ControlScroll" />
@@ -29,7 +30,6 @@
         <option value="package:com.skt.eaa.assistant tag~:NUGUauto::AutoAssistantApplication " />
         <option value="package:com.skt.eaa.assistant tag~:BluetoothController " />
         <option value="package:com.skt.eaa.assistant message~:call" />
-        <option value="package:com.skt.eaa.assistant tag~:AutoAssis|NuguAuthPocMapper" />
       </list>
     </option>
   </component>
