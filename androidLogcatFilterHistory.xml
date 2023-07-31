@@ -7,9 +7,12 @@
         <option value="package:com.skt.aidev.nugustb level:error " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:com.skt.eaa.assistant tag~:PageScrollableRecyclerView" />
+    <option name="mostRecentlyUsed" value="tag~:NUGUauto" />
     <option name="nonFavorites">
       <list>
+        <option value="tag~:NUGUauto" />
+        <option value="package:com.skt.eaa.assistant" />
+        <option value="NUGUauto" />
         <option value="package:com.skt.eaa.assistant tag~:PageScrollableRecyclerView" />
         <option value="package:com.skt.eaa.assistant message~:ControlScroll|NuguTemplateRe" />
         <option value="package:com.skt.eaa.assistant message~:ControlScroll" />
@@ -17,7 +20,6 @@
         <option value="package:com.skt.eaa.assistant template" />
         <option value="package:com.skt.eaa.assistant templateRe" />
         <option value="package:com.skt.eaa.assistant tag~:VoiceIn" />
-        <option value="package:com.skt.eaa.assistant" />
         <option value="package:com.skt.eaa.assistant tag~:ContactsSearcher" />
         <option value="package:com.skt.eaa.assistant " />
         <option value="package:com.skt.eaa.assistant contact" />
@@ -28,8 +30,6 @@
         <option value="package:com.skt.eaa.assistant tag~:AutoAssis|NuguAuthPocMapper" />
         <option value="package:com.skt.eaa.assistant tag~:AutoAssis" />
         <option value="package:com.skt.aidev.nugustb" />
-        <option value="nugu" />
-        <option value="tag~:NuguClientManager|VoiceInteraction|AutoAssistantApplication" />
       </list>
     </option>
   </component>
