@@ -2,15 +2,21 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="favorites">
       <list>
-        <option value="package:com.skt.eaa.assistant level:error " />
         <option value="level:error " />
+        <option value="package:com.skt.eaa.assistant level:error " />
         <option value="package:com.skt.aidev.nugustb level:error " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="NUGUauto" />
+    <option name="mostRecentlyUsed" value="tag~:AutoAssistantApplication|VoiceInteractionSession|NightModeManager" />
     <option name="nonFavorites">
       <list>
+        <option value="tag~:AutoAssistantApplication|VoiceInteractionSession|NightModeManager" />
+        <option value="tag~:AutoAssistantApplication|VoiceInteractionSession" />
+        <option value="tag~:AutoAssistantApplication|" />
+        <option value="tag~:AutoAssis" />
+        <option value="voiceInteraction" />
         <option value="NUGUauto" />
+        <option value="tag~:NUGUauto::AutoAssistantApplication" />
         <option value="nuguauto" />
         <option value="App executable date is EXPIRED" />
         <option value="isAppExecutableDateExpired" />
@@ -24,12 +30,6 @@
         <option value="package:com.skt.eaa.assistant tag~:NuguTemplateHelper" />
         <option value="package:com.skt.eaa.assistant template" />
         <option value="package:com.skt.eaa.assistant templateRe" />
-        <option value="package:com.skt.eaa.assistant tag~:VoiceIn" />
-        <option value="package:com.skt.eaa.assistant tag~:ContactsSearcher" />
-        <option value="package:com.skt.eaa.assistant " />
-        <option value="package:com.skt.eaa.assistant contact" />
-        <option value="package:com.skt.eaa.assistant tag~:Contact" />
-        <option value="package:com.skt.eaa.assistant tag~:NUGUauto::AutoAssistantApplication " />
       </list>
     </option>
   </component>
