@@ -7,9 +7,10 @@
         <option value="package:com.skt.aidev.nugustb level:error " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag~:AutoAssistantApplication|VoiceInteractionSession|NightModeManager" />
+    <option name="mostRecentlyUsed" value="tag~:AutoAssistantApplication|VoiceInteractionSession|NightModeManager|ThemeManager" />
     <option name="nonFavorites">
       <list>
+        <option value="tag~:AutoAssistantApplication|VoiceInteractionSession|NightModeManager|ThemeManager" />
         <option value="tag~:AutoAssistantApplication|VoiceInteractionSession|NightModeManager" />
         <option value="tag~:AutoAssistantApplication|VoiceInteractionSession" />
         <option value="tag~:AutoAssistantApplication|" />
@@ -29,7 +30,6 @@
         <option value="package:com.skt.eaa.assistant message~:ControlScroll" />
         <option value="package:com.skt.eaa.assistant tag~:NuguTemplateHelper" />
         <option value="package:com.skt.eaa.assistant template" />
-        <option value="package:com.skt.eaa.assistant templateRe" />
       </list>
     </option>
   </component>
