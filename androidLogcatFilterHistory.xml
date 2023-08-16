@@ -7,9 +7,12 @@
         <option value="package:com.skt.aidev.nugustb level:error " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:com.sk" />
+    <option name="mostRecentlyUsed" value="tag~:NuguGlobalReceiver" />
     <option name="nonFavorites">
       <list>
+        <option value="tag~:NuguGlobalReceiver" />
+        <option value="tag~:NuguGlobalReceiver || message~:performSettingValue" />
+        <option value="performSettingValue" />
         <option value="package:com.sk" />
         <option value="package:com.skt.aidev.nugustb message~:MessageRequested" />
         <option value="package:com.skt.aidev.nugustb " />
@@ -27,9 +30,6 @@
         <option value="isAppExecutableDateExpired" />
         <option value="blockExpiredAppRunning" />
         <option value="blockRunApp" />
-        <option value="tag~:NUGUauto" />
-        <option value="package:com.skt.eaa.assistant" />
-        <option value="package:com.skt.eaa.assistant tag~:PageScrollableRecyclerView" />
       </list>
     </option>
   </component>
