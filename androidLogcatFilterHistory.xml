@@ -7,9 +7,11 @@
         <option value="package:com.skt.aidev.nugustb level:error " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag~:NuguGlobalReceiver" />
+    <option name="mostRecentlyUsed" value="tag~:NuguGlobalReceiver|ExternalBroadcastSender" />
     <option name="nonFavorites">
       <list>
+        <option value="tag~:NuguGlobalReceiver|ExternalBroadcastSender" />
+        <option value="tag~:NuguGlobalReceiver|ExternalBroadcastSenderImpl" />
         <option value="tag~:NuguGlobalReceiver" />
         <option value="tag~:NuguGlobalReceiver || message~:performSettingValue" />
         <option value="performSettingValue" />
@@ -28,8 +30,6 @@
         <option value="nuguauto" />
         <option value="App executable date is EXPIRED" />
         <option value="isAppExecutableDateExpired" />
-        <option value="blockExpiredAppRunning" />
-        <option value="blockRunApp" />
       </list>
     </option>
   </component>
