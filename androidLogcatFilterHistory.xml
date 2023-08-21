@@ -11,6 +11,7 @@
     <option name="mostRecentlyUsed" value="package:com.skt.aidev.nugustb" />
     <option name="nonFavorites">
       <list>
+        <option value="tag~:AutoAssistantApplication|VoiceInteractionSession|NightModeManager|ThemeManager" />
         <option value="SearchDux" />
         <option value="tag~:NuguGlobalReceiver|ExternalBroadcastSender" />
         <option value="tag~:NuguGlobalReceiver|ExternalBroadcastSenderImpl" />
@@ -21,7 +22,6 @@
         <option value="package:com.skt.aidev.nugustb message~:MessageRequested" />
         <option value="package:com.skt.aidev.nugustb " />
         <option value="albert" />
-        <option value="tag~:AutoAssistantApplication|VoiceInteractionSession|NightModeManager|ThemeManager" />
         <option value="tag~:AutoAssistantApplication|VoiceInteractionSession|NightModeManager" />
         <option value="tag~:AutoAssistantApplication|VoiceInteractionSession" />
         <option value="tag~:AutoAssistantApplication|" />
