@@ -8,9 +8,12 @@
         <option value="package:com.skt.aidev.nugustb level:error " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:com.skt.aidev.nugustb" />
+    <option name="mostRecentlyUsed" value="tag~:BtvFrameworkHelper message~:handleCugCodeChangedIfNeed" />
     <option name="nonFavorites">
       <list>
+        <option value="tag~:BtvFrameworkHelper message~:handleCugCodeChangedIfNeed" />
+        <option value="tag~:BtvFrameworkHelper" />
+        <option value="handleCugCodeChangedIfNeed" />
         <option value="tag~:AutoAssistantApplication|VoiceInteractionSession|NightModeManager|ThemeManager" />
         <option value="SearchDux" />
         <option value="tag~:NuguGlobalReceiver|ExternalBroadcastSender" />
@@ -28,9 +31,6 @@
         <option value="tag~:AutoAssis" />
         <option value="voiceInteraction" />
         <option value="NUGUauto" />
-        <option value="tag~:NUGUauto::AutoAssistantApplication" />
-        <option value="nuguauto" />
-        <option value="App executable date is EXPIRED" />
       </list>
     </option>
   </component>
