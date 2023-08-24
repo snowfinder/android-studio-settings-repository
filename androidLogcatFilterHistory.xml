@@ -8,13 +8,14 @@
         <option value="package:com.skt.aidev.nugustb level:error " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag~:NuguApplication|MainActivity" />
+    <option name="mostRecentlyUsed" value="BtvFrameworkHelper" />
     <option name="nonFavorites">
       <list>
+        <option value="BtvFrameworkHelper" />
+        <option value="tag~:BtvFrameworkHelper" />
         <option value="tag~:NuguApplication|MainActivity" />
         <option value="tag~:NuguApplication" />
         <option value="tag~:BtvFrameworkHelper message~:handleCugCodeChangedIfNeed" />
-        <option value="tag~:BtvFrameworkHelper" />
         <option value="handleCugCodeChangedIfNeed" />
         <option value="tag~:AutoAssistantApplication|VoiceInteractionSession|NightModeManager|ThemeManager" />
         <option value="SearchDux" />
@@ -30,7 +31,6 @@
         <option value="tag~:AutoAssistantApplication|VoiceInteractionSession|NightModeManager" />
         <option value="tag~:AutoAssistantApplication|VoiceInteractionSession" />
         <option value="tag~:AutoAssistantApplication|" />
-        <option value="tag~:AutoAssis" />
       </list>
     </option>
   </component>
