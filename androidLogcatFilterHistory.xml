@@ -3,14 +3,16 @@
     <option name="favorites">
       <list>
         <option value="package:com.skt.aidev.nugustb" />
-        <option value="level:error " />
-        <option value="package:com.skt.eaa.assistant level:error " />
         <option value="package:com.skt.aidev.nugustb level:error " />
+        <option value="package:com.skt.eaa.assistant level:error " />
+        <option value="level:error " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:com.skt.aidev.nugustb message~:requestChannelsBlocked" />
+    <option name="mostRecentlyUsed" value="package:com.skt.aidev.nugustb (message~:requestChannelsBlocked | tag~:BtvFrameworkHelper)" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.skt.aidev.nugustb (message~:requestChannelsBlocked | tag~:BtvFrameworkHelper)" />
+        <option value="package:com.skt.aidev.nugustb (message~:requestChannelsBlocked || tag~:BtvFrameworkHelper)" />
         <option value="package:com.skt.aidev.nugustb message~:requestChannelsBlocked" />
         <option value="package:com.skt.aidev.nugustb tag~:BtvContextStateProvider" />
         <option value="tag~:BtvFrameworkHelper|BtvContextStateProvider" />
@@ -29,8 +31,6 @@
         <option value="performSettingValue" />
         <option value="package:com.sk" />
         <option value="package:com.skt.aidev.nugustb message~:MessageRequested" />
-        <option value="package:com.skt.aidev.nugustb " />
-        <option value="albert" />
       </list>
     </option>
   </component>
