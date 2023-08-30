@@ -8,9 +8,10 @@
         <option value="package:com.skt.eaa.assistant level:error " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:com.skt.aidev.nugustb" />
+    <option name="mostRecentlyUsed" value="nugu" />
     <option name="nonFavorites">
       <list>
+        <option value="nugu" />
         <option value="NUGU" />
         <option value="Nugu" />
         <option value="package:com.skt.aidev.nugustb (message~:requestChannelsBlocked | tag~:BtvFrameworkHelper|ExternalBroadcastSender)" />
@@ -30,7 +31,6 @@
         <option value="SearchDux" />
         <option value="tag~:NuguGlobalReceiver|ExternalBroadcastSender" />
         <option value="tag~:NuguGlobalReceiver|ExternalBroadcastSenderImpl" />
-        <option value="tag~:NuguGlobalReceiver" />
       </list>
     </option>
   </component>
