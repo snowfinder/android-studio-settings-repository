@@ -8,9 +8,10 @@
         <option value="level:error " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="Nugu" />
+    <option name="mostRecentlyUsed" value="level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="NUGU" />
         <option value="Nugu" />
         <option value="package:com.skt.aidev.nugustb (message~:requestChannelsBlocked | tag~:BtvFrameworkHelper|ExternalBroadcastSender)" />
         <option value="package:com.skt.aidev.nugustb (message~:requestChannelsBlocked | tag~:BtvFrameworkHelper|ExternalBroadcastSenderImpl)" />
@@ -30,7 +31,6 @@
         <option value="tag~:NuguGlobalReceiver|ExternalBroadcastSender" />
         <option value="tag~:NuguGlobalReceiver|ExternalBroadcastSenderImpl" />
         <option value="tag~:NuguGlobalReceiver" />
-        <option value="tag~:NuguGlobalReceiver || message~:performSettingValue" />
       </list>
     </option>
   </component>
