@@ -8,10 +8,12 @@
         <option value="package:com.skt.eaa.assistant level:error " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:com.skt.aidev.nugustb" />
+    <option name="mostRecentlyUsed" value="prd" />
     <option name="nonFavorites">
       <list>
+        <option value="prd" />
         <option value="nugu" />
+        <option value="stg" />
         <option value="NUGU" />
         <option value="Nugu" />
         <option value="package:com.skt.aidev.nugustb (message~:requestChannelsBlocked | tag~:BtvFrameworkHelper|ExternalBroadcastSender)" />
@@ -29,8 +31,6 @@
         <option value="handleCugCodeChangedIfNeed" />
         <option value="tag~:AutoAssistantApplication|VoiceInteractionSession|NightModeManager|ThemeManager" />
         <option value="SearchDux" />
-        <option value="tag~:NuguGlobalReceiver|ExternalBroadcastSender" />
-        <option value="tag~:NuguGlobalReceiver|ExternalBroadcastSenderImpl" />
       </list>
     </option>
   </component>
