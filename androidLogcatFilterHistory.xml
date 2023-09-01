@@ -9,9 +9,12 @@
         <option value="package:com.skt.eaa.assistant level:error " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:com.skt.tmapnugumig.sample tag~:VoiceChromeCon" />
+    <option name="mostRecentlyUsed" value="package:com.skt.eaa.assistant" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.skt.eaa.assistant" />
+        <option value="tag~:TmapNuguSample" />
+        <option value="tag~:Display" />
         <option value="package:com.skt.tmapnugumig.sample tag~:VoiceChromeCon" />
         <option value="extension" />
         <option value="NUGUAuto" />
@@ -29,9 +32,6 @@
         <option value="package:com.skt.aidev.nugustb message~:requestChannelsBlocked" />
         <option value="package:com.skt.aidev.nugustb tag~:BtvContextStateProvider" />
         <option value="tag~:BtvFrameworkHelper|BtvContextStateProvider" />
-        <option value="tag~:BtvFrameworkHelper" />
-        <option value="BtvFrameworkHelper" />
-        <option value="tag~:NuguApplication|MainActivity" />
       </list>
     </option>
   </component>
