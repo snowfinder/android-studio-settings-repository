@@ -2,17 +2,19 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="favorites">
       <list>
+        <option value="package:com.skt.tmapnugumig.sample " />
         <option value="package:com.skt.aidev.nugustb" />
         <option value="level:error " />
         <option value="package:com.skt.aidev.nugustb level:error " />
         <option value="package:com.skt.eaa.assistant level:error " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="NUGUAuto" />
+    <option name="mostRecentlyUsed" value="package:com.skt.tmapnugumig.sample tag~:VoiceChromeCon" />
     <option name="nonFavorites">
       <list>
-        <option value="NUGUAuto" />
+        <option value="package:com.skt.tmapnugumig.sample tag~:VoiceChromeCon" />
         <option value="extension" />
+        <option value="NUGUAuto" />
         <option value="nugutemp" />
         <option value="TmapNUGUmigsampl" />
         <option value="nugu" />
@@ -30,7 +32,6 @@
         <option value="tag~:BtvFrameworkHelper" />
         <option value="BtvFrameworkHelper" />
         <option value="tag~:NuguApplication|MainActivity" />
-        <option value="tag~:NuguApplication" />
       </list>
     </option>
   </component>
