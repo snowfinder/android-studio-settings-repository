@@ -9,9 +9,12 @@
         <option value="package:com.skt.aidev.nugustb level:error " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag~:NuguPhoneCallClient|NuguTemplate|DisplayDummyCallArrived" />
+    <option name="mostRecentlyUsed" value="tag~:MessageAgetnCli" />
     <option name="nonFavorites">
       <list>
+        <option value="tag~:MessageAgetnCli" />
+        <option value="tag~:NuguClientMa" />
+        <option value="tag~:NuguPhoneCallClient|NuguTemplate|TextMessageSelfDbManager" />
         <option value="tag~:NuguPhoneCallClient|NuguTemplate|DisplayDummyCallArrived" />
         <option value="tag~:NuguPhoneCallClient|NuguTemplate" />
         <option value="tag~:NuguPhoneCallClient|Directive" />
@@ -29,9 +32,6 @@
         <option value="prd" />
         <option value="stg" />
         <option value="NUGU" />
-        <option value="Nugu" />
-        <option value="package:com.skt.aidev.nugustb (message~:requestChannelsBlocked | tag~:BtvFrameworkHelper|ExternalBroadcastSender)" />
-        <option value="package:com.skt.aidev.nugustb (message~:requestChannelsBlocked | tag~:BtvFrameworkHelper|ExternalBroadcastSenderImpl)" />
       </list>
     </option>
   </component>
