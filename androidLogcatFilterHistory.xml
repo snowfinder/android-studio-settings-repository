@@ -9,9 +9,14 @@
         <option value="package:com.skt.aidev.nugustb level:error " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="level:error " />
+    <option name="mostRecentlyUsed" value="tag~:NuguPhoneCallClient|NuguTemplate|DisplayDummyCallArrived" />
     <option name="nonFavorites">
       <list>
+        <option value="tag~:NuguPhoneCallClient|NuguTemplate|DisplayDummyCallArrived" />
+        <option value="tag~:NuguPhoneCallClient|NuguTemplate" />
+        <option value="tag~:NuguPhoneCallClient|Directive" />
+        <option value="tag~:NuguPhoneCallClient" />
+        <option value="tag~:PhoneCallClient" />
         <option value="package:com.skt.eaa.assistant" />
         <option value="tag~:TmapNuguSample" />
         <option value="tag~:Display" />
@@ -27,11 +32,6 @@
         <option value="Nugu" />
         <option value="package:com.skt.aidev.nugustb (message~:requestChannelsBlocked | tag~:BtvFrameworkHelper|ExternalBroadcastSender)" />
         <option value="package:com.skt.aidev.nugustb (message~:requestChannelsBlocked | tag~:BtvFrameworkHelper|ExternalBroadcastSenderImpl)" />
-        <option value="package:com.skt.aidev.nugustb (message~:requestChannelsBlocked | tag~:BtvFrameworkHelper)" />
-        <option value="package:com.skt.aidev.nugustb (message~:requestChannelsBlocked || tag~:BtvFrameworkHelper)" />
-        <option value="package:com.skt.aidev.nugustb message~:requestChannelsBlocked" />
-        <option value="package:com.skt.aidev.nugustb tag~:BtvContextStateProvider" />
-        <option value="tag~:BtvFrameworkHelper|BtvContextStateProvider" />
       </list>
     </option>
   </component>
