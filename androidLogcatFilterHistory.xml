@@ -9,10 +9,13 @@
         <option value="package:com.skt.aidev.nugustb level:error " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:com.skt.eaa.assistant (tag~:NightModeManager|ThemeManager|VoiceInteractionLayer | message~:onConfigurationChanged)" />
+    <option name="mostRecentlyUsed" value="package:com.skt.eaa.assistant tag~:NUGUAuto::SettingsActivity" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.skt.eaa.assistant tag~:NUGUAuto::SettingsActivity" />
+        <option value="package:com.skt.eaa.assistant" />
         <option value="package:com.skt.eaa.assistant (tag~:NightModeManager|ThemeManager|VoiceInteractionLayer | message~:onConfigurationChanged)" />
+        <option value="package:com.skt.eaa.assistant (tag~:NightModeManager|ThemeManager|VoiceInteractionLayer|VoiceChrome | message~:onConfigurationChanged)" />
         <option value="package:com.skt.eaa.assistant (tag~:NightModeManager|ThemeManager | message~:onConfigurationChanged)" />
         <option value="package:com.skt.eaa.assistant tag~:NightModeManager|ThemeManager" />
         <option value="package:com.skt.eaa.assistant tag~:NightModeManager" />
@@ -24,14 +27,11 @@
         <option value="tag~:NuguPhoneCallClient|Directive" />
         <option value="tag~:NuguPhoneCallClient" />
         <option value="tag~:PhoneCallClient" />
-        <option value="package:com.skt.eaa.assistant" />
         <option value="tag~:TmapNuguSample" />
         <option value="tag~:Display" />
         <option value="package:com.skt.tmapnugumig.sample tag~:VoiceChromeCon" />
         <option value="extension" />
         <option value="NUGUAuto" />
-        <option value="nugutemp" />
-        <option value="TmapNUGUmigsampl" />
       </list>
     </option>
   </component>
