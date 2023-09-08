@@ -9,9 +9,13 @@
         <option value="package:com.skt.aidev.nugustb level:error " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag~:NuguPhoneCallClient|NuguTemplate" />
+    <option name="mostRecentlyUsed" value="package:com.skt.eaa.assistant (tag~:NightModeManager|ThemeManager|VoiceInteractionLayer | message~:onConfigurationChanged)" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.skt.eaa.assistant (tag~:NightModeManager|ThemeManager|VoiceInteractionLayer | message~:onConfigurationChanged)" />
+        <option value="package:com.skt.eaa.assistant (tag~:NightModeManager|ThemeManager | message~:onConfigurationChanged)" />
+        <option value="package:com.skt.eaa.assistant tag~:NightModeManager|ThemeManager" />
+        <option value="package:com.skt.eaa.assistant tag~:NightModeManager" />
         <option value="tag~:MessageAgetnCli" />
         <option value="tag~:NuguClientMa" />
         <option value="tag~:NuguPhoneCallClient|NuguTemplate|TextMessageSelfDbManager" />
@@ -28,10 +32,6 @@
         <option value="NUGUAuto" />
         <option value="nugutemp" />
         <option value="TmapNUGUmigsampl" />
-        <option value="nugu" />
-        <option value="prd" />
-        <option value="stg" />
-        <option value="NUGU" />
       </list>
     </option>
   </component>
