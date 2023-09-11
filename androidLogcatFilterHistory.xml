@@ -9,9 +9,13 @@
         <option value="package:com.skt.aidev.nugustb level:error " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:com.skt.eaa.assistant tag~:DisplayAudioPlayerLayout" />
+    <option name="mostRecentlyUsed" value="package:com.skt.eaa.assistant tag~:NightModeManager|NuguTemplateRenderer|NuguTemplates" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.skt.eaa.assistant tag~:NightModeManager|NuguTemplateRenderer|NuguTemplates" />
+        <option value="package:com.skt.eaa.assistant tag~:NightModeManager|NuguTemplateRenderer" />
+        <option value="package:com.skt.eaa.assistant tag~:NightModeManager|NuguTemplateRe" />
+        <option value="package:com.skt.eaa.assistant tag~:NightModeManager" />
         <option value="package:com.skt.eaa.assistant tag~:DisplayAudioPlayerLayout" />
         <option value="package:com.skt.eaa.assistant tag~:SettingsActivity|BaseActivity" />
         <option value="package:com.skt.eaa.assistant tag~:SettingsActivity" />
@@ -22,16 +26,12 @@
         <option value="package:com.skt.eaa.assistant (tag~:NightModeManager|ThemeManager|VoiceInteractionLayer|VoiceChrome | message~:onConfigurationChanged)" />
         <option value="package:com.skt.eaa.assistant (tag~:NightModeManager|ThemeManager | message~:onConfigurationChanged)" />
         <option value="package:com.skt.eaa.assistant tag~:NightModeManager|ThemeManager" />
-        <option value="package:com.skt.eaa.assistant tag~:NightModeManager" />
         <option value="tag~:MessageAgetnCli" />
         <option value="tag~:NuguClientMa" />
         <option value="tag~:NuguPhoneCallClient|NuguTemplate|TextMessageSelfDbManager" />
         <option value="tag~:NuguPhoneCallClient|NuguTemplate|DisplayDummyCallArrived" />
         <option value="tag~:NuguPhoneCallClient|NuguTemplate" />
         <option value="tag~:NuguPhoneCallClient|Directive" />
-        <option value="tag~:NuguPhoneCallClient" />
-        <option value="tag~:PhoneCallClient" />
-        <option value="tag~:TmapNuguSample" />
       </list>
     </option>
   </component>
