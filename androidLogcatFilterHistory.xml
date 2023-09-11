@@ -9,9 +9,10 @@
         <option value="package:com.skt.aidev.nugustb level:error " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:com.skt.eaa.assistant tag~:NUGUAuto::SettingsActivity" />
+    <option name="mostRecentlyUsed" value="package:com.skt.eaa.assistant tag~:VoiceInteractionLayer" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.skt.eaa.assistant tag~:VoiceInteractionLayer" />
         <option value="package:com.skt.eaa.assistant tag~:NUGUAuto::SettingsActivity" />
         <option value="package:com.skt.eaa.assistant" />
         <option value="package:com.skt.eaa.assistant (tag~:NightModeManager|ThemeManager|VoiceInteractionLayer | message~:onConfigurationChanged)" />
@@ -31,7 +32,6 @@
         <option value="tag~:Display" />
         <option value="package:com.skt.tmapnugumig.sample tag~:VoiceChromeCon" />
         <option value="extension" />
-        <option value="NUGUAuto" />
       </list>
     </option>
   </component>
