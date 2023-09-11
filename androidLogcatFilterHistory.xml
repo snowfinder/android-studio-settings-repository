@@ -9,9 +9,10 @@
         <option value="package:com.skt.aidev.nugustb level:error " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:com.skt.eaa.assistant tag~:SettingsActivity|BaseActivity" />
+    <option name="mostRecentlyUsed" value="package:com.skt.eaa.assistant tag~:DisplayAudioPlayerLayout" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.skt.eaa.assistant tag~:DisplayAudioPlayerLayout" />
         <option value="package:com.skt.eaa.assistant tag~:SettingsActivity|BaseActivity" />
         <option value="package:com.skt.eaa.assistant tag~:SettingsActivity" />
         <option value="package:com.skt.eaa.assistant tag~:VoiceInteractionLayer" />
@@ -31,7 +32,6 @@
         <option value="tag~:NuguPhoneCallClient" />
         <option value="tag~:PhoneCallClient" />
         <option value="tag~:TmapNuguSample" />
-        <option value="tag~:Display" />
       </list>
     </option>
   </component>
