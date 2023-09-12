@@ -9,9 +9,15 @@
         <option value="package:com.skt.aidev.nugustb level:error " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:com.skt.eaa.assistant tag~:NightModeManager|NuguTemplateRenderer|NuguTemplates|ThemeManager" />
+    <option name="mostRecentlyUsed" value="input" />
     <option name="nonFavorites">
       <list>
+        <option value="input" />
+        <option value="action" />
+        <option value="assistant" />
+        <option value="Voice" />
+        <option value="Navi" />
+        <option value="naver" />
         <option value="package:com.skt.eaa.assistant tag~:NightModeManager|NuguTemplateRenderer|NuguTemplates|ThemeManager" />
         <option value="package:com.skt.eaa.assistant tag~:NightModeManager|NuguTemplateRenderer|NuguTemplates" />
         <option value="package:com.skt.eaa.assistant tag~:NightModeManager|NuguTemplateRenderer" />
@@ -26,12 +32,6 @@
         <option value="package:com.skt.eaa.assistant (tag~:NightModeManager|ThemeManager|VoiceInteractionLayer | message~:onConfigurationChanged)" />
         <option value="package:com.skt.eaa.assistant (tag~:NightModeManager|ThemeManager|VoiceInteractionLayer|VoiceChrome | message~:onConfigurationChanged)" />
         <option value="package:com.skt.eaa.assistant (tag~:NightModeManager|ThemeManager | message~:onConfigurationChanged)" />
-        <option value="package:com.skt.eaa.assistant tag~:NightModeManager|ThemeManager" />
-        <option value="tag~:MessageAgetnCli" />
-        <option value="tag~:NuguClientMa" />
-        <option value="tag~:NuguPhoneCallClient|NuguTemplate|TextMessageSelfDbManager" />
-        <option value="tag~:NuguPhoneCallClient|NuguTemplate|DisplayDummyCallArrived" />
-        <option value="tag~:NuguPhoneCallClient|NuguTemplate" />
       </list>
     </option>
   </component>
