@@ -9,9 +9,10 @@
         <option value="package:com.skt.aidev.nugustb level:error " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package~:com.example.android.cars.places tag~:PlacesCarAppService" />
+    <option name="mostRecentlyUsed" value="level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="tag~:NuguPhoneCallClient|NuguTemplate" />
         <option value="package~:com.example.android.cars.places tag~:PlacesCarAppService" />
         <option value="package~:com.example.android.cars.places" />
         <option value="input" />
@@ -31,7 +32,6 @@
         <option value="package:com.skt.eaa.assistant tag~:VoiceInteractionLayer" />
         <option value="package:com.skt.eaa.assistant tag~:NUGUAuto::SettingsActivity" />
         <option value="package:com.skt.eaa.assistant" />
-        <option value="package:com.skt.eaa.assistant (tag~:NightModeManager|ThemeManager|VoiceInteractionLayer | message~:onConfigurationChanged)" />
       </list>
     </option>
   </component>
