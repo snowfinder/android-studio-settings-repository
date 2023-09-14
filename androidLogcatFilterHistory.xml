@@ -9,9 +9,10 @@
         <option value="package:com.skt.aidev.nugustb level:error " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:com.skt.tmapnugumig.sample tag~:VoiceRecorder|VoiceRecordScreen" />
+    <option name="mostRecentlyUsed" value="package:com.skt.tmapnugumig.sample (tag~:VoiceRecorder|VoiceRecordScreen | message~:projectionState)" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.skt.tmapnugumig.sample (tag~:VoiceRecorder|VoiceRecordScreen | message~:projectionState)" />
         <option value="package:com.skt.tmapnugumig.sample tag~:VoiceRecorder|VoiceRecordScreen" />
         <option value="package:com.skt.tmapnugumig.sample tag~:VoiceRecorder" />
         <option value="package:com.skt.tmapnugumig.sample | tag~:VoiceRecorder" />
@@ -31,7 +32,6 @@
         <option value="package:com.skt.eaa.assistant tag~:NightModeManager|NuguTemplateRenderer|NuguTemplates|ThemeManager" />
         <option value="package:com.skt.eaa.assistant tag~:NightModeManager|NuguTemplateRenderer|NuguTemplates" />
         <option value="package:com.skt.eaa.assistant tag~:NightModeManager|NuguTemplateRenderer" />
-        <option value="package:com.skt.eaa.assistant tag~:NightModeManager|NuguTemplateRe" />
       </list>
     </option>
   </component>
