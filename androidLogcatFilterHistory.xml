@@ -9,9 +9,12 @@
         <option value="package:com.skt.aidev.nugustb level:error " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:com.skt.tmapnugumig.sample" />
+    <option name="mostRecentlyUsed" value="package:com.skt.tmapnugumig.sample tag~:VoiceRecorder|VoiceRecordScreen" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.skt.tmapnugumig.sample tag~:VoiceRecorder|VoiceRecordScreen" />
+        <option value="package:com.skt.tmapnugumig.sample tag~:VoiceRecorder" />
+        <option value="package:com.skt.tmapnugumig.sample | tag~:VoiceRecorder" />
         <option value="package:com.skt.tmapnugumig.sample" />
         <option value="package:com.skt.tmapnugumig.sample tag~:TmapNuguMigSample" />
         <option value="package:com.skt.tmapnugumig.sample tag~:MainApplication|CarAppServiceImpl" />
@@ -29,9 +32,6 @@
         <option value="package:com.skt.eaa.assistant tag~:NightModeManager|NuguTemplateRenderer|NuguTemplates" />
         <option value="package:com.skt.eaa.assistant tag~:NightModeManager|NuguTemplateRenderer" />
         <option value="package:com.skt.eaa.assistant tag~:NightModeManager|NuguTemplateRe" />
-        <option value="package:com.skt.eaa.assistant tag~:NightModeManager" />
-        <option value="package:com.skt.eaa.assistant tag~:DisplayAudioPlayerLayout" />
-        <option value="package:com.skt.eaa.assistant tag~:SettingsActivity|BaseActivity" />
       </list>
     </option>
   </component>
