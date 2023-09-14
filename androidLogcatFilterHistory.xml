@@ -9,9 +9,10 @@
         <option value="package:com.skt.aidev.nugustb level:error " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:com.skt.tmapnugumig.sample tag~:TmapNuguMigSample" />
+    <option name="mostRecentlyUsed" value="package:com.skt.tmapnugumig.sample" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.skt.tmapnugumig.sample" />
         <option value="package:com.skt.tmapnugumig.sample tag~:TmapNuguMigSample" />
         <option value="package:com.skt.tmapnugumig.sample tag~:MainApplication|CarAppServiceImpl" />
         <option value="package:com.skt.tmapnugumig.sample tag~:MainApplication|" />
@@ -31,7 +32,6 @@
         <option value="package:com.skt.eaa.assistant tag~:NightModeManager" />
         <option value="package:com.skt.eaa.assistant tag~:DisplayAudioPlayerLayout" />
         <option value="package:com.skt.eaa.assistant tag~:SettingsActivity|BaseActivity" />
-        <option value="package:com.skt.eaa.assistant tag~:SettingsActivity" />
       </list>
     </option>
   </component>
