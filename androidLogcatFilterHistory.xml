@@ -9,9 +9,11 @@
         <option value="package:com.skt.aidev.nugustb level:error " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:com.skt.tmapnugumig.sample (tag~:VoiceRecorder|VoiceRecordScreen|CarConnectionObserver|AudioRecordSource)" />
+    <option name="mostRecentlyUsed" value="package:com.skt.tmapnugumig.sample (tag~:VoiceRecorder|NuguClientManager|MainApplication|CarAppServiceImpl)" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.skt.tmapnugumig.sample (tag~:VoiceRecorder|NuguClientManager|MainApplication|CarAppServiceImpl)" />
+        <option value="package:com.skt.tmapnugumig.sample (tag~:VoiceRecorder|NuguClientManager|MainApplication)" />
         <option value="package:com.skt.tmapnugumig.sample (tag~:VoiceRecorder|VoiceRecordScreen|CarConnectionObserver|AudioRecordSource)" />
         <option value="package:com.skt.tmapnugumig.sample (tag~:VoiceRecorder|VoiceRecordScreen|CarConnectionObserver)" />
         <option value="package:com.skt.tmapnugumig.sample (tag~:VoiceRecorder|VoiceRecordScreen|CarConnectionMonitor)" />
@@ -30,8 +32,6 @@
         <option value="action" />
         <option value="assistant" />
         <option value="Voice" />
-        <option value="Navi" />
-        <option value="naver" />
       </list>
     </option>
   </component>
