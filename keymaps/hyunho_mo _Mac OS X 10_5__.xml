@@ -11,6 +11,10 @@
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
+  <action id="ActivateVersionControlToolWindow">
+    <keyboard-shortcut first-keystroke="meta 9" />
+    <keyboard-shortcut first-keystroke="meta alt g" />
+  </action>
   <action id="AndroidConnectDebuggerAction">
     <keyboard-shortcut first-keystroke="meta f11" />
   </action>
