@@ -2,6 +2,7 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="favorites">
       <list>
+        <option value="package:com.skt.tmapnugumig.sample (tag~:MainApplication|CarAppServiceImpl|NuguClientManager|NuguAuthManager)" />
         <option value="package:com.skt.tmapnugumig.sample " />
         <option value="package:com.skt.tmapnugumig.sample (tag~:NuguClientManager|NuguAuthManager|ContactsUploader)" />
         <option value="level:error " />
@@ -10,9 +11,11 @@
         <option value="package:com.skt.aidev.nugustb level:error " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:com.skt.tmapnugumig.sample (tag~:NuguClientManager|NuguAuthManager|ContactsUploader)" />
+    <option name="mostRecentlyUsed" value="package:com.skt.tmapnugumig.sample (tag~:MainApplication|CarAppServiceImpl|NuguClientManager|NuguAuthManager)" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.skt.tmapnugumig.sample (tag~:CarAppServiceImpl|NuguClientManager|NuguAuthManager)" />
+        <option value="package:com.skt.tmapnugumig.sample (tag~:NuguClientManager|NuguAuthManager)" />
         <option value="package:com.skt.tmapnugumig.sample (tag~:NuguTemplateRenderer|NuguTemplates)" />
         <option value="package:com.skt.tmapnugumig.sample (tag~:NuguTemplateRenderer)" />
         <option value="package:com.skt.tmapnugumig.sample (tag~:NuguClientManager|NuguAuthManager|ContactsUploader|NuguTemplateRenderer|MainActivity)" />
@@ -20,7 +23,6 @@
         <option value="package:com.skt.tmapnugumig.sample (tag~:MainApplication|CarAppServiceImpl)" />
         <option value="package:com.skt.tmapnugumig.sample (tag~:MainApplication)" />
         <option value="package:com.skt.tmapnugumig.sample (tag~:NuguClientManager|NuguAuthManager|NuguCredentialsManager)" />
-        <option value="package:com.skt.tmapnugumig.sample (tag~:NuguClientManager|NuguAuthManager)" />
         <option value="package:com.skt.tmapnugumig.sample (tag~:VoiceRecorder|NuguClientManager|MainApplication|CarAppServiceImpl)" />
         <option value="package:com.skt.tmapnugumig.sample (tag~:VoiceRecorder|NuguClientManager|MainApplication)" />
         <option value="package:com.skt.tmapnugumig.sample (tag~:VoiceRecorder|VoiceRecordScreen|CarConnectionObserver|AudioRecordSource)" />
@@ -32,7 +34,6 @@
         <option value="package:com.skt.tmapnugumig.sample | tag~:VoiceRecorder" />
         <option value="package:com.skt.tmapnugumig.sample" />
         <option value="package:com.skt.tmapnugumig.sample tag~:TmapNuguMigSample" />
-        <option value="package:com.skt.tmapnugumig.sample tag~:MainApplication|CarAppServiceImpl" />
       </list>
     </option>
   </component>
