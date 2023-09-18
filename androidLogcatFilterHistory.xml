@@ -10,9 +10,13 @@
         <option value="package:com.skt.aidev.nugustb level:error " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:com.skt.tmapnugumig.sample (tag~:NuguClientManager|NuguAuthManager|ContactsUploader)" />
+    <option name="mostRecentlyUsed" value="package:com.skt.tmapnugumig.sample (tag~:NuguTemplateRenderer|NuguTemplates)" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.skt.tmapnugumig.sample (tag~:NuguTemplateRenderer|NuguTemplates)" />
+        <option value="package:com.skt.tmapnugumig.sample (tag~:NuguTemplateRenderer)" />
+        <option value="package:com.skt.tmapnugumig.sample (tag~:NuguClientManager|NuguAuthManager|ContactsUploader|NuguTemplateRenderer|MainActivity)" />
+        <option value="package:com.skt.tmapnugumig.sample (tag~:NuguClientManager|NuguAuthManager|ContactsUploader|NuguTemplateRenderer)" />
         <option value="package:com.skt.tmapnugumig.sample (tag~:MainApplication|CarAppServiceImpl)" />
         <option value="package:com.skt.tmapnugumig.sample (tag~:MainApplication)" />
         <option value="package:com.skt.tmapnugumig.sample (tag~:NuguClientManager|NuguAuthManager|NuguCredentialsManager)" />
@@ -29,10 +33,6 @@
         <option value="package:com.skt.tmapnugumig.sample" />
         <option value="package:com.skt.tmapnugumig.sample tag~:TmapNuguMigSample" />
         <option value="package:com.skt.tmapnugumig.sample tag~:MainApplication|CarAppServiceImpl" />
-        <option value="package:com.skt.tmapnugumig.sample tag~:MainApplication|" />
-        <option value="tag~:NuguPhoneCallClient|NuguTemplate" />
-        <option value="package~:com.example.android.cars.places tag~:PlacesCarAppService" />
-        <option value="package~:com.example.android.cars.places" />
       </list>
     </option>
   </component>
