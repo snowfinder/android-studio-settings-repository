@@ -2,15 +2,15 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="favorites">
       <list>
-        <option value="package:com.skt.tmapnugumig.sample (tag~:NuguClientManager|NuguAuthManager|ContactsUploader)" />
         <option value="package:com.skt.tmapnugumig.sample " />
+        <option value="package:com.skt.tmapnugumig.sample (tag~:NuguClientManager|NuguAuthManager|ContactsUploader)" />
         <option value="level:error " />
         <option value="package:com.skt.eaa.assistant level:error " />
         <option value="package:com.skt.aidev.nugustb" />
         <option value="package:com.skt.aidev.nugustb level:error " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:com.skt.tmapnugumig.sample (tag~:NuguTemplateRenderer|NuguTemplates)" />
+    <option name="mostRecentlyUsed" value="package:com.skt.tmapnugumig.sample " />
     <option name="nonFavorites">
       <list>
         <option value="package:com.skt.tmapnugumig.sample (tag~:NuguTemplateRenderer|NuguTemplates)" />
