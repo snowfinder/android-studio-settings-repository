@@ -2,6 +2,7 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="favorites">
       <list>
+        <option value="package:com.skt.tmapnugumig.sample (tag~:NuguClientManager|NuguAuthManager|ContactsUploader)" />
         <option value="package:com.skt.tmapnugumig.sample " />
         <option value="level:error " />
         <option value="package:com.skt.eaa.assistant level:error " />
@@ -9,9 +10,11 @@
         <option value="package:com.skt.aidev.nugustb level:error " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:com.skt.tmapnugumig.sample (tag~:NuguClientManager|NuguAuthManager|NuguCredentialsManager)" />
+    <option name="mostRecentlyUsed" value="package:com.skt.tmapnugumig.sample (tag~:MainApplication|CarAppServiceImpl)" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.skt.tmapnugumig.sample (tag~:MainApplication|CarAppServiceImpl)" />
+        <option value="package:com.skt.tmapnugumig.sample (tag~:MainApplication)" />
         <option value="package:com.skt.tmapnugumig.sample (tag~:NuguClientManager|NuguAuthManager|NuguCredentialsManager)" />
         <option value="package:com.skt.tmapnugumig.sample (tag~:NuguClientManager|NuguAuthManager)" />
         <option value="package:com.skt.tmapnugumig.sample (tag~:VoiceRecorder|NuguClientManager|MainApplication|CarAppServiceImpl)" />
@@ -30,8 +33,6 @@
         <option value="tag~:NuguPhoneCallClient|NuguTemplate" />
         <option value="package~:com.example.android.cars.places tag~:PlacesCarAppService" />
         <option value="package~:com.example.android.cars.places" />
-        <option value="input" />
-        <option value="action" />
       </list>
     </option>
   </component>
