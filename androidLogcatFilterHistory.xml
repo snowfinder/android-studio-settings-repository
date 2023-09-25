@@ -11,9 +11,11 @@
         <option value="package:com.skt.aidev.nugustb level:error " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:com.skt.tmapnugumig.sample (tag~:MainApplication|NuguClientManager|NuguAudioSourceManager|AudioRecordSource|CarAppServiceImpl|VoiceRecordScreen|TNMsample::MainActivity)" />
+    <option name="mostRecentlyUsed" value="Carapp" />
     <option name="nonFavorites">
       <list>
+        <option value="Carapp" />
+        <option value="template" />
         <option value="package:com.skt.tmapnugumig.sample (tag~:NuguClientManager|NuguAudioSourceManager|AudioRecordSource)" />
         <option value="package:com.skt.tmapnugumig.sample (tag~:NuguAudioSourceManager|AudioRecordSource)" />
         <option value="package:com.skt.tmapnugumig.sample (tag~:NuguAudioSourceManager)" />
@@ -32,8 +34,6 @@
         <option value="package:com.skt.tmapnugumig.sample (tag~:MainApplication|CarAppServiceImpl|NuguClientManager|AndroidAutoAudioRecordSource|VoiceRecordScreen|TNMsample::MainActivity)" />
         <option value="CarAudio" />
         <option value="package:com.skt.tmapnugumig.sample (tag~:CarAppServiceImpl)" />
-        <option value="tag~:DisplayAudioPlayerLayout|TemplateMediaHandler" />
-        <option value="tag~:DisplayAudioPlayerLayout|NuguTemplateHandler" />
       </list>
     </option>
   </component>
