@@ -55,6 +55,11 @@
           <option name="propertyType" value="true" />
         </Settings>
       </kotlin.kotlin.references.types.hints>
+      <kotlin.kotlin.lambdas.hints>
+        <Settings>
+          <option name="implicitReceiversAndParams" value="false" />
+        </Settings>
+      </kotlin.kotlin.lambdas.hints>
     </settingsMapElement>
   </component>
   <component name="JavaCodeFoldingSettings">
