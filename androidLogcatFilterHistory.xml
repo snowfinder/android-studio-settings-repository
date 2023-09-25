@@ -14,6 +14,7 @@
     <option name="mostRecentlyUsed" value="package:com.skt.tmapnugumig.sample " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.skt.tmapnugumig.sample (tag~:CarAppServiceImpl|NuguClientManager|NuguAudioSourceManager|AudioRecordSource)" />
         <option value="Carapp" />
         <option value="template" />
         <option value="package:com.skt.tmapnugumig.sample (tag~:NuguClientManager|NuguAudioSourceManager|AudioRecordSource)" />
@@ -33,7 +34,6 @@
         <option value="package:com.skt.tmapnugumig.sample (tag~:MainApplication|CarAppServiceImpl|NuguClientManager|AndroidAutoAudioRecordSource|ARecordSourceFactory|VoiceRecordScreen|TNMsample::MainActivity)" />
         <option value="package:com.skt.tmapnugumig.sample (tag~:MainApplication|CarAppServiceImpl|NuguClientManager|AndroidAutoAudioRecordSource|VoiceRecordScreen|TNMsample::MainActivity)" />
         <option value="CarAudio" />
-        <option value="package:com.skt.tmapnugumig.sample (tag~:CarAppServiceImpl)" />
       </list>
     </option>
   </component>
