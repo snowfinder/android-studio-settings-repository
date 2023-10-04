@@ -3,6 +3,7 @@
     <option name="favorites">
       <list>
         <option value="level:error " />
+        <option value="package:com.skt.tmapnugumig.sample level:error " />
         <option value="package:com.skt.tmapnugumig.sample (tag~:MainApplication|NuguClientManager|NuguAudioSourceManager|AudioRecordSource|CarAppServiceImpl|VoiceRecordScreen|TNMsample::MainActivity)" />
         <option value="package:com.skt.tmapnugumig.sample " />
         <option value="package:com.skt.eaa.assistant" />
@@ -33,7 +34,6 @@
         <option value="package:com.skt.tmapnugumig.sample (tag~:CarAppServiceImpl|NuguClientManager|NuguAudioSourceManager|AudioRecordSource)" />
         <option value="package:com.skt.tmapnugumig.sample message~:onReceiveTTSText" />
         <option value="package:com.skt.tmapnugumig.sample message~:tts" />
-        <option value="package:com.skt.tmapnugumig.sample tag~:CarAppServiceImpl" />
       </list>
     </option>
   </component>
