@@ -11,9 +11,12 @@
         <option value="package:com.skt.aidev.nugustb level:error " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="tag~:GH.|CAR." />
     <option name="nonFavorites">
       <list>
+        <option value="tag~:GH.|CAR." />
+        <option value="tag~:GH.|Recording" />
+        <option value="stop recor" />
         <option value="package:com.skt.tmapnugumig.sample (tag~:MainApplication|NuguClientManager|NuguAudioSourceManager|AudioRecordSource|CarAppServiceImpl|VoiceRecordScreen|TNMsample::MainActivity|NuguScreen)" />
         <option value="package:com.skt.tmapnugumig.sample (tag~:MainApplication|NuguClientManager|NuguAudioSourceManager|AudioRecordSource|CarAppServiceImpl|VoiceRecordScreen|TNMsample::MainActivity|OggOpusEncoder|SpeexEncoder)" />
         <option value="package:com.skt.tmapnugumig.sample (tag~:MainApplication|NuguClientManager|NuguAudioSourceManager|AudioRecordSource|CarAppServiceImpl|VoiceRecordScreen|TNMsample::MainActivity|OggOpusEncoder)" />
@@ -31,9 +34,6 @@
         <option value="package:com.skt.tmapnugumig.sample message~:onReceiveTTSText" />
         <option value="package:com.skt.tmapnugumig.sample message~:tts" />
         <option value="package:com.skt.tmapnugumig.sample tag~:CarAppServiceImpl" />
-        <option value="package:com.skt.tmapnugumig.sample tag~:NuguScreen" />
-        <option value="package:com.skt.tmapnugumig.sample message~:오후" />
-        <option value="Carapp" />
       </list>
     </option>
   </component>
