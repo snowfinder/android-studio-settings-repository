@@ -2,18 +2,21 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="favorites">
       <list>
-        <option value="package:com.skt.eaa.assistant level:error " />
-        <option value="package:com.skt.eaa.assistant" />
-        <option value="package:com.skt.tmapnugumig.sample " />
         <option value="package:com.skt.tmapnugumig.sample (tag~:MainApplication|NuguClientManager|NuguAudioSourceManager|AudioRecordSource|CarAppServiceImpl|VoiceRecordScreen|TNMsample::MainActivity)" />
+        <option value="package:com.skt.tmapnugumig.sample " />
+        <option value="package:com.skt.eaa.assistant" />
+        <option value="package:com.skt.eaa.assistant level:error " />
         <option value="level:error " />
         <option value="package:com.skt.aidev.nugustb" />
         <option value="package:com.skt.aidev.nugustb level:error " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:com.skt.eaa.assistant" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.skt.tmapnugumig.sample (tag~:MainApplication|NuguClientManager|NuguAudioSourceManager|AudioRecordSource|CarAppServiceImpl|VoiceRecordScreen|TNMsample::MainActivity|NuguScreen)" />
+        <option value="package:com.skt.tmapnugumig.sample (tag~:MainApplication|NuguClientManager|NuguAudioSourceManager|AudioRecordSource|CarAppServiceImpl|VoiceRecordScreen|TNMsample::MainActivity|OggOpusEncoder|SpeexEncoder)" />
+        <option value="package:com.skt.tmapnugumig.sample (tag~:MainApplication|NuguClientManager|NuguAudioSourceManager|AudioRecordSource|CarAppServiceImpl|VoiceRecordScreen|TNMsample::MainActivity|OggOpusEncoder)" />
         <option value="(tag~:MainApplication|NuguClientManager|NuguAudioSourceManager|AudioRecordSource|CarAppServiceImpl|VoiceRecordScreen|TNMsample::MainActivity)" />
         <option value="CarAppServiceImpl" />
         <option value="Carappver" />
@@ -31,8 +34,6 @@
         <option value="package:com.skt.tmapnugumig.sample tag~:NuguScreen" />
         <option value="package:com.skt.tmapnugumig.sample message~:오후" />
         <option value="Carapp" />
-        <option value="template" />
-        <option value="package:com.skt.tmapnugumig.sample (tag~:NuguClientManager|NuguAudioSourceManager|AudioRecordSource)" />
       </list>
     </option>
   </component>
