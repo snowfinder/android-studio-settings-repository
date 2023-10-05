@@ -16,6 +16,15 @@
     <option name="nonFavorites">
       <list>
         <option value="tag~:CarAudioRecordSource|NuguAudioSourceManager|NuguClientManager" />
+        <option value="MediaFocusControl" />
+        <option value="audiofocus" />
+        <option value="audio" />
+        <option value="intent" />
+        <option value="car" />
+        <option value="NotificationService" />
+        <option value="tmap" />
+        <option value="package:com.skt.tmapnugumig.sample tag~:CarAppServiceImpl" />
+        <option value="CarAppServiceImpl" />
         <option value="tag~:CarAudioRecordSource|NuguClientManager" />
         <option value="tag~:CarAudioRecordSource|NuguClientMan" />
         <option value="tag~:CarAudioRecordSource" />
@@ -26,15 +35,6 @@
         <option value="stop recor" />
         <option value="package:com.skt.tmapnugumig.sample (tag~:MainApplication|NuguClientManager|NuguAudioSourceManager|AudioRecordSource|CarAppServiceImpl|VoiceRecordScreen|TNMsample::MainActivity|OggOpusEncoder|SpeexEncoder)" />
         <option value="package:com.skt.tmapnugumig.sample (tag~:MainApplication|NuguClientManager|NuguAudioSourceManager|AudioRecordSource|CarAppServiceImpl|VoiceRecordScreen|TNMsample::MainActivity|OggOpusEncoder)" />
-        <option value="(tag~:MainApplication|NuguClientManager|NuguAudioSourceManager|AudioRecordSource|CarAppServiceImpl|VoiceRecordScreen|TNMsample::MainActivity)" />
-        <option value="CarAppServiceImpl" />
-        <option value="Carappver" />
-        <option value="package:com.skt.tmapnugumig.sample" />
-        <option value="tag~:G" />
-        <option value="tag~:GH.IntentProcessor" />
-        <option value="tag~:GH" />
-        <option value="dial" />
-        <option value="contact|phone|call" />
       </list>
     </option>
   </component>
