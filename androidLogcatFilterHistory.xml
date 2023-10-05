@@ -12,12 +12,13 @@
         <option value="package:com.skt.aidev.nugustb level:error " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag~:CarAudioRecordSource" />
+    <option name="mostRecentlyUsed" value="tag~:CarAudioRecordSource|NuguAudioSourceManager|NuguClientManager" />
     <option name="nonFavorites">
       <list>
-        <option value="tag~:CarAudioRecordSource" />
         <option value="tag~:CarAudioRecordSource|NuguAudioSourceManager|NuguClientManager" />
         <option value="tag~:CarAudioRecordSource|NuguClientManager" />
+        <option value="tag~:CarAudioRecordSource|NuguClientMan" />
+        <option value="tag~:CarAudioRecordSource" />
         <option value="CarAudioRecordSource" />
         <option value="package:com.skt.tmapnugumig.sample (tag~:MainApplication|NuguClientManager|NuguAudioSourceManager|AudioRecordSource|CarAppServiceImpl|VoiceRecordScreen|TNMsample::MainActivity|NuguScreen)" />
         <option value="tag~:GH.|CAR." />
@@ -34,7 +35,6 @@
         <option value="tag~:GH" />
         <option value="dial" />
         <option value="contact|phone|call" />
-        <option value="Car" />
       </list>
     </option>
   </component>
